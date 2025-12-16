@@ -1,0 +1,952 @@
+{
+  "agatha": [
+    {
+      "confidence": "low",
+      "state_id": "agatha_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "aged_cottager": [
+    {
+      "confidence": "low",
+      "state_id": "aged_cottager_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "al_haines": [
+    {
+      "confidence": "low",
+      "state_id": "al_haines_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "alps": [
+    {
+      "confidence": "low",
+      "state_id": "alps_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "angel_of_destruction": [
+    {
+      "confidence": "low",
+      "state_id": "angel_of_destruction_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "arabian": [
+    {
+      "confidence": "low",
+      "state_id": "arabian_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "arve": [
+    {
+      "confidence": "low",
+      "state_id": "arve_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "austrian": [
+    {
+      "confidence": "low",
+      "state_id": "austrian_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "beaufort": [
+    {
+      "confidence": "low",
+      "state_id": "beaufort_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "blackbird": [
+    {
+      "confidence": "low",
+      "state_id": "blackbird_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "caroline": [
+    {
+      "confidence": "low",
+      "state_id": "caroline_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "cornelius_agrippa": [
+    {
+      "confidence": "low",
+      "state_id": "cornelius_agrippa_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "dæmon": [
+    {
+      "confidence": "low",
+      "state_id": "dæmon_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "daniel": [
+    {
+      "confidence": "low",
+      "state_id": "daniel_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "daniel_nugent": [
+    {
+      "confidence": "low",
+      "state_id": "daniel_nugent_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "de_lacey": [
+    {
+      "confidence": "low",
+      "state_id": "de_lacey_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "elizabeth": [
+    {
+      "confidence": "low",
+      "state_id": "elizabeth_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "elizabeth_lavenza": [
+    {
+      "confidence": "low",
+      "state_id": "elizabeth_lavenza_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "ernest": [
+    {
+      "confidence": "low",
+      "state_id": "ernest_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "fair_creature": [
+    {
+      "confidence": "low",
+      "state_id": "fair_creature_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "felix": [
+    {
+      "confidence": "low",
+      "state_id": "felix_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "fishermen": [
+    {
+      "confidence": "low",
+      "state_id": "fishermen_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "frankenstein": [
+    {
+      "confidence": "low",
+      "state_id": "frankenstein_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "greeks": [
+    {
+      "confidence": "low",
+      "state_id": "greeks_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "hampden": [
+    {
+      "confidence": "low",
+      "state_id": "hampden_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "henry": [
+    {
+      "confidence": "low",
+      "state_id": "henry_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "henry_clerval": [
+    {
+      "confidence": "low",
+      "state_id": "henry_clerval_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    },
+    {
+      "confidence": "high",
+      "state_id": "henry_clerval_state_002",
+      "traits": {
+        "clothing": null,
+        "condition": "pale",
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "his_companion": [
+    {
+      "confidence": "low",
+      "state_id": "his_companion_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "i": [
+    {
+      "confidence": "low",
+      "state_id": "i_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "internal_revenue_service": [
+    {
+      "confidence": "low",
+      "state_id": "internal_revenue_service_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "justine": [
+    {
+      "confidence": "low",
+      "state_id": "justine_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    },
+    {
+      "confidence": "high",
+      "state_id": "justine_state_002",
+      "traits": {
+        "clothing": "mourning",
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "justine_moritz": [
+    {
+      "confidence": "low",
+      "state_id": "justine_moritz_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "m_krempe": [
+    {
+      "confidence": "low",
+      "state_id": "m_krempe_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "m_moritz": [
+    {
+      "confidence": "low",
+      "state_id": "m_moritz_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "m_waldman": [
+    {
+      "confidence": "low",
+      "state_id": "m_waldman_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "madame_moritz": [
+    {
+      "confidence": "low",
+      "state_id": "madame_moritz_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "magistrate": [
+    {
+      "confidence": "low",
+      "state_id": "magistrate_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "manon": [
+    {
+      "confidence": "low",
+      "state_id": "manon_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "margaret": [
+    {
+      "confidence": "low",
+      "state_id": "margaret_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "menno_de_leeuw": [
+    {
+      "confidence": "low",
+      "state_id": "menno_de_leeuw_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "monster": [
+    {
+      "confidence": "low",
+      "state_id": "monster_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "mr_kirwin": [
+    {
+      "confidence": "low",
+      "state_id": "mr_kirwin_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    },
+    {
+      "confidence": "high",
+      "state_id": "mr_kirwin_state_002",
+      "traits": {
+        "clothing": null,
+        "condition": "exhausted",
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "my_creator": [
+    {
+      "confidence": "low",
+      "state_id": "my_creator_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "my_father": [
+    {
+      "confidence": "low",
+      "state_id": "my_father_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "old_man": [
+    {
+      "confidence": "low",
+      "state_id": "old_man_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "person": [
+    {
+      "confidence": "low",
+      "state_id": "person_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "plutarch": [
+    {
+      "confidence": "low",
+      "state_id": "plutarch_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "poor_wretch": [
+    {
+      "confidence": "low",
+      "state_id": "poor_wretch_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "professor_krempe": [
+    {
+      "confidence": "low",
+      "state_id": "professor_krempe_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "professor_michael_s_hart": [
+    {
+      "confidence": "low",
+      "state_id": "professor_michael_s_hart_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "project_gutenberg_volunteers_and_employees": [
+    {
+      "confidence": "low",
+      "state_id": "project_gutenberg_volunteers_and_employees_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "r_walton": [
+    {
+      "confidence": "low",
+      "state_id": "r_walton_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    },
+    {
+      "confidence": "high",
+      "state_id": "r_walton_state_002",
+      "traits": {
+        "clothing": null,
+        "condition": "exhausted",
+        "hair": null,
+        "notes": []
+      }
+    },
+    {
+      "confidence": "high",
+      "state_id": "r_walton_state_003",
+      "traits": {
+        "clothing": null,
+        "condition": "ill",
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "robert_walton": [
+    {
+      "confidence": "low",
+      "state_id": "robert_walton_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "safie": [
+    {
+      "confidence": "low",
+      "state_id": "safie_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "some_one": [
+    {
+      "confidence": "low",
+      "state_id": "some_one_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "sparrow": [
+    {
+      "confidence": "low",
+      "state_id": "sparrow_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_being": [
+    {
+      "confidence": "low",
+      "state_id": "the_being_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_family": [
+    {
+      "confidence": "low",
+      "state_id": "the_family_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_fiend": [
+    {
+      "confidence": "low",
+      "state_id": "the_fiend_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_foundation": [
+    {
+      "confidence": "low",
+      "state_id": "the_foundation_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_girl": [
+    {
+      "confidence": "low",
+      "state_id": "the_girl_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_murderer": [
+    {
+      "confidence": "low",
+      "state_id": "the_murderer_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_old_man": [
+    {
+      "confidence": "low",
+      "state_id": "the_old_man_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_turk": [
+    {
+      "confidence": "low",
+      "state_id": "the_turk_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_young_girl": [
+    {
+      "confidence": "low",
+      "state_id": "the_young_girl_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_young_man": [
+    {
+      "confidence": "low",
+      "state_id": "the_young_man_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_young_woman": [
+    {
+      "confidence": "low",
+      "state_id": "the_young_woman_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "the_younger_cottagers": [
+    {
+      "confidence": "low",
+      "state_id": "the_younger_cottagers_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "thrush": [
+    {
+      "confidence": "low",
+      "state_id": "thrush_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "victor": [
+    {
+      "confidence": "low",
+      "state_id": "victor_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "william": [
+    {
+      "confidence": "low",
+      "state_id": "william_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "young_girl": [
+    {
+      "confidence": "low",
+      "state_id": "young_girl_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "young_man": [
+    {
+      "confidence": "low",
+      "state_id": "young_man_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "young_woman": [
+    {
+      "confidence": "low",
+      "state_id": "young_woman_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ],
+  "youth": [
+    {
+      "confidence": "low",
+      "state_id": "youth_state_001",
+      "traits": {
+        "clothing": null,
+        "condition": null,
+        "hair": null,
+        "notes": []
+      }
+    }
+  ]
+}

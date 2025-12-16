@@ -1,0 +1,4878 @@
+{
+  "scenes": [
+    {
+      "actions": [
+        {
+          "action": "sat in the sledge",
+          "character_id": "the_being"
+        },
+        {
+          "action": "guided the dogs",
+          "character_id": "the_being"
+        },
+        {
+          "action": "pass[ed] on towards the north",
+          "character_id": "the_being"
+        },
+        {
+          "action": "was within [a sledge] which had drifted towards us",
+          "character_id": "person"
+        },
+        {
+          "action": "addressed me in English",
+          "character_id": "person"
+        },
+        {
+          "action": "asked \"will you have the kindness to inform me whither you are bound?\"",
+          "character_id": "person"
+        }
+      ],
+      "characters_present": [
+        "person",
+        "the_being"
+      ],
+      "location": "ship on the sea surrounded by ice",
+      "order": 11,
+      "scene_id": "scene_011",
+      "source_chunks": [
+        7
+      ],
+      "time": "Last Monday (July 31st)"
+    },
+    {
+      "actions": [
+        {
+          "action": "died in her arms",
+          "character_id": "beaufort"
+        },
+        {
+          "action": "knelt by Beaufort’s coffin weeping bitterly",
+          "character_id": "caroline"
+        },
+        {
+          "action": "entered the chamber",
+          "character_id": "my_father"
+        }
+      ],
+      "characters_present": [
+        "beaufort",
+        "caroline",
+        "my_father"
+      ],
+      "location": "chamber",
+      "order": 19,
+      "scene_id": "scene_019",
+      "source_chunks": [
+        14
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "returned from Milan",
+          "character_id": "my_father"
+        },
+        {
+          "action": "found playing with me in the hall a child fairer than pictured cherub",
+          "character_id": "my_father"
+        },
+        {
+          "action": "playing with me in the hall",
+          "character_id": "elizabeth_lavenza"
+        },
+        {
+          "action": "interpreted her words literally",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "looked upon Elizabeth as mine to protect, love, and cherish",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "elizabeth_lavenza",
+        "my_father"
+      ],
+      "location": "hall of our villa",
+      "order": 25,
+      "scene_id": "scene_025",
+      "source_chunks": [
+        16
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "mingled with other families and discerned how peculiarly fortunate my lot was",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had an eager desire to learn the secrets of heaven and earth",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "felt exquisite pleasure in dwelling on the recollections of childhood",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "recorded those events which led, by insensible steps, to my after tale of misery",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "occupied himself with the moral relations of things",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "made the busy stage of life, the virtues of heroes, and the actions of men his theme",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "shone like a shrine-dedicated lamp in our peaceful home",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was there to subdue me to a semblance of her own gentleness",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "unfolded to him the real loveliness of beneficence and made the doing good the end and aim of his soaring ambition",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "record those events which led, by insensible steps, to my after tale of misery",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "account to myself for the birth of that passion which afterwards ruled my destiny",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "find it arise, like a mountain river, from ignoble and almost forgotten sources",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "took their word for all that they averred",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "became their disciple",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "entered with the greatest diligence into the search of the philosopher’s stone and the elixir of life",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "gave undivided attention to the elixir of life",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "sought the raising of ghosts or devils",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "attributed the failure of incantations to my own inexperience and mistake",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was occupied by exploded systems, mingling a thousand contradictory theories and floundering in multifarious knowledge",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "henry_clerval"
+      ],
+      "location": null,
+      "order": 27,
+      "scene_id": "scene_027",
+      "source_chunks": [
+        18,
+        19,
+        20
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "returned home",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "first care was to procure the whole works of this author, and afterwards of Paracelsus and Albertus Magnus",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "read and studied the wild fancies of these writers with delight",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "always came from my studies discontented and unsatisfied",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "home",
+      "order": 29,
+      "scene_id": "scene_029",
+      "source_chunks": [
+        19
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "witnessed a most violent and terrible thunderstorm",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "remained watching its progress with curiosity and delight",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stood at the door",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "beheld a stream of fire issue from an old and beautiful oak",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "our house near Belrive",
+      "order": 30,
+      "scene_id": "scene_030",
+      "source_chunks": [
+        20
+      ],
+      "time": "When I was about fifteen years old"
+    },
+    {
+      "actions": [
+        {
+          "action": "remained watching its progress with curiosity and delight",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stood at the door",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "beheld a stream of fire issue from an old and beautiful oak",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "never beheld anything so utterly destroyed",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "at once gave up my former occupations",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "betook myself to the mathematics and the branches of study appertaining to that science",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "door",
+      "order": 31,
+      "scene_id": "scene_031",
+      "source_chunks": [
+        21
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "obtained from my father a respite of some weeks",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "veiled her grief and strove to act the comforter to us all",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "looked steadily on life and assumed its duties with courage and zeal",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "devoted herself to those whom she had been taught to call her uncle and cousins",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "my_father"
+      ],
+      "location": "house of mourning",
+      "order": 34,
+      "scene_id": "scene_034",
+      "source_chunks": [
+        23
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "thought of the information which M. Krempe had given me concerning the lectures",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "could not consent to go and hear that little conceited fellow deliver sentences out of a pulpit",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "recollected what he had said of M. Waldman, whom I had never seen",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "went into the lecturing room",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "entered shortly after",
+          "character_id": "m_waldman"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "m_waldman"
+      ],
+      "location": "lecturing room",
+      "order": 40,
+      "scene_id": "scene_040",
+      "source_chunks": [
+        25
+      ],
+      "time": "as the ensuing week commenced"
+    },
+    {
+      "actions": [
+        {
+          "action": "went into the lecturing room",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "recollected what M. Krempe had given me concerning the lectures",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "entered shortly after",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "began his lecture by a recapitulation of the history of chemistry and the various improvements made by different men of learning",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "took a cursory view of the present state of the science and explained many of its elementary terms",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "made a few preparatory experiments",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "concluded with a panegyric upon modern chemistry",
+          "character_id": "m_waldman"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "m_waldman"
+      ],
+      "location": "lecturing room",
+      "order": 41,
+      "scene_id": "scene_041",
+      "source_chunks": [
+        26
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "felt as if my soul were grappling with a palpable enemy",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "mind was filled with one thought, one conception, one purpose",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "closed not my eyes that night",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "sleep came",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "awoke",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "There only remained a resolution to return to my ancient studies and to devote myself to a science for which I believed myself to pos",
+          "character_id": "frankenstein"
+        }
+      ],
+      "characters_present": [
+        "frankenstein"
+      ],
+      "location": null,
+      "order": 42,
+      "scene_id": "scene_042",
+      "source_chunks": [
+        26
+      ],
+      "time": "night to morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "took me into his laboratory",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "explained to me the uses of his various machines",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "instructed me as to what I ought to procure",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "promised me the use of his own when I should have advanced far enough in the science not to derange their mechanism",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "gave me the list of books which I had requested",
+          "character_id": "m_waldman"
+        }
+      ],
+      "characters_present": [
+        "m_waldman"
+      ],
+      "location": "his laboratory",
+      "order": 44,
+      "scene_id": "scene_044",
+      "source_chunks": [
+        27
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "often asked me, with a sly smile, how Cornelius Agrippa went on",
+          "character_id": "professor_krempe"
+        },
+        {
+          "action": "expressed the most heartfelt exultation in my progress",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "smoothed for me the path of knowledge and made the most abstruse inquiries clear and facile to my apprehension",
+          "character_id": "m_waldman"
+        }
+      ],
+      "characters_present": [
+        "m_krempe",
+        "m_waldman",
+        "professor_krempe"
+      ],
+      "location": "university",
+      "order": 46,
+      "scene_id": "scene_046",
+      "source_chunks": [
+        28
+      ],
+      "time": "two years"
+    },
+    {
+      "actions": [
+        {
+          "action": "had been buried with the dead and found a passage to life",
+          "character_id": "arabian"
+        }
+      ],
+      "characters_present": [
+        "arabian"
+      ],
+      "location": null,
+      "order": 47,
+      "scene_id": "scene_047",
+      "source_chunks": [
+        29,
+        30
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "beheld the accomplishment of my toils",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "collected the instruments of life around me",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "infuse a spark of being into the lifeless thing that lay at my feet",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "saw the dull yellow eye of the creature open",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "opened its dull yellow eye",
+          "character_id": "monster"
+        },
+        {
+          "action": "breathed hard",
+          "character_id": "monster"
+        },
+        {
+          "action": "a convulsive motion agitated its limbs",
+          "character_id": "monster"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "monster"
+      ],
+      "location": null,
+      "order": 51,
+      "scene_id": "scene_051",
+      "source_chunks": [
+        33
+      ],
+      "time": "a dreary night of November; one in the morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "collected the instruments of life around me",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "might infuse a spark of being into the lifeless thing that lay at my feet",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "opened its dull yellow eye",
+          "character_id": "monster"
+        },
+        {
+          "action": "breathed hard",
+          "character_id": "monster"
+        },
+        {
+          "action": "a convulsive motion agitated its limbs",
+          "character_id": "monster"
+        },
+        {
+          "action": "rushed out of the room",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "monster"
+      ],
+      "location": null,
+      "order": 52,
+      "scene_id": "scene_052",
+      "source_chunks": [
+        34
+      ],
+      "time": "one in the morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "continued a long time traversing my bed-chamber",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "threw myself on the bed in my clothes",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "slept",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "thought I saw Elizabeth, in the bloom of health, walking in the streets of Ingolstadt",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "embraced her",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "imprinted the first kiss on her lips",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "became livid with the hue of death",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "started from my sleep with horror",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "held up the curtain of the bed",
+          "character_id": "monster"
+        },
+        {
+          "action": "had eyes ... fixed on me",
+          "character_id": "monster"
+        },
+        {
+          "action": "his jaws opened",
+          "character_id": "monster"
+        },
+        {
+          "action": "muttered some inarticulate sounds",
+          "character_id": "monster"
+        },
+        {
+          "action": "a grin wrinkled his cheeks",
+          "character_id": "monster"
+        },
+        {
+          "action": "one hand was stretched out, seemingly to detain me",
+          "character_id": "monster"
+        },
+        {
+          "action": "escaped",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "rushed downstairs",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "monster"
+      ],
+      "location": "bed-chamber",
+      "order": 53,
+      "scene_id": "scene_053",
+      "source_chunks": [
+        34
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "took refuge in the courtyard belonging to the hous",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "courtyard",
+      "order": 54,
+      "scene_id": "scene_054",
+      "source_chunks": [
+        34
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "held up the curtain of the bed",
+          "character_id": "monster"
+        },
+        {
+          "action": "his eyes were fixed on me",
+          "character_id": "monster"
+        },
+        {
+          "action": "His jaws opened",
+          "character_id": "monster"
+        },
+        {
+          "action": "he muttered some inarticulate sounds",
+          "character_id": "monster"
+        },
+        {
+          "action": "a grin wrinkled his cheeks",
+          "character_id": "monster"
+        },
+        {
+          "action": "one hand was stretched out, seemingly to detain me",
+          "character_id": "monster"
+        },
+        {
+          "action": "escaped and rushed downstairs",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "monster"
+      ],
+      "location": "bed",
+      "order": 55,
+      "scene_id": "scene_055",
+      "source_chunks": [
+        35
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "took refuge in the courtyard",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "remained during the rest of the night, walking up and down in the greatest agitation",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "listening attentively",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "catching and fearing each sound as if it were to announce the approach of the demoniacal corpse",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "courtyard belonging to the house which I inhabited",
+      "order": 56,
+      "scene_id": "scene_056",
+      "source_chunks": [
+        35
+      ],
+      "time": "night"
+    },
+    {
+      "actions": [
+        {
+          "action": "continued talking for some time about our mutual friends and his own good fortune in being permitted to come to Ingolstadt",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "stopped short and gazed full in my face",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "remarked how very ill you appear; so thin and pale; you look as if you had been watching for several nights",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "answered that he had lately been so deeply engaged in one occupation that he had not allowed himself sufficient rest",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "trembled excessively",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "could not endure to think of the occurrences of the preceding night",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "walked with a quick pace",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "reflected that the creature whom I had left in my apartment might still be there, alive and walking about",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "dreaded to behold this monster",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "remained a few minutes at the bottom of the stairs",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "observed me more attentively",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "asked what was the matter and expressed concern about my laughing",
+          "character_id": "henry_clerval"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "henry_clerval"
+      ],
+      "location": "my college",
+      "order": 59,
+      "scene_id": "scene_059",
+      "source_chunks": [
+        36,
+        37
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "cried \"D—n the fellow!\"",
+          "character_id": "m_krempe"
+        },
+        {
+          "action": "addressed M. Clerval: \"why, M. Clerval, I assure you he has outstript us all.\"",
+          "character_id": "m_krempe"
+        },
+        {
+          "action": "commenced an eulogy on himself",
+          "character_id": "m_krempe"
+        },
+        {
+          "action": "gave benevolent approbation",
+          "character_id": "m_waldman"
+        },
+        {
+          "action": "had never sympathised in my tastes for natural science",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "came to the university with the design of making himself complete master of the oriental languages",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "loved him with a mixture of affection and reverence",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "could never persuade myself to confide in him that event",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was easily induced to enter on the same studies",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "frankenstein",
+        "henry_clerval",
+        "m_krempe",
+        "m_waldman"
+      ],
+      "location": "university",
+      "order": 65,
+      "scene_id": "scene_065",
+      "source_chunks": [
+        43
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "proposed a pedestrian tour in the environs of Ingolstadt",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "acceded with pleasure to this proposition",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "passed a fortnight in these perambulations",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "health and spirits had long been restored",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "health and spirits gained additional strength from the salubrious air I breathed",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "called forth the better feelings of my heart",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "taught me to love the aspect of nature, and the cheerful faces of children",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "rejoiced in my gaiety",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "exerted himself to amuse me",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "conversation was full of imagination",
+          "character_id": "henry_clerval"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "henry_clerval"
+      ],
+      "location": "environs of Ingolstadt",
+      "order": 68,
+      "scene_id": "scene_068",
+      "source_chunks": [
+        44
+      ],
+      "time": "May"
+    },
+    {
+      "actions": [
+        {
+          "action": "rejoiced in my gaiety",
+          "character_id": "henry"
+        },
+        {
+          "action": "sincerely sympathised in my feelings",
+          "character_id": "henry"
+        },
+        {
+          "action": "exerted himself to amuse me",
+          "character_id": "henry"
+        },
+        {
+          "action": "invented tales of wonderful fancy and passion",
+          "character_id": "henry"
+        },
+        {
+          "action": "repeated my favourite poems",
+          "character_id": "henry"
+        },
+        {
+          "action": "drew me out into arguments",
+          "character_id": "henry"
+        },
+        {
+          "action": "returned to our college",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "bounded along with feelings of unbridled joy and hilarity",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "henry"
+      ],
+      "location": "our college",
+      "order": 69,
+      "scene_id": "scene_069",
+      "source_chunks": [
+        45
+      ],
+      "time": "Sunday afternoon"
+    },
+    {
+      "actions": [
+        {
+          "action": "went to walk in Plainpalais",
+          "character_id": "my_father"
+        },
+        {
+          "action": "rested on a seat until they should return",
+          "character_id": "my_father"
+        },
+        {
+          "action": "came, and enquired if we had seen his brother",
+          "character_id": "ernest"
+        },
+        {
+          "action": "said that he had been playing with him, that William had run away to hide himself, and that he vainly sought for him, and afterwards waited for a long time, but that he did not return",
+          "character_id": "ernest"
+        },
+        {
+          "action": "had run away to hide himself",
+          "character_id": "william"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "ernest",
+        "my_father",
+        "william"
+      ],
+      "location": "Plainpalais",
+      "order": 71,
+      "scene_id": "scene_071",
+      "source_chunks": [
+        45
+      ],
+      "time": "Last Thursday (May 7th), evening/dusk"
+    },
+    {
+      "actions": [
+        {
+          "action": "continued to search for him until night fell",
+          "character_id": "my_father"
+        },
+        {
+          "action": "conjectured that he might have returned to the house",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "returned again, with torches",
+          "character_id": "my_father"
+        },
+        {
+          "action": "could not rest, when I thought that my sweet boy had lost himself",
+          "character_id": "my_father"
+        },
+        {
+          "action": "suffered extreme anguish",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "discovered my lovely",
+          "character_id": "my_father"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "ernest",
+        "my_father",
+        "william"
+      ],
+      "location": "Plainpalais",
+      "order": 72,
+      "scene_id": "scene_072",
+      "source_chunks": [
+        45
+      ],
+      "time": "night; about five in the morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "hastily examined the neck of the victim",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "clasping her hands exclaimed 'O God! I have murdered my darling child!'",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "fainted",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was restored with extreme difficulty",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had teased her to let him wear a very valuable miniature that she possessed",
+          "character_id": "william"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "william"
+      ],
+      "location": "Geneva",
+      "order": 73,
+      "scene_id": "scene_073",
+      "source_chunks": [
+        46
+      ],
+      "time": "May 12th, 17—."
+    },
+    {
+      "actions": [
+        {
+          "action": "said \"To go instantly to Geneva: come with me, Henry, to order the horses.\"",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "endeavoured to say a few words of consolation",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "expressed his heartfelt sympathy",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "hurried into a cabriolet",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "bade farewell to my friend",
+          "character_id": "frankenstein"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "henry_clerval"
+      ],
+      "location": "streets",
+      "order": 76,
+      "scene_id": "scene_076",
+      "source_chunks": [
+        47
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "did not feel the inconvenience of the weather",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "considered the being whom I had cast among mankind",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had met me at midnight among the precipices of an inaccessible mountain",
+          "character_id": "the_being"
+        },
+        {
+          "action": "directed my steps towards the town",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "hastened to my father's house",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "paused when I reflected on the story that I had to tell",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "resolved to remain silent",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "the_being"
+      ],
+      "location": "open air / towards the town",
+      "order": 81,
+      "scene_id": "scene_081",
+      "source_chunks": [
+        50
+      ],
+      "time": "day dawned"
+    },
+    {
+      "actions": [
+        {
+          "action": "entered my father's house",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "told the servants not to disturb the family",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "went into the library to attend their usual hour of rising",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stood in the same place where I had last embraced my father",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "gazed on the picture of my mother",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "tears flowed when I looked upon it",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "entered",
+          "character_id": "ernest"
+        },
+        {
+          "action": "had heard me arrive",
+          "character_id": "ernest"
+        },
+        {
+          "action": "hastened to welcome me",
+          "character_id": "ernest"
+        },
+        {
+          "action": "said 'Welcome, my dearest Victor,' and spoke of William and Elizabeth",
+          "character_id": "ernest"
+        },
+        {
+          "action": "still remained to me",
+          "character_id": "my_father"
+        },
+        {
+          "action": "shed tears; tears, unrestrained, fell from my brother's eyes",
+          "character_id": "ernest"
+        }
+      ],
+      "characters_present": [
+        "caroline",
+        "elizabeth",
+        "ernest",
+        "my_father",
+        "william"
+      ],
+      "location": "my father's house (library)",
+      "order": 82,
+      "scene_id": "scene_082",
+      "source_chunks": [
+        50
+      ],
+      "time": "about five in the morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "attended as a witness",
+          "character_id": "my_father"
+        },
+        {
+          "action": "attended as witnesses",
+          "character_id": "the_family"
+        },
+        {
+          "action": "accompanied them to the court",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "suffered living torture",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was dressed in mourning",
+          "character_id": "justine"
+        },
+        {
+          "action": "entered the court",
+          "character_id": "justine"
+        },
+        {
+          "action": "threw her eyes round it and quickly discovered where we were seated",
+          "character_id": "justine"
+        },
+        {
+          "action": "a tear seemed to dim her eye",
+          "character_id": "justine"
+        },
+        {
+          "action": "recovered herself",
+          "character_id": "justine"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "justine",
+        "my_father",
+        "the_family"
+      ],
+      "location": "court",
+      "order": 84,
+      "scene_id": "scene_084",
+      "source_chunks": [
+        53
+      ],
+      "time": "eleven o’clock"
+    },
+    {
+      "actions": [
+        {
+          "action": "in a faltering voice, proved that it was the same which, an hour before the child had been missed, she had placed round his neck",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was called on for her defence",
+          "character_id": "justine"
+        },
+        {
+          "action": "collected her powers and spoke in an audible although variable voice",
+          "character_id": "justine"
+        },
+        {
+          "action": "related that, by the permission of Elizabeth, she had passed the evening of the night on which the murder had been committed at the house of an aunt at Chêne",
+          "character_id": "justine"
+        },
+        {
+          "action": "fell into violent hysterics when shown the body and kept her bed for several days",
+          "character_id": "justine"
+        },
+        {
+          "action": "stated she had passed several hours looking for the child and had been forced to remain several hours of the night in a barn when the gates of Geneva were shut",
+          "character_id": "justine"
+        },
+        {
+          "action": "had such proof of her innocence as I had",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "committed her cause to the justice of her judges",
+          "character_id": "justine"
+        },
+        {
+          "action": "begged permission to have a few witnesses examined concerning her character",
+          "character_id": "justine"
+        },
+        {
+          "action": "pledged her salvation on her innocence",
+          "character_id": "justine"
+        },
+        {
+          "action": "desired permission to address the court",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "addressed the court, stating she was the cousin of the murdered child",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stated she had lived in the same house with the accused for periods of five and nearly two years",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stated the accused nursed Madame Frankenstein in her last illness with the greatest affection and care",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stated the accused attended her own mother during a tedious illness",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stated the accused was beloved by all the family and warmly attached to the child",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "justine"
+      ],
+      "location": "the court",
+      "order": 85,
+      "scene_id": "scene_085",
+      "source_chunks": [
+        54,
+        55
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "went to the court in the morning",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "dared not ask the fatal question",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was condemned",
+          "character_id": "justine"
+        },
+        {
+          "action": "had already confessed her guilt",
+          "character_id": "justine"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "justine"
+      ],
+      "location": "court",
+      "order": 88,
+      "scene_id": "scene_088",
+      "source_chunks": [
+        56
+      ],
+      "time": "morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "hastened to return home",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "eagerly demanded the result",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "replied that it was decided",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "replied, \"My cousin, it is decided as you may have expected; all judges had rather that ten innocent should suffer than that one guilty should escape. But she has confessed.\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wished her not to go but said that he left it to her own judgment and feelings to decide",
+          "character_id": "my_father"
+        },
+        {
+          "action": "said, \"Yes, I will go, although she is guilty; and you, Victor, shall accompany me; I cannot go alone.\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "could not refuse",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "my_father",
+        "victor"
+      ],
+      "location": "home",
+      "order": 89,
+      "scene_id": "scene_089",
+      "source_chunks": [
+        56,
+        57
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "could only answer my father with a look of despair and endeavour to hide myself from his view",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "took the boat and passed many hours upon the water",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "with my sails set, I was carried by the wind",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "after rowing into the middle of the lake, I left the boat to pursue its own course",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "gave way to my own miserable reflections",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was often tempted to plunge into the silent lake",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was restrained when I thought of the heroic and suffering Elizabeth",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wept bitterly and wished that peace would revisit my mind",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had been the author of unalterable evils",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "lived in daily fear lest the monster whom I had created should perpetrate some new wickedness",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "gnashed my teeth",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "eyes became inflamed",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "ardently wished to extinguish that life which I had so thoughtlessly bestowed",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wished to see him again that I might wreak the utmost extent of abhorrence on his head and avenge the deaths of William and Justine",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "health was deeply shaken by the horror of the recent events",
+          "character_id": "my_father"
+        },
+        {
+          "action": "was sad",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "justine",
+        "monster",
+        "my_father",
+        "the_fiend",
+        "william"
+      ],
+      "location": "Belrive",
+      "order": 95,
+      "scene_id": "scene_095",
+      "source_chunks": [
+        61
+      ],
+      "time": "night"
+    },
+    {
+      "actions": [
+        {
+          "action": "would have made a pilgrimage to the highest peak of the Andes",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wished to see him again, that I might wreak the utmost extent of abhorrence on his head and avenge the deaths of William and Justine",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "listened to this discourse with the extremest agony",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was the true murderer (not in deed, but in effect)",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was sad and desponding; she no longer took delight in her ordinary occupations",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "read my anguish in my countenance, and kindly taking my hand, said, \"My dearest friend, you must calm yourself.\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "health was deeply shaken by the horror of the recent events",
+          "character_id": "my_father"
+        },
+        {
+          "action": "read my anguish in my countenance.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "kindly taking my hand.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "said \"My dearest friend, you must calm yourself.\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "drew near to her, as if in terror, lest at that very moment the destroyer had been near to rob me of her.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was encompassed by a cloud which no beneficial influence could penetrate.",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "my_father",
+        "victor"
+      ],
+      "location": null,
+      "order": 96,
+      "scene_id": "scene_096",
+      "source_chunks": [
+        62,
+        63
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "suddenly left my home.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "bending my steps towards the near Alpine valleys.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "sought in the magnificence of such scenes to forget myself and my ephemeral, because human, sorrows.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "performed the first part of my journey on horseback.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "afterwards hired a mule.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "plunged yet deeper in the ravine of Arve.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "the weight upon my spirit was sensibly lightened.",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "valley of Chamounix",
+      "order": 97,
+      "scene_id": "scene_097",
+      "source_chunks": [
+        63
+      ],
+      "time": "about the middle of the month of August, nearly two months after the death of Justine"
+    },
+    {
+      "actions": [
+        {
+          "action": "passed the bridge of Pélissier",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "entered the valley of Chamounix",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "began to ascend the mountain that overhangs it",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "heard the rumbling thunder of the falling avalanche",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "formed the high and snowy immediate boundaries",
+          "character_id": "alps"
+        },
+        {
+          "action": "formed the ravine that opened before me",
+          "character_id": "arve"
+        }
+      ],
+      "characters_present": [
+        "alps",
+        "arve",
+        "elizabeth"
+      ],
+      "location": "valley of Chamounix",
+      "order": 99,
+      "scene_id": "scene_099",
+      "source_chunks": [
+        64
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "arrived at the village of Chamounix",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "remained at the window watching the pallid lightnings",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "pursued its noisy way beneath",
+          "character_id": "arve"
+        },
+        {
+          "action": "placed my head upon my pillow; sleep crept over me",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "arve",
+        "elizabeth"
+      ],
+      "location": "village of Chamounix",
+      "order": 100,
+      "scene_id": "scene_100",
+      "source_chunks": [
+        64
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "spent the following day roaming through the valley",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stood beside the sources of the Arveiron",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "sources of the Arveiron",
+      "order": 101,
+      "scene_id": "scene_101",
+      "source_chunks": [
+        64
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "spent the following day roaming through the valley",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "stood beside the sources of the Arveiron",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "contemplated the unstained snowy mountain-top, the glittering pinnacle, the pine woods, and ragged bare ravine",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "retired to rest at night",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "slumbers waited on and ministered to by the assemblance of grand shapes which I had contemplated during the day",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "the valley",
+      "order": 103,
+      "scene_id": "scene_103",
+      "source_chunks": [
+        65
+      ],
+      "time": "the following day"
+    },
+    {
+      "actions": [
+        {
+          "action": "determined to go without a guide",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was well acquainted with the path",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "looked on the valley beneath",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "path",
+      "order": 105,
+      "scene_id": "scene_105",
+      "source_chunks": [
+        66
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "arrived at the top of the ascent",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "sat upon the rock that overlooks the sea of ice",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "top of the ascent",
+      "order": 106,
+      "scene_id": "scene_106",
+      "source_chunks": [
+        66
+      ],
+      "time": "nearly noon"
+    },
+    {
+      "actions": [
+        {
+          "action": "remained in a recess of the rock, gazing on this wonderful and stupendous scene",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "exclaimed \"Wandering spirits, if indeed ye wander, and do not rest in your narrow beds, allow me this faint happiness, or take me, as your companion, away from the joys of life.\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was troubled; a mist came over my eyes, and I felt a faintness seize me, but was quickly restored by the cold gale of the mountains",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "resolved to wait his approach and then close with him in mortal combat",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "exclaimed insults and threatened violence: \"Begone, vile insect! Or rather, stay, that I may trample you to dust! And, oh! That I could, with the extinction of your miserable existence, restore those victims whom you have so diabolically murdered!\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "bounded over the crevices in the ice",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "approached with superhuman speed",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "said \"I expected this reception\"",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "declared conditions and threatened: \"If you refuse, I will glut the maw of death, until it be satiated with the blood of your remaining friends.\"",
+          "character_id": "dæmon"
+        }
+      ],
+      "characters_present": [
+        "dæmon",
+        "elizabeth"
+      ],
+      "location": "a recess of the rock",
+      "order": 108,
+      "scene_id": "scene_108",
+      "source_chunks": [
+        67
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "said \"Listen to my tale; when you have heard that, abandon or commiserate me, as you shall judge that I deserve.\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "said \"By the virtues that I once possessed, I demand this from you.\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "said \"Thus I relieve thee, my creator,\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "placed his hated hands before my eyes",
+          "character_id": "the_being"
+        },
+        {
+          "action": "led the way across the ice",
+          "character_id": "the_being"
+        },
+        {
+          "action": "rejoined \"Why do you call to my remembrance, circumstances of which I shudder to reflect, that I have been the miserable origin and author?\"",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "flung the being's hands from me with violence",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "followed him",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "weighed the various arguments and determined at least to listen to his tale",
+          "character_id": "frankenstein"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "the_being"
+      ],
+      "location": "ice",
+      "order": 110,
+      "scene_id": "scene_110",
+      "source_chunks": [
+        69
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "crossed the ice",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "ascended the opposite rock",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "entered the hut",
+          "character_id": "the_fiend"
+        }
+      ],
+      "characters_present": [
+        "the_fiend"
+      ],
+      "location": "ice; opposite rock",
+      "order": 111,
+      "scene_id": "scene_111",
+      "source_chunks": [
+        70
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "walked",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "descended",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "sought a place where I could receive shade",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "lay by the side of a brook resting from my fatigue",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "felt tormented by hunger and thirst",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "ate some berries",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "slaked my thirst at the brook",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "lay down and was overcome by sleep",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "awoke",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "felt cold",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "covered myself with some clothes",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "sat down and wept",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "started up",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "beheld a radiant form rise from among the trees",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "gazed with a kind of wonder",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "went out in search of berries",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "found a huge cloak",
+          "character_id": "the_fiend"
+        }
+      ],
+      "characters_present": [
+        "the_fiend"
+      ],
+      "location": "forest near Ingolstadt; brook",
+      "order": 113,
+      "scene_id": "scene_113",
+      "source_chunks": [
+        70
+      ],
+      "time": "dark"
+    },
+    {
+      "actions": [
+        {
+          "action": "sat near a fire",
+          "character_id": "old_man"
+        },
+        {
+          "action": "was preparing his breakfast",
+          "character_id": "old_man"
+        },
+        {
+          "action": "turned on hearing a noise",
+          "character_id": "old_man"
+        },
+        {
+          "action": "perceiving me, shrieked loudly",
+          "character_id": "old_man"
+        },
+        {
+          "action": "quit the hut and ran across the fields",
+          "character_id": "old_man"
+        }
+      ],
+      "characters_present": [
+        "old_man"
+      ],
+      "location": "hut",
+      "order": 117,
+      "scene_id": "scene_117",
+      "source_chunks": [
+        72
+      ],
+      "time": "about seven in the morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "sat near a fire preparing his breakfast",
+          "character_id": "old_man"
+        },
+        {
+          "action": "turned on hearing a noise",
+          "character_id": "old_man"
+        },
+        {
+          "action": "perceiving me shrieked loudly",
+          "character_id": "old_man"
+        },
+        {
+          "action": "quit the hut",
+          "character_id": "old_man"
+        },
+        {
+          "action": "ran across the fields",
+          "character_id": "old_man"
+        }
+      ],
+      "characters_present": [
+        "old_man"
+      ],
+      "location": "hut",
+      "order": 118,
+      "scene_id": "scene_118",
+      "source_chunks": [
+        73
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "passed before my hovel with a pail on her head",
+          "character_id": "the_girl"
+        },
+        {
+          "action": "returned bearing the pail partly filled with milk",
+          "character_id": "the_girl"
+        },
+        {
+          "action": "followed and disappeared",
+          "character_id": "the_girl"
+        },
+        {
+          "action": "met her and took the pail from her head",
+          "character_id": "the_young_man"
+        },
+        {
+          "action": "bore the pail to the cottage",
+          "character_id": "the_young_man"
+        },
+        {
+          "action": "crossed the field behind the cottage with some tools in his hand",
+          "character_id": "the_young_man"
+        }
+      ],
+      "characters_present": [
+        "the_girl",
+        "the_young_man"
+      ],
+      "location": "a hovel against the back of the cottage",
+      "order": 122,
+      "scene_id": "scene_122",
+      "source_chunks": [
+        74
+      ],
+      "time": "morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "sat in one corner, near a small fire, leaning his head on his hands in a disconsolate attitude",
+          "character_id": "old_man"
+        },
+        {
+          "action": "took up an instrument and began to play and to produce sounds sweeter than the voice of the thrush or the nightingale",
+          "character_id": "old_man"
+        },
+        {
+          "action": "pronounced a few sounds",
+          "character_id": "old_man"
+        },
+        {
+          "action": "raised her and smiled with such kindness and affection",
+          "character_id": "old_man"
+        },
+        {
+          "action": "was occupied in arranging the cottage",
+          "character_id": "the_young_girl"
+        },
+        {
+          "action": "took something out of a drawer and sat down beside the old man",
+          "character_id": "the_young_girl"
+        },
+        {
+          "action": "sobbed audibly",
+          "character_id": "the_young_girl"
+        },
+        {
+          "action": "left her work and knelt at his feet",
+          "character_id": "fair_creature"
+        }
+      ],
+      "characters_present": [
+        "fair_creature",
+        "old_man",
+        "the_girl",
+        "the_young_girl"
+      ],
+      "location": "small room visible through crevice",
+      "order": 123,
+      "scene_id": "scene_123",
+      "source_chunks": [
+        75
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "returned bearing on his shoulders a load of wood",
+          "character_id": "young_man"
+        },
+        {
+          "action": "met him at the door and helped to relieve him of his burden",
+          "character_id": "the_girl"
+        },
+        {
+          "action": "took some of the fuel into the cottage and placed it on the fire",
+          "character_id": "the_girl"
+        },
+        {
+          "action": "went into the garden for some roots and plants, which she placed in water, and then upon the fire",
+          "character_id": "the_girl"
+        },
+        {
+          "action": "went into the garden and appeared busily employed in digging and pulling up roots",
+          "character_id": "young_man"
+        },
+        {
+          "action": "joined him after about an hour and they entered the cottage together",
+          "character_id": "young_woman"
+        },
+        {
+          "action": "had been pensive but on the appearance of his companions assumed a more cheerful air",
+          "character_id": "old_man"
+        },
+        {
+          "action": "sat down to eat",
+          "character_id": "old_man"
+        },
+        {
+          "action": "walked before the cottage in the sun for a few minutes, leaning on the arm of the youth",
+          "character_id": "old_man"
+        },
+        {
+          "action": "provided his arm for the old man to lean on",
+          "character_id": "youth"
+        },
+        {
+          "action": "was again occupied in arranging the cottage",
+          "character_id": "young_woman"
+        }
+      ],
+      "characters_present": [
+        "old_man",
+        "the_girl",
+        "young_man",
+        "young_woman",
+        "youth"
+      ],
+      "location": "cottage and garden",
+      "order": 124,
+      "scene_id": "scene_124",
+      "source_chunks": [
+        75
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "sat down to eat",
+          "character_id": "young_woman"
+        },
+        {
+          "action": "sat down to eat",
+          "character_id": "old_man"
+        },
+        {
+          "action": "sat down to eat",
+          "character_id": "youth"
+        },
+        {
+          "action": "was again occupied in arranging the cottage",
+          "character_id": "young_woman"
+        },
+        {
+          "action": "walked before the cottage in the sun for a few minutes, leaning on the arm of the youth",
+          "character_id": "old_man"
+        }
+      ],
+      "characters_present": [
+        "old_man",
+        "young_woman",
+        "youth"
+      ],
+      "location": "cottage",
+      "order": 125,
+      "scene_id": "scene_125",
+      "source_chunks": [
+        76
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "was employed in various occupations",
+          "character_id": "young_girl"
+        },
+        {
+          "action": "was employed in various occupations",
+          "character_id": "his_companion"
+        },
+        {
+          "action": "took up the instrument which produced the divine sounds",
+          "character_id": "old_man"
+        },
+        {
+          "action": "began to utter sounds that were monotonous",
+          "character_id": "his_companion"
+        },
+        {
+          "action": "read aloud",
+          "character_id": "his_companion"
+        },
+        {
+          "action": "extinguished her light and retired",
+          "character_id": "young_girl"
+        },
+        {
+          "action": "extinguished his light and retired",
+          "character_id": "his_companion"
+        },
+        {
+          "action": "extinguished his light and retired",
+          "character_id": "old_man"
+        }
+      ],
+      "characters_present": [
+        "his_companion",
+        "old_man",
+        "young_girl"
+      ],
+      "location": "cottage",
+      "order": 127,
+      "scene_id": "scene_127",
+      "source_chunks": [
+        76
+      ],
+      "time": "evening"
+    },
+    {
+      "actions": [
+        {
+          "action": "spent a great part of each day in collecting wood for the family fire",
+          "character_id": "youth"
+        },
+        {
+          "action": "opened the door in the morning and appeared greatly astonished on seeing a great pile of wood on the outside",
+          "character_id": "young_woman"
+        },
+        {
+          "action": "uttered some words in a loud voice",
+          "character_id": "young_woman"
+        },
+        {
+          "action": "joined her and expressed surprise",
+          "character_id": "youth"
+        },
+        {
+          "action": "did not go to the forest that day but spent it in repairing the cottage and cultivating the garden",
+          "character_id": "youth"
+        }
+      ],
+      "characters_present": [
+        "young_woman",
+        "youth"
+      ],
+      "location": "outside the cottage",
+      "order": 132,
+      "scene_id": "scene_132",
+      "source_chunks": [
+        77
+      ],
+      "time": "night; morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "was more employed.",
+          "character_id": "felix"
+        },
+        {
+          "action": "leaning on his son, walked each day at noon, when it did not rain.",
+          "character_id": "old_man"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "felix",
+        "old_man"
+      ],
+      "location": "my hovel",
+      "order": 136,
+      "scene_id": "scene_136",
+      "source_chunks": [
+        80
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "sighed frequently",
+          "character_id": "felix"
+        },
+        {
+          "action": "replied in a cheerful accent",
+          "character_id": "felix"
+        },
+        {
+          "action": "came up hastily to the lady",
+          "character_id": "felix"
+        },
+        {
+          "action": "seemed ravished with delight",
+          "character_id": "felix"
+        },
+        {
+          "action": "asked a question",
+          "character_id": "agatha"
+        },
+        {
+          "action": "played on his guitar",
+          "character_id": "the_old_man"
+        },
+        {
+          "action": "paused in his music",
+          "character_id": "the_old_man"
+        },
+        {
+          "action": "recommenced his music",
+          "character_id": "the_old_man"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "felix",
+        "the_old_man"
+      ],
+      "location": null,
+      "order": 137,
+      "scene_id": "scene_137",
+      "source_chunks": [
+        81
+      ],
+      "time": "Spring"
+    },
+    {
+      "actions": [
+        {
+          "action": "seemed ravished with delight when he saw her",
+          "character_id": "felix"
+        },
+        {
+          "action": "assisted her to dismount",
+          "character_id": "felix"
+        },
+        {
+          "action": "dismissed her guide and conducted her into the cottage",
+          "character_id": "felix"
+        },
+        {
+          "action": "wiped a few tears from her lovely eyes",
+          "character_id": "arabian"
+        },
+        {
+          "action": "held out her hand to Felix",
+          "character_id": "arabian"
+        },
+        {
+          "action": "knelt at the old man's feet and would have kissed his hand",
+          "character_id": "arabian"
+        },
+        {
+          "action": "did not appear to understand him but smiled",
+          "character_id": "arabian"
+        },
+        {
+          "action": "raised her and embraced her affectionately",
+          "character_id": "old_man"
+        },
+        {
+          "action": "kissed the hands of the lovely stranger",
+          "character_id": "agatha"
+        },
+        {
+          "action": "pointed to her brother and made signs",
+          "character_id": "agatha"
+        },
+        {
+          "action": "learned about twenty words at the first lesson",
+          "character_id": "arabian"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "arabian",
+        "felix",
+        "old_man"
+      ],
+      "location": "the cottage",
+      "order": 138,
+      "scene_id": "scene_138",
+      "source_chunks": [
+        82
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "retired early",
+          "character_id": "agatha"
+        },
+        {
+          "action": "retired early",
+          "character_id": "arabian"
+        },
+        {
+          "action": "kissed the hand of the stranger and said, 'Good night sweet Safie.'",
+          "character_id": "felix"
+        },
+        {
+          "action": "sat up much longer, conversing with his father",
+          "character_id": "felix"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "arabian",
+        "felix",
+        "old_man"
+      ],
+      "location": "the cottage",
+      "order": 139,
+      "scene_id": "scene_139",
+      "source_chunks": [
+        82
+      ],
+      "time": "night"
+    },
+    {
+      "actions": [
+        {
+          "action": "went out to his work",
+          "character_id": "felix"
+        },
+        {
+          "action": "finished her usual occupations",
+          "character_id": "agatha"
+        },
+        {
+          "action": "sat at the feet of the old man",
+          "character_id": "arabian"
+        },
+        {
+          "action": "taking his guitar, played some airs so entrancingly beautiful that they at once drew tears",
+          "character_id": "arabian"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "arabian",
+        "felix",
+        "old_man"
+      ],
+      "location": "the cottage",
+      "order": 140,
+      "scene_id": "scene_140",
+      "source_chunks": [
+        82
+      ],
+      "time": "morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "went out to his work",
+          "character_id": "felix"
+        },
+        {
+          "action": "had her usual occupations finished",
+          "character_id": "agatha"
+        },
+        {
+          "action": "sat at the feet of the old man",
+          "character_id": "arabian"
+        },
+        {
+          "action": "took his guitar",
+          "character_id": "arabian"
+        },
+        {
+          "action": "played some airs so entrancingly beautiful",
+          "character_id": "arabian"
+        },
+        {
+          "action": "sang",
+          "character_id": "arabian"
+        },
+        {
+          "action": "gave the guitar to Agatha",
+          "character_id": "arabian"
+        },
+        {
+          "action": "at first declined the guitar",
+          "character_id": "agatha"
+        },
+        {
+          "action": "played a simple air",
+          "character_id": "agatha"
+        },
+        {
+          "action": "endeavoured to explain [the old man's words] to Safie",
+          "character_id": "agatha"
+        },
+        {
+          "action": "appeared enraptured",
+          "character_id": "old_man"
+        },
+        {
+          "action": "said some words",
+          "character_id": "old_man"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "arabian",
+        "felix",
+        "old_man",
+        "safie"
+      ],
+      "location": null,
+      "order": 141,
+      "scene_id": "scene_141",
+      "source_chunks": [
+        83
+      ],
+      "time": "the next morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "was descended from a good family in France",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "was bred in the service of his country",
+          "character_id": "felix"
+        },
+        {
+          "action": "had ranked with ladies of the highest distinction",
+          "character_id": "agatha"
+        },
+        {
+          "action": "was seized and cast into prison",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "arrived from Constantinople to join him",
+          "character_id": "safie"
+        },
+        {
+          "action": "had accidentally been present at the trial",
+          "character_id": "felix"
+        },
+        {
+          "action": "made, at that moment, a solemn vow to deliver him",
+          "character_id": "felix"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "de_lacey",
+        "felix",
+        "safie",
+        "the_turk"
+      ],
+      "location": "Paris",
+      "order": 144,
+      "scene_id": "scene_144",
+      "source_chunks": [
+        86
+      ],
+      "time": "A few months before my arrival"
+    },
+    {
+      "actions": [
+        {
+          "action": "found a strongly grated window in an unguarded part of the building",
+          "character_id": "felix"
+        },
+        {
+          "action": "visited the grate at night",
+          "character_id": "felix"
+        },
+        {
+          "action": "made known to the prisoner his intentions in his favour",
+          "character_id": "felix"
+        },
+        {
+          "action": "endeavoured to kindle the zeal of his deliverer by promises of reward and wealth",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "promised his daughter's hand in marriage",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "rejected his offers with contempt",
+          "character_id": "felix"
+        },
+        {
+          "action": "owned to his own mind that the captive possessed a treasure which would fully reward his toil and hazard",
+          "character_id": "felix"
+        },
+        {
+          "action": "by her gestures expressed her lively gratitude when visiting her father",
+          "character_id": "safie"
+        }
+      ],
+      "characters_present": [
+        "felix",
+        "safie",
+        "the_turk"
+      ],
+      "location": "dungeon",
+      "order": 145,
+      "scene_id": "scene_145",
+      "source_chunks": [
+        86
+      ],
+      "time": "at night"
+    },
+    {
+      "actions": [
+        {
+          "action": "quickly perceived the impression that his daughter had made on the heart of Felix",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "endeavoured to secure him more entirely in his interests by the promise of her hand in marriage",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "was too delicate to accept this offer",
+          "character_id": "felix"
+        },
+        {
+          "action": "looked forward to the probability of the event as to the consummation of his happiness",
+          "character_id": "felix"
+        }
+      ],
+      "characters_present": [
+        "felix",
+        "safie",
+        "the_turk"
+      ],
+      "location": null,
+      "order": 146,
+      "scene_id": "scene_146",
+      "source_chunks": [
+        87
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "resolved to remain with her father until the moment of his departure",
+          "character_id": "safie"
+        },
+        {
+          "action": "remained with them in expectation of that event",
+          "character_id": "felix"
+        },
+        {
+          "action": "exhibited towards him the simplest and tenderest affection",
+          "character_id": "arabian"
+        },
+        {
+          "action": "sang to him the divine airs of her native country",
+          "character_id": "safie"
+        },
+        {
+          "action": "allowed this intimacy to take place and encouraged the hopes of the youthful lovers",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "loathed the idea that his daughter should be united to a Christian",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "revolved a thousand plans by which he should be enabled to prolong the deceit",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "secretly to take his daughter with him when he departed",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "commanded his daughter to think no more of her lover and to prepare to return to her native country",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "attempted to expostulate with her father",
+          "character_id": "safie"
+        },
+        {
+          "action": "left her angrily, reiterating his tyrannical mandate",
+          "character_id": "the_turk"
+        },
+        {
+          "action": "entered his daughter's apartment and told her he had reason to believe his residence at Leghorn had been divulged and that he had hired a vessel to convey him to Constantinople, intending to leave his daughter under the care of a confidential servant",
+          "character_id": "the_turk"
+        }
+      ],
+      "characters_present": [
+        "arabian",
+        "felix",
+        "safie",
+        "the_turk"
+      ],
+      "location": "Leghorn",
+      "order": 150,
+      "scene_id": "scene_150",
+      "source_chunks": [
+        88,
+        89
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "remained confined for five months before the trial took place; the result of which deprived them of their fortune and condemned them to a perpetual exile from their native country",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "remained confined for five months before the trial took place; the result of which deprived them of their fortune and condemned them to a perpetual exile from their native country",
+          "character_id": "agatha"
+        },
+        {
+          "action": "found a miserable asylum in the cottage in Germany",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "found a miserable asylum in the cottage in Germany",
+          "character_id": "agatha"
+        },
+        {
+          "action": "soon learned that the treacherous Turk ... became a traitor to good feeling and honour and had quitted",
+          "character_id": "felix"
+        },
+        {
+          "action": "became a traitor to good feeling and honour and had quitted",
+          "character_id": "the_turk"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "de_lacey",
+        "felix",
+        "the_turk"
+      ],
+      "location": "cottage in Germany",
+      "order": 152,
+      "scene_id": "scene_152",
+      "source_chunks": [
+        88
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "soon learned that the treacherous Turk had quitted Italy, insultingly sending Felix a pittance of money to aid him",
+          "character_id": "felix"
+        },
+        {
+          "action": "arrived, infusing new life into Felix's soul",
+          "character_id": "arabian"
+        }
+      ],
+      "characters_present": [
+        "arabian",
+        "felix"
+      ],
+      "location": "the cottage in Germany",
+      "order": 153,
+      "scene_id": "scene_153",
+      "source_chunks": [
+        89
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "took with her some jewels and a sum of money and quitted Italy with an attendant",
+          "character_id": "safie"
+        },
+        {
+          "action": "nursed her attendant with the most devoted affection",
+          "character_id": "safie"
+        },
+        {
+          "action": "arrived in safety at a town about twenty leagues from the cottage of De Lacey",
+          "character_id": "safie"
+        },
+        {
+          "action": "was left alone, unacquainted with the language of the country and ignorant of the customs of the world",
+          "character_id": "safie"
+        },
+        {
+          "action": "was left alone, unacquainted with the language of the country and utterly ignorant of the customs of the world",
+          "character_id": "arabian"
+        }
+      ],
+      "characters_present": [
+        "arabian",
+        "safie"
+      ],
+      "location": "a town about twenty leagues from the cottage of De Lacey",
+      "order": 154,
+      "scene_id": "scene_154",
+      "source_chunks": [
+        89,
+        90
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "departed on a long country walk",
+          "character_id": "agatha"
+        },
+        {
+          "action": "departed on a long country walk",
+          "character_id": "safie"
+        },
+        {
+          "action": "departed on a long country walk",
+          "character_id": "felix"
+        },
+        {
+          "action": "was left alone in the cottage",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "took up his guitar and played several mournful but sweet airs",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "laid aside the instrument and sat absorbed in reflection",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "said 'Who is there?'",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "said 'Come in.'",
+          "character_id": "de_lacey"
+        }
+      ],
+      "characters_present": [
+        "agatha",
+        "de_lacey",
+        "felix",
+        "safie"
+      ],
+      "location": "cottage",
+      "order": 160,
+      "scene_id": "scene_160",
+      "source_chunks": [
+        94
+      ],
+      "time": "winter; one day, when the sun shone on the red leaves"
+    },
+    {
+      "actions": [
+        {
+          "action": "'Who is there?' and 'Come in.' said the old man.",
+          "character_id": "old_man"
+        },
+        {
+          "action": "'Enter,' said De Lacey, 'and I will try in what manner I can to relieve your wants; but, unfortunately, my children are from home, and as I am blind, I am afraid I shall find it difficult to procure food for you.'",
+          "character_id": "de_lacey"
+        },
+        {
+          "action": "addressed me: 'By your language, stranger, I suppose you are my countryman; are you French?'",
+          "character_id": "old_man"
+        },
+        {
+          "action": "'Are they Germans?'",
+          "character_id": "old_man"
+        },
+        {
+          "action": "'Do not despair. To be friendless is indeed to be unfortunate, but the hearts of men, when unprejudiced by any obvious self-interest, are full of brotherly love and charity. Rely, therefore, on your hopes; and if these friends are good and amiable, do not despair.'",
+          "character_id": "old_man"
+        },
+        {
+          "action": "'That is indeed unfortunate; but if you are really blameless, cannot you undeceive them?'",
+          "character_id": "old_man"
+        },
+        {
+          "action": "'Where do these friends reside?'",
+          "character_id": "old_man"
+        },
+        {
+          "action": "paused and then continued: 'If you will unreservedly confide to me the particulars of your tale, I perhaps may be of use in undeceiving them.'",
+          "character_id": "old_man"
+        }
+      ],
+      "characters_present": [
+        "de_lacey",
+        "old_man"
+      ],
+      "location": "their cottage",
+      "order": 161,
+      "scene_id": "scene_161",
+      "source_chunks": [
+        95
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "approached with another man",
+          "character_id": "felix"
+        },
+        {
+          "action": "entered the cottage",
+          "character_id": "felix"
+        },
+        {
+          "action": "departed",
+          "character_id": "felix"
+        },
+        {
+          "action": "trembled violently as he said this",
+          "character_id": "felix"
+        },
+        {
+          "action": "said 'Do you consider that you will be obliged to pay three months’ rent and to lose the produce of your garden? I do not wish to take any unfair advantage, and I beg therefore that you will take some days to consider of your determination.'",
+          "character_id": "his_companion"
+        }
+      ],
+      "characters_present": [
+        "felix",
+        "his_companion"
+      ],
+      "location": "cottage",
+      "order": 167,
+      "scene_id": "scene_167",
+      "source_chunks": [
+        98
+      ],
+      "time": "night to high sun"
+    },
+    {
+      "actions": [
+        {
+          "action": "came running towards the spot, laughing",
+          "character_id": "young_girl"
+        },
+        {
+          "action": "continued her course along the precipitous sides of the river",
+          "character_id": "young_girl"
+        },
+        {
+          "action": "her foot slipped, and she fell into the rapid stream",
+          "character_id": "young_girl"
+        },
+        {
+          "action": "was senseless",
+          "character_id": "young_girl"
+        }
+      ],
+      "characters_present": [
+        "young_girl"
+      ],
+      "location": "boundary of the wood, skirted by a deep and rapid river",
+      "order": 173,
+      "scene_id": "scene_173",
+      "source_chunks": [
+        101
+      ],
+      "time": "spring"
+    },
+    {
+      "actions": [
+        {
+          "action": "saw something glittering on his breast",
+          "character_id": "the_being"
+        },
+        {
+          "action": "took it",
+          "character_id": "the_being"
+        },
+        {
+          "action": "it was a portrait of a most lovely woman",
+          "character_id": "the_being"
+        },
+        {
+          "action": "gazed with delight on her dark eyes, fringed by deep lashes, and her lovely lips",
+          "character_id": "the_being"
+        },
+        {
+          "action": "remembered that I was for ever deprived of the delights that such beautiful creatures could bestow",
+          "character_id": "the_being"
+        },
+        {
+          "action": "haunted the spot where these scenes had taken place for some days",
+          "character_id": "the_being"
+        },
+        {
+          "action": "sometimes wishing to see you, sometimes resolved to quit the world and its miseries for ever",
+          "character_id": "the_being"
+        },
+        {
+          "action": "finished speaking and fixed his looks upon me in the expectation of a reply",
+          "character_id": "the_being"
+        },
+        {
+          "action": "finished speaking",
+          "character_id": "the_being"
+        },
+        {
+          "action": "fixed his looks upon me in the expectation of a reply",
+          "character_id": "the_being"
+        },
+        {
+          "action": "continued",
+          "character_id": "the_being"
+        },
+        {
+          "action": "said \"You must create a female for me with whom I can live in the interchange of those sympathies necessary for my being. This you alone can do, and I demand it of you as a right which you must not refuse to concede.\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "replied \"You are in the wrong; and instead of threatening, I am content to reason with you.\"",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "said \"I am malicious because I am miserable.\"",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "swore inextinguishable hatred",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "said \"I will revenge my injuries; if I cannot inspire love, I will cause fear, and chiefly towards you my arch-enemy, because my creator, do I swear inextinguishable hatred.\"",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "was animated by a fiendish rage; his face was wrinkled into contortions too horrible for human eyes to behold",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "calmed himself and proceeded",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "said \"What I ask of you is reasonable and moderate; I demand a creature of another sex, but as hideous as myself;\"",
+          "character_id": "the_fiend"
+        },
+        {
+          "action": "was moved",
+          "character_id": "my_creator"
+        },
+        {
+          "action": "shuddered when I thought of the possible consequences of my consent",
+          "character_id": "my_creator"
+        },
+        {
+          "action": "felt that there was some justice in his argument",
+          "character_id": "my_creator"
+        },
+        {
+          "action": "cannot consent",
+          "character_id": "my_creator"
+        },
+        {
+          "action": "How inconstant are your feelings!",
+          "character_id": "monster"
+        },
+        {
+          "action": "swear to you, by the earth which I inhabit, and by you that made me, that with the companion you bestow, I will quit the neighbourhood of man and dwell, as it may chance, in the most savage of places.",
+          "character_id": "monster"
+        },
+        {
+          "action": "evil passions will have fled, for I shall meet with sympathy!",
+          "character_id": "monster"
+        },
+        {
+          "action": "life will flow quietly away, and in my dying moments I shall not curse my maker.",
+          "character_id": "monster"
+        },
+        {
+          "action": "How is this? I must not be trifled with, and I demand an answer.",
+          "character_id": "monster"
+        },
+        {
+          "action": "swear, by the sun, and by the blue sky of heaven, and by the fire of love that burns my heart, that if you grant my prayer, while they exist you shall never behold me again.",
+          "character_id": "monster"
+        }
+      ],
+      "characters_present": [
+        "monster",
+        "my_creator",
+        "the_being",
+        "the_fiend"
+      ],
+      "location": null,
+      "order": 177,
+      "scene_id": "scene_177",
+      "source_chunks": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "left the spot where I had committed the murder and entered a barn",
+          "character_id": "the_being"
+        },
+        {
+          "action": "bent over her and whispered 'Awake, fairest, thy lover is near—he who would give his life but to obtain one look of affection from thine eyes; my beloved, awake!'",
+          "character_id": "the_being"
+        },
+        {
+          "action": "placed the portrait securely in one of the folds of her dress",
+          "character_id": "the_being"
+        },
+        {
+          "action": "fled",
+          "character_id": "the_being"
+        }
+      ],
+      "characters_present": [
+        "the_being"
+      ],
+      "location": "a barn",
+      "order": 178,
+      "scene_id": "scene_178",
+      "source_chunks": [
+        103
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "could not collect the courage to recommence my work",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "feared the vengeance of the disappointed fiend",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "found that I could not compose a female without again devoting several months to profound study and laborious disquisition",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "sometimes thought of obtaining my father's consent to visit England for this purpose",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "clung to every pretence of delay and shrank from taking the first step",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "Geneva",
+      "order": 184,
+      "scene_id": "scene_184",
+      "source_chunks": [
+        108
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "took refuge in the most perfect solitude",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "passed whole days on the lake alone in a little boat, watching the clouds and listening to the rippling of the waves",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "the fresh air and bright sun seldom failed to restore me to some degree of composure",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "lake",
+      "order": 185,
+      "scene_id": "scene_185",
+      "source_chunks": [
+        108
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "traversed many leagues",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "arrived at Strasburgh",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "waited two days for Clerval",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "came",
+          "character_id": "henry"
+        },
+        {
+          "action": "was alive to every new scene, joyful",
+          "character_id": "henry"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "henry"
+      ],
+      "location": "Strasburgh",
+      "order": 187,
+      "scene_id": "scene_187",
+      "source_chunks": [
+        111
+      ],
+      "time": "After some days"
+    },
+    {
+      "actions": [
+        {
+          "action": "arrived at Strasburgh",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "waited two days for Clerval",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "was occupied by gloomy thoughts and neither saw the descent of the evening star nor the golden sunrise reflected in the Rhine",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "came",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "was alive to every new scene, joyful when he saw the beauties of the setting sun, and more happy when he beheld it rise and recommence a new day",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "pointed out to me the shifting colours of the landscape and the appearances of the sky",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "cried 'This is what it is to live! ... wherefore are you desponding and sorrowful!'",
+          "character_id": "henry_clerval"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "henry_clerval"
+      ],
+      "location": "Strasburgh",
+      "order": 188,
+      "scene_id": "scene_188",
+      "source_chunks": [
+        112
+      ],
+      "time": "two days"
+    },
+    {
+      "actions": [
+        {
+          "action": "agreed to descend the Rhine in a boat from Strasburgh to Rotterdam",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "passed many willowy islands and saw several beautiful towns",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "stayed a day at Mannheim",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "arrived at Mainz on the fifth from our departure from Strasburgh",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "lay at the bottom of the boat",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "gazed on the cloudless blue sky and seemed to drink in a tranquillity",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "felt as if he had been transported to Fairy-land and enjoyed a happiness seldom tasted by man",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "said 'I have seen the most beautiful scenes of my own country; I have visited the lakes of Lucerne and Uri, where the snowy mountains descend almost perpendicularly to the water...'",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "heard the song of the labourers as we glided down the stream",
+          "character_id": "frankenstein"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "henry_clerval"
+      ],
+      "location": "the Rhine (boat voyage from Strasburgh to Rotterdam)",
+      "order": 189,
+      "scene_id": "scene_189",
+      "source_chunks": [
+        112
+      ],
+      "time": "during the vintage"
+    },
+    {
+      "actions": [
+        {
+          "action": "said \"I have seen, the most beautiful scenes of my own country; I have visited the lakes of Lucerne and Uri, where the snowy mountains descend almost perpendicularly to the water, casting black and impenetrable shades, which would cause a gloomy and mournful appearance were it not for the most verdant islands that relieve the eye by their gay appearance; I have seen this lake agitated by a tempest, when the wind tore up whirlwinds of water and gave you an idea of what the water-spout must be on the great ocean; and the waves dash with fury the base of the mountain, where the priest and his mistress were overwhelmed by an avalanche and where their dying voices are still said to be heard amid the pauses of the nightly wind; I have seen the mountains of La Valais, and the Pays de Vaud; but this country, Victor, pleases me more than all those wonders. The mountains of Switzerland are more majestic and strange, but there is a charm in the banks of this divine river that I never before saw equalled. Look at that castle which overhangs yon precipice; and that also on the island, almost concealed amongst the foliage of those lovely trees; and now that group of labourers coming from among their vines; and that village half hid in the recess of the mountain. Oh, surely the spirit that inhabits and guards this place has a soul more in harmony with man than those who pile the glacier or retire to the inaccessible peaks of the mountains of our own country.\"",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "exclaimed \"Clerval! Beloved friend! Even now it delights me to record your words and to dwell on the praise of which you are so eminently deserving.\"",
+          "character_id": "victor"
+        },
+        {
+          "action": "your spirit still visits and consoles your unhappy friend",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "soothed me",
+          "character_id": "henry_clerval"
+        }
+      ],
+      "characters_present": [
+        "henry_clerval",
+        "victor"
+      ],
+      "location": null,
+      "order": 190,
+      "scene_id": "scene_190",
+      "source_chunks": [
+        113,
+        114,
+        115
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "eagerly desired to accept this invitation",
+          "character_id": "henry_clerval"
+        }
+      ],
+      "characters_present": [
+        "henry_clerval"
+      ],
+      "location": "England",
+      "order": 193,
+      "scene_id": "scene_193",
+      "source_chunks": [
+        115
+      ],
+      "time": "arrived at the beginning of October; it was now February"
+    },
+    {
+      "actions": [
+        {
+          "action": "said \"I could pass my life here; and among these mountains I should scarcely regret Switzerland and the Rhine.\"",
+          "character_id": "henry_clerval"
+        },
+        {
+          "action": "might remain in Switzerland and wreak his vengeance on my relatives.",
+          "character_id": "dæmon"
+        }
+      ],
+      "characters_present": [
+        "dæmon",
+        "henry_clerval"
+      ],
+      "location": "Cumberland and Westmorland",
+      "order": 199,
+      "scene_id": "scene_199",
+      "source_chunks": [
+        117
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "followed me.",
+          "character_id": "monster"
+        },
+        {
+          "action": "would discover himself to me when I should have finished, that he might receive his companion.",
+          "character_id": "monster"
+        }
+      ],
+      "characters_present": [
+        "monster"
+      ],
+      "location": "one of the remotest of the Orkneys",
+      "order": 203,
+      "scene_id": "scene_203",
+      "source_chunks": [
+        119
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "called to one another",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "landed close to my house",
+          "character_id": "person"
+        },
+        {
+          "action": "endeavoured to open it softly",
+          "character_id": "some_one"
+        }
+      ],
+      "characters_present": [
+        "fishermen",
+        "person",
+        "some_one"
+      ],
+      "location": "my apartment",
+      "order": 206,
+      "scene_id": "scene_206",
+      "source_chunks": [
+        121
+      ],
+      "time": "Several hours passed"
+    },
+    {
+      "actions": [
+        {
+          "action": "called to one another",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "landed close to my house",
+          "character_id": "person"
+        },
+        {
+          "action": "the door opened and the wretch whom I dreaded appeared",
+          "character_id": "monster"
+        },
+        {
+          "action": "shut the door and approached me",
+          "character_id": "monster"
+        },
+        {
+          "action": "said in a smothered voice, \"You have destroyed the work which you began; what is it that you intend? Do you dare to break your promise? I have endured toil and misery; I left Switzerland with you; I crept along the shores of the Rhine...\"",
+          "character_id": "monster"
+        },
+        {
+          "action": "gnashed his teeth in the impotence of anger",
+          "character_id": "monster"
+        },
+        {
+          "action": "cried, \"Shall each man find a wife for his bosom, and each beast have his mate, and I be alone?... Revenge... I will watch with the wiliness of a snake, that I may sting with its venom.\"",
+          "character_id": "monster"
+        }
+      ],
+      "characters_present": [
+        "fishermen",
+        "monster",
+        "person"
+      ],
+      "location": "my house; near the shore",
+      "order": 207,
+      "scene_id": "scene_207",
+      "source_chunks": [
+        122
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "asked who appeared as witnesses on this occasion",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "observed me with a keen eye and drew an unfavourable augury from my manner",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "deposed that he had been out fishing the night before with his son and brother-in-law, Daniel Nugent",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "stated that about ten o’clock they observed a strong northerly blast rising and put in for port",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "recounted that one walked on first, struck his foot against something, and fell on the ground",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "said they carried the body to the cottage of an old woman and endeavoured, but in vain, to restore it to life",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "reported that the body appeared a handsome young man about five and twenty years of age with a black mark of fingers on his neck",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "swore positively that he saw a boat with a single man at a short distance from the shore and that it was the same boat in which I had just landed",
+          "character_id": "daniel_nugent"
+        }
+      ],
+      "characters_present": [
+        "daniel_nugent",
+        "fishermen",
+        "magistrate"
+      ],
+      "location": null,
+      "order": 219,
+      "scene_id": "scene_219",
+      "source_chunks": [
+        127,
+        128
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "brought the body into her house",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "put it into a bed and rubbed it",
+          "character_id": "fishermen"
+        },
+        {
+          "action": "went to the town for an apothecary",
+          "character_id": "daniel"
+        },
+        {
+          "action": "fell",
+          "character_id": "his_companion"
+        }
+      ],
+      "characters_present": [
+        "daniel",
+        "fishermen",
+        "his_companion"
+      ],
+      "location": "shore",
+      "order": 221,
+      "scene_id": "scene_221",
+      "source_chunks": [
+        129
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "had caused the best room in the prison to be prepared for me.",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "had provided a physician and a nurse.",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "seldom came to see me.",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "came sometimes to see that I was not neglected.",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "entered.",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "drew a chair close to mine.",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "addressed me in French, \"I fear that this place is very shocking to you; can I do anything to make you more comfortable?\"",
+          "character_id": "mr_kirwin"
+        }
+      ],
+      "characters_present": [
+        "mr_kirwin"
+      ],
+      "location": "prison",
+      "order": 226,
+      "scene_id": "scene_226",
+      "source_chunks": [
+        131
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "regarded me with a troubled countenance",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "said in rather a severe tone, \"I should have thought, young man, that the presence of your father would have been welcome instead of inspiring such violent repugnance.\"",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "cried, \"My father! Is my father indeed come? How kind, how very kind! But where is he, why does he not hasten to me?\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was surprised and pleased by my change of manner",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "rose and quitted the room with my nurse",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "entered it",
+          "character_id": "my_father"
+        },
+        {
+          "action": "stretched out my hand to him and cried, \"Are you then safe—and Elizabeth—and Ernest?\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "calmed me with assurances of their welfare and endeavoured, by dwelling on these subjects so interesting to my heart, to raise my desponding spirits",
+          "character_id": "my_father"
+        },
+        {
+          "action": "came in and insisted that my strength should not be exhausted by too much exertion",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "shed tears",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "gradually recovered my health",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was absorbed by a gloomy and black melancholy that nothing could dissipate",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "often sat for hours motionless and speechless, wishing for some mighty revolution that might bury me and my destr",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had already been three months in prison",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was obliged to travel nearly a hundred miles to the country town where the court was held",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "charged himself with every care of collecting witnesses and arranging my defence",
+          "character_id": "mr_kirwin"
+        },
+        {
+          "action": "was liberated from prison",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "magistrate",
+        "mr_kirwin",
+        "my_father"
+      ],
+      "location": "prison",
+      "order": 228,
+      "scene_id": "scene_228",
+      "source_chunks": [
+        133,
+        134
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "was enraptured on finding me freed",
+          "character_id": "my_father"
+        },
+        {
+          "action": "tried to awaken in me the feelings of affection",
+          "character_id": "my_father"
+        },
+        {
+          "action": "talked of Geneva, of Elizabeth and Ernest",
+          "character_id": "my_father"
+        },
+        {
+          "action": "did not participate in these feelings",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "often sat for hours motionless and speechless",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "felt a wish for happiness and thought with melancholy delight of my beloved cousin",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "longed to see once more the blue lake and rapid Rhone",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "often endeavoured to put an end to the existence I loathed",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "languishing in death",
+          "character_id": "henry"
+        },
+        {
+          "action": "had watery, clouded eyes",
+          "character_id": "monster"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "ernest",
+        "henry",
+        "monster",
+        "my_father"
+      ],
+      "location": null,
+      "order": 229,
+      "scene_id": "scene_229",
+      "source_chunks": [
+        134
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "often endeavoured to put an end to the existence I loathed",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "resolved that I should return without delay to Geneva",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "still desired to delay our departure",
+          "character_id": "my_father"
+        },
+        {
+          "action": "urged our leaving Ireland with such inquietude and impatience",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "my_father"
+      ],
+      "location": "Ireland",
+      "order": 230,
+      "scene_id": "scene_230",
+      "source_chunks": [
+        135
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "took our passage on board a vessel bound for Havre-de-Grace",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "lay on the deck looking at the stars and listening to the dashing of the waves",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "hailed the darkness that shut Ireland from my sight",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "reflected that I should soon see Geneva",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wept bitterly",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "swallowed double my usual quantity of laudanum",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "felt the fiend’s grasp in my neck and could not free myself from it",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was watching over me",
+          "character_id": "my_father"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "my_father"
+      ],
+      "location": "on board a vessel",
+      "order": 231,
+      "scene_id": "scene_231",
+      "source_chunks": [
+        135
+      ],
+      "time": "midnight"
+    },
+    {
+      "actions": [
+        {
+          "action": "said \"Alas! My father, how little do you know me. Human beings, their feelings and passions, would indeed be degraded if such a wretch as I felt pride. Justine, poor unhappy Justine, was as innocent as I, and she suffered the same charge; she died for it; and I am the cause of this—I murdered her. William, Justine, and Henry—they all died by my hands.\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "yielded at length to my desire to avoid society",
+          "character_id": "my_father"
+        },
+        {
+          "action": "strove by various arguments to banish my despair",
+          "character_id": "my_father"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "my_father"
+      ],
+      "location": "Paris",
+      "order": 233,
+      "scene_id": "scene_233",
+      "source_chunks": [
+        136
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "commenced our journey by water",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "took the hand of Elizabeth",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "enjoyed the feeling of happiness",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was sorrowful",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "on the lake",
+      "order": 240,
+      "scene_id": "scene_240",
+      "source_chunks": [
+        142
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "walked for a short time on the shore, enjoying the transitory light.",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "shore",
+      "order": 242,
+      "scene_id": "scene_242",
+      "source_chunks": [
+        143
+      ],
+      "time": "eight o'clock"
+    },
+    {
+      "actions": [
+        {
+          "action": "fell senseless on the ground",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "escaped from them to the room where lay the body of Elizabeth",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "lay with her head upon her arm and a handkerchief thrown across her face and neck",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "rushed towards her and embraced her",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "flung her bloodless arms and relaxed form on its bridal bier",
+          "character_id": "the_murderer"
+        },
+        {
+          "action": "grinned",
+          "character_id": "monster"
+        },
+        {
+          "action": "pointed towards the corpse of my wife",
+          "character_id": "monster"
+        },
+        {
+          "action": "drew a pistol and fired",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "eluded me",
+          "character_id": "the_murderer"
+        },
+        {
+          "action": "leaped from his station",
+          "character_id": "the_murderer"
+        },
+        {
+          "action": "plunged into the lake",
+          "character_id": "the_murderer"
+        },
+        {
+          "action": "pointed to the spot where he had disappeared",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "arose and crawled into the room where the corpse of my beloved lay",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "hung over the corpse and joined my sad tears to theirs",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "left the murderous mark on Elizabeth's neck",
+          "character_id": "the_murderer"
+        },
+        {
+          "action": "had ceased to breathe",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "monster",
+        "the_murderer"
+      ],
+      "location": "room",
+      "order": 245,
+      "scene_id": "scene_245",
+      "source_chunks": [
+        145
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "followed the track with boats",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "returned hopeless after several hours",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "lake",
+      "order": 246,
+      "scene_id": "scene_246",
+      "source_chunks": [
+        145
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "hired men to row",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "took an oar myself",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "threw down the oar",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "leaned my head upon my hands",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "gave way to every gloomy idea that arose",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "saw the fish play in the waters",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "tears streamed from my eyes",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "the lake",
+      "order": 249,
+      "scene_id": "scene_249",
+      "source_chunks": [
+        146
+      ],
+      "time": "hardly morning"
+    },
+    {
+      "actions": [
+        {
+          "action": "arrived at Geneva",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "sunk under the tidings that I bore",
+          "character_id": "my_father"
+        },
+        {
+          "action": "yet lived",
+          "character_id": "ernest"
+        },
+        {
+          "action": "eyes wandered in vacancy",
+          "character_id": "my_father"
+        },
+        {
+          "action": "died in my arms",
+          "character_id": "my_father"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "ernest",
+        "my_father"
+      ],
+      "location": "Geneva",
+      "order": 250,
+      "scene_id": "scene_250",
+      "source_chunks": [
+        146,
+        147
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "lost sensation",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "dreamt that I wandered in flowery meadows and pleasant vales with the friends of my youth",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "awoke and found myself in a dungeon",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was then released from my prison",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "a solitary cell had been my habitation",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth"
+      ],
+      "location": "dungeon",
+      "order": 251,
+      "scene_id": "scene_251",
+      "source_chunks": [
+        147
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "repaired to a criminal judge in the town",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "told him that I had an accusation to make, that I knew the destroyer of my family",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "listened to me with attention and kindness",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "said \"Be assured, sir, no pains or exertions on my part shall be spared to discover the villain.\"",
+          "character_id": "magistrate"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "magistrate"
+      ],
+      "location": "town",
+      "order": 252,
+      "scene_id": "scene_252",
+      "source_chunks": [
+        147
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "addressed him in an impressive but calm manner",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had formed in my own heart a resolution to pursue my destroyer to death",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "related my history briefly but with firmness and precision, marking the dates with accuracy and never deviating into invective or exclamation",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "said: \"This is the being whom I accuse and for whose seizure and punishment I call upon you to exert your whole power\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "spoke; rage sparkled in my eyes",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "appeared at first perfectly incredulous",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "became more attentive and interested",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "sometimes shuddered with horror",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "answered mildly: \"I would willingly afford you every aid in your pursuit, but the creature of whom you speak appears to have powers which would put all my exertions to defiance...\"",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "said: \"You are mistaken. I will exert myself, and if it is in my power to seize the monster, be assured that he shall suffer punishment proportionate to his crimes\"",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "was intimidated",
+          "character_id": "magistrate"
+        },
+        {
+          "action": "first resolution was to quit Geneva for ever.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "provided myself with a sum of money, together with a few jewels which had belonged to my mother, and departed.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wanderings began which are to cease but with life.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "have traversed a vast portion of the earth and have endured all the hardships which travellers in deserts and barbarous countries are wont to meet.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "many times have I stretched my failing limbs upon the sandy plain and prayed for death.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "revenge kept me alive; I dared not die and leave my adversary in being.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "first labour was to gain some clue by which I might trace the steps of my fiendish enemy.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wandered many hours round the confines of the town, uncertain what path I should pursue.",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "magistrate"
+      ],
+      "location": null,
+      "order": 253,
+      "scene_id": "scene_253",
+      "source_chunks": [
+        148,
+        149
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "found myself at the entrance of the cemetery where William, Elizabeth, and my father reposed.",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "entered it",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "approached the tomb which marked their graves.",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "my_father",
+        "william"
+      ],
+      "location": "entrance of the cemetery",
+      "order": 255,
+      "scene_id": "scene_255",
+      "source_chunks": [
+        149
+      ],
+      "time": "as night approached"
+    },
+    {
+      "actions": [
+        {
+          "action": "found myself at the entrance of the cemetery",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "entered it and approached the tomb which marked their graves",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "knelt on the grass and kissed the earth",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "with quivering lips exclaimed, \"By the sacred earth on which I kneel... to pursue the dæmon who caused this misery, until he or I shall perish in mortal conflict.\"",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "reposed",
+          "character_id": "william"
+        },
+        {
+          "action": "reposed",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "reposed",
+          "character_id": "my_father"
+        },
+        {
+          "action": "answered through the stillness of night by a loud and fiendish laugh",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "addressed me in an audible whisper, \"I am satisfied, miserable wretch! You have determined to live, and I am satisfied.\"",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "eluded my grasp",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "fled with more than mortal speed",
+          "character_id": "dæmon"
+        }
+      ],
+      "characters_present": [
+        "dæmon",
+        "elizabeth",
+        "my_father",
+        "william"
+      ],
+      "location": "entrance of the cemetery",
+      "order": 256,
+      "scene_id": "scene_256",
+      "source_chunks": [
+        150
+      ],
+      "time": "night"
+    },
+    {
+      "actions": [
+        {
+          "action": "pursued him",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "followed the windings of the Rhone",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "saw the fiend enter by night and hide himself in a vessel bound for the Black Sea",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "took my passage in the same ship",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "escaped",
+          "character_id": "the_fiend"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "the_fiend"
+      ],
+      "location": null,
+      "order": 257,
+      "scene_id": "scene_257",
+      "source_chunks": [
+        150
+      ],
+      "time": "for many months"
+    },
+    {
+      "actions": [
+        {
+          "action": "left marks in writing on the barks of the trees",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "cut marks in stone",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "inscribed \"My reign is not yet over\"",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "again do I vow vengeance",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "pursued my journey to the northward",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was cut off from my chief article of maintenance",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "resolved not to fail in my purpose",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "called on Heaven to support me",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "continued with unabated fervour to traverse immense deserts",
+          "character_id": "elizabeth"
+        }
+      ],
+      "characters_present": [
+        "dæmon",
+        "elizabeth"
+      ],
+      "location": "northward",
+      "order": 259,
+      "scene_id": "scene_259",
+      "source_chunks": [
+        152
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "continued with unabated fervour to traverse immense deserts",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "knelt down and with a full heart thanked my guiding spirit for conducting me in safety to the place where I hoped, notwithstanding my adversary’s gibe, to meet and grapple with him",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "wept for joy when they beheld the Mediterranean from the hills of Asia, and hailed with rapture the boundary of their toils",
+          "character_id": "greeks"
+        },
+        {
+          "action": "was but one day's journey in advance when I first saw the ocean",
+          "character_id": "the_fiend"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "greeks",
+        "the_fiend"
+      ],
+      "location": "ocean",
+      "order": 260,
+      "scene_id": "scene_260",
+      "source_chunks": [
+        153
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "pressed on, and in two days arrived at a wretched hamlet on the seashore",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "inquired of the inhabitants concerning the fiend and gained accurate information",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "suffered a temporary access of despair",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "prepared for my journey",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "exchanged my land-sledge for one fashioned for the inequalities of the Frozen Ocean",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had arrived the night before, armed with a gun and many pistols",
+          "character_id": "monster"
+        },
+        {
+          "action": "put to flight the inhabitants of a solitary cottage through fear of his terrific appearance",
+          "character_id": "monster"
+        },
+        {
+          "action": "had carried off their store of winter food",
+          "character_id": "monster"
+        },
+        {
+          "action": "placing it in a sledge, to draw which he had seized on a numerous drove of trained dogs, he had harnessed them",
+          "character_id": "monster"
+        },
+        {
+          "action": "had pursued his journey across the sea in a direction that led to no land",
+          "character_id": "monster"
+        },
+        {
+          "action": "had escaped me",
+          "character_id": "the_fiend"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "monster",
+        "the_fiend"
+      ],
+      "location": "wretched hamlet on the seashore",
+      "order": 261,
+      "scene_id": "scene_261",
+      "source_chunks": [
+        153
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "was left drifting on a scattered piece of ice that was continually lessening",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "several of my dogs died",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "quickly destroyed part of my sledge to construct oars",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "was enabled, with infinite fatigue, to move my ice raft in the direction of your ship",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "had determined, if you were going southwards, still to trust myself to the mercy of the seas rather than abandon my purpose",
+          "character_id": "elizabeth"
+        },
+        {
+          "action": "took me on board when my vigour was exhausted",
+          "character_id": "r_walton"
+        }
+      ],
+      "characters_present": [
+        "elizabeth",
+        "r_walton"
+      ],
+      "location": null,
+      "order": 263,
+      "scene_id": "scene_263",
+      "source_chunks": [
+        155
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "was dozing",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "awoke and asked the cause of the tumult",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "said, \"Do so, if you will; but I will not. You may give up your purpose, but mine is assigned to me by Heaven\"",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "endeavoured to spring from the bed but fell back and fainted",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "opened his eyes; he breathed with difficulty and was unable to speak",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "called in a feeble voice and bidding me come near said, \"Alas! The strength I relied on is gone; I feel that I shall soon die\"",
+          "character_id": "frankenstein"
+        }
+      ],
+      "characters_present": [
+        "frankenstein"
+      ],
+      "location": null,
+      "order": 271,
+      "scene_id": "scene_271",
+      "source_chunks": [
+        161
+      ],
+      "time": "September 9th"
+    },
+    {
+      "actions": [
+        {
+          "action": "sat by his bed, watching him",
+          "character_id": "r_walton"
+        },
+        {
+          "action": "could only grieve and be patient",
+          "character_id": "r_walton"
+        },
+        {
+          "action": "thought he slept",
+          "character_id": "r_walton"
+        },
+        {
+          "action": "called to me in a feeble voice",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "bidding me come near",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "said, \"Alas! The strength I relied on is gone; I feel that I shall soon die, and he, my enemy and persecutor, may still be in being.\"",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "sank into silence",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "attempted again to speak but was unable",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "pressed my hand feebly",
+          "character_id": "frankenstein"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "r_walton"
+      ],
+      "location": null,
+      "order": 272,
+      "scene_id": "scene_272",
+      "source_chunks": [
+        162
+      ],
+      "time": null
+    },
+    {
+      "actions": [
+        {
+          "action": "pressed my hand feebly and his eyes closed for ever",
+          "character_id": "frankenstein"
+        },
+        {
+          "action": "journey towards England",
+          "character_id": "r_walton"
+        },
+        {
+          "action": "arose and entered the cabin where lay the remains of my ill-fated and admirable friend",
+          "character_id": "r_walton"
+        },
+        {
+          "action": "hung over the coffin, his face concealed by long locks of ragged hair; one vast hand was extended",
+          "character_id": "monster"
+        },
+        {
+          "action": "ceased to utter exclamations of grief and horror and sprung towards the window",
+          "character_id": "monster"
+        },
+        {
+          "action": "shut my eyes involuntarily and endeavoured to recollect what were my duties with regard to this destroyer",
+          "character_id": "r_walton"
+        },
+        {
+          "action": "called on him to stay",
+          "character_id": "r_walton"
+        },
+        {
+          "action": "paused, looking on me with wonder and turned towards the lifeless form of his creator",
+          "character_id": "monster"
+        },
+        {
+          "action": "exclaimed \"That is also my victim! In his murder my crimes are consummated; the miserable series of my being is wound to its close! Oh, Frankenstein! Generous and self-devoted being! What does it avail that I now ask thee to pardon me? I, who irretrievably destroyed thee by destroying all thou lovedst. Alas! He is cold, he cannot answer me.\"",
+          "character_id": "monster"
+        }
+      ],
+      "characters_present": [
+        "frankenstein",
+        "monster",
+        "r_walton"
+      ],
+      "location": "cabin",
+      "order": 273,
+      "scene_id": "scene_273",
+      "source_chunks": [
+        163
+      ],
+      "time": "midnight"
+    },
+    {
+      "actions": [
+        {
+          "action": "said \"Do you dream? Do you think that I was then dead to agony and remorse?\"",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "pointing to the corpse",
+          "character_id": "dæmon"
+        },
+        {
+          "action": "continued to utter wild and incoherent self-reproaches",
+          "character_id": "monster"
+        },
+        {
+          "action": "said \"Evil thenceforth became my good.\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "said \"The completion of my demoniacal design became an insatiable passion.\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "interrupted with \"Oh, it is not thus—not thus,\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "said \"I seek not a fellow feeling in my misery.\"",
+          "character_id": "the_being"
+        },
+        {
+          "action": "drove his friend from his door with contumely",
+          "character_id": "felix"
+        },
+        {
+          "action": "lies white and cold in death",
+          "character_id": "frankenstein"
+        }
+      ],
+      "characters_present": [
+        "dæmon",
+        "felix",
+        "frankenstein",
+        "monster",
+        "the_being"
+      ],
+      "location": null,
+      "order": 274,
+      "scene_id": "scene_274",
+      "source_chunks": [
+        164,
+        165,
+        166
+      ],
+      "time": null
+    }
+  ]
+}

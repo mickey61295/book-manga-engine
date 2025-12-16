@@ -1,0 +1,72 @@
+{
+  "name": "story-to-manga",
+  "displayName": "Story to Manga Engine",
+  "description": "Deterministic narrative processing: extract character mentions from large stories.",
+  "version": "0.0.1",
+  "publisher": "local",
+  "private": true,
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "storyToManga.extractCharacters",
+        "title": "Story to Manga: Extract Characters (Mentions)"
+      },
+      {
+        "command": "storyToManga.canonicalizeCharacters",
+        "title": "Story to Manga: Canonicalize Characters (Copilot)"
+      },
+      {
+        "command": "storyToManga.normalizeCharacterVisualTraits",
+        "title": "Story to Manga: Normalize Character Visual Traits (GPT-5-mini)"
+      },
+      {
+        "command": "storyToManga.extractScenes",
+        "title": "Story to Manga: Extract Scenes (Copilot)"
+      },
+      {
+        "command": "storyToManga.normalizeScenes",
+        "title": "Story to Manga: Normalize & Merge Scenes"
+      },
+      {
+        "command": "storyToManga.resolveNarratorPov",
+        "title": "Story to Manga: Resolve Narrator / POV"
+      },
+      {
+        "command": "storyToManga.classifyScenes",
+        "title": "Story to Manga: Classify Scenes (Visual Gate)"
+      },
+      {
+        "command": "storyToManga.detectAppearanceStates",
+        "title": "Story to Manga: Detect Appearance States"
+      },
+      {
+        "command": "storyToManga.segmentPanels",
+        "title": "Story to Manga: Segment Panels"
+      }
+    ]
+  },
+  "enabledApiProposals": [
+    "languageModelSystem"
+  ],
+  "scripts": {
+    "compile": "tsc -p .",
+    "watch": "tsc -watch -p .",
+    "aggregate": "npm run compile && node tools/runAggregator.cjs",
+    "lint": "eslint .",
+    "vscode:prepublish": "npm run compile"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/vscode": "^1.94.0",
+    "eslint": "^9.17.0",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.0"
+  }
+}

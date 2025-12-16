@@ -1,0 +1,1 @@
+export { extractScenesCommand } from './extractScenesCommand';

@@ -1,0 +1,4478 @@
+{
+  "characters": {
+    "Adam": {
+      "actions": {
+        "acquired knowledge from beings of a superior nature": 1,
+        "came forth from the hands of God": 1,
+        "conversed with beings of a superior nature": 1,
+        "made supplication to his Creator": 1
+      },
+      "aliases": [
+        "Adam"
+      ],
+      "canonical_name": "Adam",
+      "chunks": [
+        68,
+        92,
+        93
+      ],
+      "descriptions": {
+        "allowed to converse with and acquire knowledge from beings of a superior nature": 1,
+        "guarded by the especial care of his Creator": 1,
+        "happy and prosperous": 1,
+        "perfect creature": 1,
+        "thy Adam": 1
+      },
+      "mentions": 3
+    },
+    "Agatha": {
+      "actions": {
+        "asked a question": 1,
+        "departed on a long country walk": 1,
+        "endeavoured to wipe away tears": 1,
+        "entered the cottage": 1,
+        "fainted": 1,
+        "finished her usual occupations": 1,
+        "flitted before me": 1,
+        "found a miserable asylum in a cottage in Germany": 1,
+        "had letters often in her hands": 1,
+        "her voice accompanied her playing in sweet accents": 1,
+        "initially declined the guitar": 1,
+        "kissed the hands of the lovely stranger": 1,
+        "lay in a noisome dungeon": 1,
+        "listened to the exhortations of her father": 1,
+        "listened with respect": 1,
+        "loved and sympathised with one another": 1,
+        "played a simple air": 1,
+        "pointed to her brother and made signs": 1,
+        "remained confined for five months before the trial": 1,
+        "retired early": 1,
+        "spent more time in amusement and conversation": 1,
+        "spoke gentle words": 1,
+        "was condemned to a perpetual exile from their native country": 1,
+        "was deprived of fortune": 1,
+        "was thrown into prison": 1
+      },
+      "aliases": [
+        "Agatha"
+      ],
+      "canonical_name": "Agatha",
+      "chunks": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        85,
+        86,
+        87,
+        88,
+        93,
+        94,
+        96,
+        99
+      ],
+      "descriptions": {
+        "assisted in their labours by servants": 1,
+        "child of De Lacey": 1,
+        "contented and happy": 1,
+        "countenance and tone more cheerful after father's exhortations": 1,
+        "did not appear rich": 1,
+        "ever-gentle": 1,
+        "eyes sometimes filled with tears": 1,
+        "feelings serene and peaceful": 1,
+        "gentle": 2,
+        "gentle eyes": 1,
+        "gentle manners and beauty": 1,
+        "gentle sister": 1,
+        "had usual occupations": 1,
+        "ranked with ladies of the highest distinction": 1,
+        "so sad": 1,
+        "the girl": 1,
+        "younger protector": 1
+      },
+      "mentions": 14
+    },
+    "aged cottager": {
+      "actions": {
+        "won my reverence": 1
+      },
+      "aliases": [
+        "aged cottager"
+      ],
+      "canonical_name": "aged cottager",
+      "chunks": [
+        75
+      ],
+      "descriptions": {
+        "benevolent countenance": 1,
+        "silver hair": 1
+      },
+      "mentions": 1
+    },
+    "Al Haines": {
+      "actions": {
+        "created HTML version": 1
+      },
+      "aliases": [
+        "Al Haines"
+      ],
+      "canonical_name": "Al Haines",
+      "chunks": [
+        0
+      ],
+      "descriptions": {
+        "HTML version author": 1
+      },
+      "mentions": 1
+    },
+    "Albertus Magnus": {
+      "actions": {},
+      "aliases": [
+        "Albertus Magnus"
+      ],
+      "canonical_name": "Albertus Magnus",
+      "chunks": [
+        19,
+        21,
+        24,
+        25
+      ],
+      "descriptions": {
+        "associated with ancient fancies": 1,
+        "lord of my imagination": 1,
+        "referenced as an older authority": 1,
+        "writer whose works contain wild fancies": 1
+      },
+      "mentions": 4
+    },
+    "Alps": {
+      "actions": {
+        "towered above all": 1
+      },
+      "aliases": [
+        "Alps"
+      ],
+      "canonical_name": "Alps",
+      "chunks": [
+        64
+      ],
+      "descriptions": {
+        "mighty": 1,
+        "white and shining pyramids and domes": 1
+      },
+      "mentions": 1
+    },
+    "Alps of Savoy": {
+      "actions": {},
+      "aliases": [
+        "Alps of Savoy"
+      ],
+      "canonical_name": "Alps of Savoy",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "Alps": 1
+      },
+      "mentions": 1
+    },
+    "Ancient Mariner": {
+      "actions": {},
+      "aliases": [
+        "Ancient Mariner"
+      ],
+      "canonical_name": "Ancient Mariner",
+      "chunks": [
+        5,
+        35
+      ],
+      "descriptions": {
+        "poem title": 1,
+        "worn and woeful": 1
+      },
+      "mentions": 2
+    },
+    "Angel of Destruction": {
+      "actions": {
+        "led narrator to M. Krempe": 1
+      },
+      "aliases": [
+        "Angel of Destruction"
+      ],
+      "canonical_name": "Angel of Destruction",
+      "chunks": [
+        24
+      ],
+      "descriptions": {
+        "an evil influence": 1,
+        "asserted omnipotent sway over narrator": 1
+      },
+      "mentions": 1
+    },
+    "Angelica": {
+      "actions": {},
+      "aliases": [
+        "Angelica"
+      ],
+      "canonical_name": "Angelica",
+      "chunks": [
+        40
+      ],
+      "descriptions": {
+        "beauty referenced": 1
+      },
+      "mentions": 1
+    },
+    "Arabian": {
+      "actions": {
+        "conversed with Felix by looks": 1,
+        "conversed with Felix through the means of an interpreter": 1,
+        "exhibited the simplest and tenderest affection towards Felix": 1,
+        "found a passage to life": 1,
+        "gave animated smiles": 1,
+        "sat at the feet of the old man": 1,
+        "took his guitar and played entrancing airs": 1,
+        "was aided by one glimmering and seemingly ineffectual light": 1
+      },
+      "aliases": [
+        "Arabian",
+        "the Arabian"
+      ],
+      "canonical_name": "Arabian",
+      "chunks": [
+        30,
+        83,
+        84,
+        85,
+        88
+      ],
+      "descriptions": {
+        "Arabian": 1,
+        "buried with the dead": 1,
+        "charming": 1,
+        "conversed in broken accents": 1,
+        "understood very little": 1
+      },
+      "mentions": 5
+    },
+    "Ariosto": {
+      "actions": {
+        "gives a reason concerning Angelica's beauty": 1
+      },
+      "aliases": [
+        "Ariosto"
+      ],
+      "canonical_name": "Ariosto",
+      "chunks": [
+        40
+      ],
+      "descriptions": {
+        "author referenced concerning Angelica's beauty": 1
+      },
+      "mentions": 1
+    },
+    "Arve": {
+      "actions": {
+        "pursued its noisy way beneath": 2,
+        "raging among the rocks": 1
+      },
+      "aliases": [
+        "Arve"
+      ],
+      "canonical_name": "Arve",
+      "chunks": [
+        64,
+        65
+      ],
+      "descriptions": {
+        "impetuous": 1,
+        "river": 1,
+        "rushing": 1
+      },
+      "mentions": 2
+    },
+    "Arveiron": {
+      "actions": {},
+      "aliases": [
+        "Arveiron"
+      ],
+      "canonical_name": "Arveiron",
+      "chunks": [
+        64,
+        65
+      ],
+      "descriptions": {
+        "has sources": 1,
+        "sources take their rise in a glacier": 1
+      },
+      "mentions": 2
+    },
+    "Asiatics": {
+      "actions": {},
+      "aliases": [
+        "Asiatics"
+      ],
+      "canonical_name": "Asiatics",
+      "chunks": [
+        84
+      ],
+      "descriptions": {
+        "slothful": 1
+      },
+      "mentions": 1
+    },
+    "Austrian": {
+      "actions": {
+        "restored part of Elizabeth's inheritance to her": 1
+      },
+      "aliases": [
+        "Austrian"
+      ],
+      "canonical_name": "Austrian",
+      "chunks": [
+        141
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Beaufort": {
+      "actions": {
+        "attended him with the greatest tenderness": 1,
+        "committed herself to his care": 1,
+        "concealed himself": 1,
+        "contrived to earn a pittance": 1,
+        "contrived to earn a pittance scarcely sufficient to support life": 1,
+        "kneeling by the coffin of her dead father": 1,
+        "knelt by Beaufort's coffin weeping bitterly": 1,
+        "paid his debts": 1,
+        "plaited straw": 2,
+        "procured plain work": 2,
+        "retreated with his daughter to the town of Lucerne": 1,
+        "saved a small sum of money": 1
+      },
+      "aliases": [
+        "Beaufort",
+        "Caroline Beaufort"
+      ],
+      "canonical_name": "Beaufort",
+      "chunks": [
+        13,
+        14,
+        50
+      ],
+      "descriptions": {
+        "air of dignity and beauty": 1,
+        "associated with a coffin": 1,
+        "cheek pale": 1,
+        "courage rose to support her in her adversity": 1,
+        "courageous": 1,
+        "daughter of Beaufort": 1,
+        "fell into poverty": 1,
+        "garb rustic": 1,
+        "in an agony of despair": 1,
+        "lay on a bed of sickness, incapable of any exertion": 1,
+        "lived unknown and in wretchedness": 1,
+        "merchant": 1,
+        "mind of an uncommon mould": 1,
+        "orphan and a beggar": 1,
+        "possessed a mind of an uncommon mould": 1,
+        "proud and unbending disposition": 1,
+        "saved a very small sum of money": 1
+      },
+      "mentions": 5
+    },
+    "Belrive": {
+      "actions": {},
+      "aliases": [
+        "Belrive"
+      ],
+      "canonical_name": "Belrive",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "promontory": 1
+      },
+      "mentions": 1
+    },
+    "berg Literary Archive Foundation": {
+      "actions": {
+        "owns a compilation copyright in the collection of Project Gutenberg™ electronic works": 1
+      },
+      "aliases": [
+        "berg Literary Archive Foundation"
+      ],
+      "canonical_name": "berg Literary Archive Foundation",
+      "chunks": [
+        169
+      ],
+      "descriptions": {
+        "appears with aliases \"the Foundation\" and \"PGLAF\"": 1
+      },
+      "mentions": 1
+    },
+    "blackbird": {
+      "actions": {
+        "uttered sweet and enticing notes": 1
+      },
+      "aliases": [
+        "blackbird"
+      ],
+      "canonical_name": "blackbird",
+      "chunks": [
+        71
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "brother": {
+      "actions": {},
+      "aliases": [
+        "brother"
+      ],
+      "canonical_name": "brother",
+      "chunks": [
+        78
+      ],
+      "descriptions": {
+        "name given to the youth": 1
+      },
+      "mentions": 1
+    },
+    "Cæsar": {
+      "actions": {
+        "would have spared his country": 1
+      },
+      "aliases": [
+        "Cæsar"
+      ],
+      "canonical_name": "Cæsar",
+      "chunks": [
+        33
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Caroline": {
+      "actions": {
+        "became his wife": 1
+      },
+      "aliases": [
+        "Caroline"
+      ],
+      "canonical_name": "Caroline",
+      "chunks": [
+        14
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Chamounix": {
+      "actions": {},
+      "aliases": [
+        "Chamounix"
+      ],
+      "canonical_name": "Chamounix",
+      "chunks": [
+        64
+      ],
+      "descriptions": {
+        "more wonderful and sublime": 1,
+        "valley": 1,
+        "village": 1
+      },
+      "mentions": 1
+    },
+    "Christy Phillips": {
+      "actions": {},
+      "aliases": [
+        "Christy Phillips"
+      ],
+      "canonical_name": "Christy Phillips",
+      "chunks": [
+        0
+      ],
+      "descriptions": {
+        "credited": 1
+      },
+      "mentions": 1
+    },
+    "Coleridge": {
+      "actions": {},
+      "aliases": [
+        "Coleridge"
+      ],
+      "canonical_name": "Coleridge",
+      "chunks": [
+        35,
+        36
+      ],
+      "descriptions": {
+        "author of 'Ancient Mariner'": 1,
+        "author of Ancient Mariner": 1
+      },
+      "mentions": 2
+    },
+    "Copêt": {
+      "actions": {},
+      "aliases": [
+        "Copêt"
+      ],
+      "canonical_name": "Copêt",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "village": 1
+      },
+      "mentions": 1
+    },
+    "Cornelius Agrippa": {
+      "actions": {
+        "attempts to demonstrate a theory": 1,
+        "relates wonderful facts": 1
+      },
+      "aliases": [
+        "Cornelius Agrippa"
+      ],
+      "canonical_name": "Cornelius Agrippa",
+      "chunks": [
+        19,
+        21,
+        27,
+        28,
+        43
+      ],
+      "descriptions": {
+        "author": 1,
+        "lord of my imagination": 1,
+        "object of firm belief by a youngster": 1
+      },
+      "mentions": 5
+    },
+    "dæmon": {
+      "actions": {
+        "allotted a task to me": 1,
+        "came to mark my progress": 1,
+        "claimed the fulfilment of my promise": 1,
+        "followed me in my travels": 1,
+        "gazed on me": 1,
+        "hid himself in caves": 1,
+        "loitered in forests": 1,
+        "made fiendish threats": 1,
+        "murdered Clerval": 1,
+        "pitied Frankenstein": 1,
+        "pointed to the corpse": 1,
+        "recollected his threat and resolved that it should be accomplished": 1,
+        "returned to Switzerland": 1,
+        "saw me destroy the creature on whose future existence he depended": 1,
+        "took refuge in wide and desert heaths": 1,
+        "uttered wild and incoherent self-reproaches": 1,
+        "withdrew with a howl": 1,
+        "would employ every art to destroy me and tear me from the glimpse of happiness": 1
+      },
+      "aliases": [
+        "dæmon",
+        "the dæmon"
+      ],
+      "canonical_name": "dæmon",
+      "chunks": [
+        121,
+        122,
+        139,
+        164
+      ],
+      "descriptions": {
+        "abhorred himself": 1,
+        "being I had created": 1,
+        "cast off all feeling": 1,
+        "countenance expressed malice and treachery": 1,
+        "dæmon": 1,
+        "ghastly grin": 1,
+        "heart fashioned to be susceptible of love and sympathy": 1,
+        "slave of an impulse": 1,
+        "thirsted for sympathies": 1,
+        "whose delight is in death and wretchedness": 1
+      },
+      "mentions": 4
+    },
+    "Daniel": {
+      "actions": {
+        "went to the town for an apothecary": 1
+      },
+      "aliases": [
+        "Daniel"
+      ],
+      "canonical_name": "Daniel",
+      "chunks": [
+        129
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Daniel Nugent": {
+      "actions": {
+        "said he saw a boat with a single man at a short distance from the shore": 1,
+        "swore positively": 1,
+        "was called as a witness": 1
+      },
+      "aliases": [
+        "Daniel Nugent"
+      ],
+      "canonical_name": "Daniel Nugent",
+      "chunks": [
+        128
+      ],
+      "descriptions": {
+        "brother-in-law": 1,
+        "one of the fishermen": 1
+      },
+      "mentions": 1
+    },
+    "Dante": {
+      "actions": {},
+      "aliases": [
+        "Dante"
+      ],
+      "canonical_name": "Dante",
+      "chunks": [
+        35
+      ],
+      "descriptions": {
+        "could not have conceived such a thing": 1
+      },
+      "mentions": 1
+    },
+    "David Meltzer": {
+      "actions": {},
+      "aliases": [
+        "David Meltzer"
+      ],
+      "canonical_name": "David Meltzer",
+      "chunks": [
+        0
+      ],
+      "descriptions": {
+        "credited": 1
+      },
+      "mentions": 1
+    },
+    "De Lacey": {
+      "actions": {
+        "addressed the narrator": 1,
+        "asked 'Who is there?'": 1,
+        "countenance was illuminated with pleasure": 1,
+        "did not appear": 1,
+        "found a miserable asylum in a cottage in Germany": 1,
+        "laid aside the instrument": 1,
+        "lay in a noisome dungeon": 1,
+        "offered to relieve the stranger's wants": 1,
+        "paused": 1,
+        "played several mournful but sweet airs": 1,
+        "remained confined for five months before the trial": 1,
+        "said 'Come in.'": 1,
+        "said 'Enter'": 1,
+        "sat absorbed in reflection": 1,
+        "took up his guitar": 1,
+        "was condemned to a perpetual exile from their native country": 1,
+        "was deprived of fortune": 1,
+        "was interested in my behalf": 1,
+        "was thrown into prison": 1,
+        "were not seen again": 1
+      },
+      "aliases": [
+        "De Lacey"
+      ],
+      "canonical_name": "De Lacey",
+      "chunks": [
+        86,
+        88,
+        89,
+        90,
+        94,
+        95,
+        97,
+        98,
+        99
+      ],
+      "descriptions": {
+        "associated with a cottage": 1,
+        "beloved by his equals": 1,
+        "blind": 2,
+        "blind and aged father": 1,
+        "descended from a good family in France": 1,
+        "family": 1,
+        "father": 1,
+        "has children": 1,
+        "left alone in the cottage at his own desire": 1,
+        "lived for many years in affluence": 1,
+        "mild voice": 1,
+        "old": 2,
+        "old man": 1,
+        "owner of a cottage in Germany": 1,
+        "respected by his superiors": 1
+      },
+      "mentions": 9
+    },
+    "Destiny": {
+      "actions": {
+        "decreed my utter and terrible destruction": 2
+      },
+      "aliases": [
+        "Destiny"
+      ],
+      "canonical_name": "Destiny",
+      "chunks": [
+        21,
+        22
+      ],
+      "descriptions": {
+        "had immutable laws": 2,
+        "too potent": 2
+      },
+      "mentions": 2
+    },
+    "Elizabeth": {
+      "actions": {
+        "accused herself of causing the death of my brother": 1,
+        "accuses herself unjustly as the cause of his death": 1,
+        "acquiesced": 1,
+        "acted the comforter to us all": 1,
+        "addressed the court": 1,
+        "arranged that Clerval should join at Strasburgh": 1,
+        "assumed duties": 1,
+        "bade a tearful, silent farewell": 1,
+        "beheld his emaciated frame and feverish cheeks": 1,
+        "beheld Justine": 1,
+        "bestowed the last feminine attentions": 1,
+        "bestowed the last feminine attentions on her playmate and friend": 1,
+        "blessed and animated the family": 1,
+        "busied herself with following the aerial creations of the poets": 1,
+        "clasped her hands and exclaimed 'O God! I have murdered my darling child!'": 1,
+        "commenced journey by water": 1,
+        "confesses love to Victor": 1,
+        "conjectured he might have returned to the house": 1,
+        "conjectured that he might have returned to the house": 1,
+        "contemplated the magnificent appearances of things with a serious and satisfied spirit": 1,
+        "cried that she wished to die with Justine": 1,
+        "desired permission to address the court": 1,
+        "devoted herself to her uncle and cousins": 1,
+        "drew him from fits": 1,
+        "eagerly demanded the result": 2,
+        "endeavoured to divert her thoughts and mine": 1,
+        "endeavoured to inspire resignation": 1,
+        "endeavoured to make us forget": 1,
+        "entered the prison chamber": 1,
+        "entered the room where it lay": 1,
+        "expressed expectation to see him looking ill": 1,
+        "expressed hope to see him in less than a fortnight": 1,
+        "fainted": 1,
+        "forgot her own regret": 1,
+        "found admiration and delight in the majestic scenes of their Swiss home": 1,
+        "gave permission to Justine to pass the evening": 1,
+        "has often wished to express feelings but lacked courage": 1,
+        "hastily examined the neck of the victim": 1,
+        "interfered (generously)": 1,
+        "joined them": 1,
+        "kindly took my hand": 1,
+        "left": 1,
+        "lived in the same house with the accused": 1,
+        "lived with his parents long before his birth": 1,
+        "longed to bid narrator hasten return": 1,
+        "looked forward to their union": 1,
+        "looked steadily on life": 1,
+        "observed fish play": 1,
+        "observed my agitation": 1,
+        "persisted to see the corpse": 1,
+        "postponed writing no longer": 1,
+        "present at the ceremony": 1,
+        "prevented him from encountering the inconveniences of a long journey": 1,
+        "proved the picture was the same": 1,
+        "provided a companion": 1,
+        "read my anguish in my countenance": 1,
+        "read the narrator's anguish in his countenance": 1,
+        "recalled the sunshine of her smiles and spent them upon us": 1,
+        "remonstrated": 1,
+        "renewed entreaties that I would write often": 1,
+        "renewed entreaties that narrator would write often": 1,
+        "replied": 1,
+        "restrained her uncle from undertaking a journey": 1,
+        "retired to a room": 1,
+        "said 'My dearest friend, you must calm yourself.'": 1,
+        "said 'Observe' and 'Look'": 1,
+        "said 'Rise, my poor girl'": 1,
+        "said comforting words ('My dearest friend, you must calm yourself')": 1,
+        "said he was more convinced of Justine's innocence than she was": 1,
+        "said she could not survive so horrible a misfortune": 1,
+        "said she would go to see Justine": 1,
+        "said she would proclaim and prove Justine's innocence": 1,
+        "said Victor shall accompany her": 1,
+        "sent letters": 1,
+        "shrieked a shrill and dreadful scream": 1,
+        "slept at Evian": 1,
+        "soothed him with her voice": 1,
+        "spoke": 1,
+        "subdued the narrator to a semblance of her gentleness": 1,
+        "suffered extreme anguish": 1,
+        "thought of the dreadful secret": 1,
+        "took the narrator's hand": 1,
+        "tore herself away with difficulty": 1,
+        "trembling asked a question": 1,
+        "veiled her grief": 1,
+        "voice heard": 1,
+        "walking in the streets of Ingolstadt": 1,
+        "was hardly deceived by his appearance": 1,
+        "was present at the carriage": 1,
+        "was restored with extreme difficulty": 1,
+        "weeps": 1,
+        "weeps continually": 1,
+        "welcomed him with warm affection": 1,
+        "welcomed the narrator with affection": 1,
+        "wept": 4,
+        "wept and sighed": 1,
+        "wept with and for him": 1,
+        "will relate Justine Moritz's history": 1,
+        "writes a letter": 1,
+        "wrote a letter": 2,
+        "wrote the letter": 1
+      },
+      "aliases": [
+        "Elizabeth"
+      ],
+      "canonical_name": "Elizabeth",
+      "chunks": [
+        17,
+        18,
+        22,
+        23,
+        24,
+        34,
+        36,
+        37,
+        38,
+        39,
+        45,
+        46,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        61,
+        62,
+        63,
+        108,
+        109,
+        110,
+        111,
+        118,
+        123,
+        126,
+        133,
+        134,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        149,
+        150,
+        151,
+        152,
+        155,
+        158
+      ],
+      "descriptions": {
+        "a little fear": 1,
+        "acquiesced to journey": 1,
+        "affectionate playfellow in childhood": 1,
+        "amiable companion": 1,
+        "attached to the narrator from earliest infancy": 1,
+        "beloved": 1,
+        "beloved and only friend (to Justine)": 1,
+        "bloodless arms": 2,
+        "candour": 1,
+        "caught scarlet fever": 1,
+        "celestial eyes": 1,
+        "cold limbs": 1,
+        "comforter": 1,
+        "corpse": 1,
+        "cousin": 2,
+        "cousin and playmate": 1,
+        "cousin of the unhappy child": 1,
+        "dead": 1,
+        "dear": 2,
+        "dear and valued friend": 1,
+        "dear cousin": 1,
+        "dear lady": 1,
+        "deep and voiceless grief": 1,
+        "doted on by father": 1,
+        "educated by his parents": 1,
+        "enchanting": 1,
+        "ever-watchful eye": 1,
+        "existence bound up with narrator": 1,
+        "expression full of sensibility and intellect": 1,
+        "faltering voice": 1,
+        "features appeared to change": 1,
+        "filled with disquiet": 1,
+        "fondly prized before every other gift of fortune": 1,
+        "form enveloped in a shroud": 1,
+        "gentle": 2,
+        "gentle voice": 1,
+        "grave marked by a tomb": 1,
+        "had a presentiment of evil": 1,
+        "handkerchief across face and neck": 1,
+        "has disinterested/sincere affection for Victor": 1,
+        "has vain and tormenting self-accusations": 1,
+        "head upon her arm": 1,
+        "heart is contented": 1,
+        "heart-rending eloquence": 1,
+        "heroic": 1,
+        "his Elizabeth": 1,
+        "illness was severe": 1,
+        "in concert with narrator's father": 1,
+        "in the bloom of health": 1,
+        "in the greatest danger": 1,
+        "inheritance restored by the Austrian government": 1,
+        "joy shone in her eyes": 1,
+        "kind": 1,
+        "kind and generous": 1,
+        "left behind": 1,
+        "lifeless and inanimate": 1,
+        "lips livid with the hue of death": 1,
+        "living spirit of love": 1,
+        "lost heavenly vivacity": 1,
+        "loveliness surpassing her childish beauty": 1,
+        "made a simple and powerful appeal": 1,
+        "mentioned among narrator's family and scenes of home": 1,
+        "misery of innocence": 1,
+        "more than daughter": 2,
+        "mother's favourite": 1,
+        "murdered friend": 1,
+        "murderous mark on neck": 1,
+        "my companion": 1,
+        "my cousin": 2,
+        "My dearest Cousin": 1,
+        "my Elizabeth": 1,
+        "my love": 1,
+        "my niece": 1,
+        "my own Elizabeth": 1,
+        "my wife": 2,
+        "niece": 1,
+        "niece of narrator's father": 1,
+        "no longer a happy creature": 1,
+        "no longer took delight in her ordinary occupations": 1,
+        "of a calmer and more concentrated disposition": 1,
+        "old familiar face": 1,
+        "owned a small possession on the shores of Como": 1,
+        "pale and distorted features": 1,
+        "passed the winter most miserably": 1,
+        "placid contentment": 1,
+        "poor": 3,
+        "poor cousin": 1,
+        "possessed a valuable miniature": 1,
+        "potential victim of the monster's sanguinary and merciless passions": 1,
+        "provided companion in Clerval": 1,
+        "relaxed form": 2,
+        "reposed": 1,
+        "reposed in cemetery": 1,
+        "sad": 1,
+        "sad and desponding": 1,
+        "saintly soul": 1,
+        "seemed happy": 1,
+        "shone like a shrine-dedicated lamp in our peaceful home": 1,
+        "silver tones of voice": 1,
+        "soft looks of compassion": 1,
+        "soft voice": 1,
+        "soothing voice": 1,
+        "sorrowful": 1,
+        "stay of declining years": 1,
+        "stay of my father's declining years": 1,
+        "studied together with the narrator": 1,
+        "suffered extreme anguish": 1,
+        "suffering": 1,
+        "sweet": 1,
+        "Sweet and beloved": 1,
+        "sweet girl": 1,
+        "sympathetic": 1,
+        "tearful, silent farewell": 1,
+        "temper fluctuating": 1,
+        "tenderly loved by narrator": 1,
+        "the best hope and the purest creature on earth": 1,
+        "thinner": 1,
+        "tie of domestic comfort": 1,
+        "tie of our domestic comfort": 1,
+        "timid and fearful silence": 1,
+        "tortured by anxious suspense": 1,
+        "unhappy": 2,
+        "vain and tormenting self-accusations": 1,
+        "vivacity": 1,
+        "voice had silver tones": 1,
+        "was melancholy": 1,
+        "was saved": 1,
+        "will have tears and endless sorrow": 1,
+        "with courage and zeal": 1,
+        "woman": 1,
+        "woman who excites warmest admiration and affection": 1,
+        "would be made wretched by my sickness": 1,
+        "would be made wretched by the narrator's sickness": 1,
+        "would find her lover barbarously snatched from her": 1,
+        "your poor cousin": 1
+      },
+      "mentions": 51
+    },
+    "Elizabeth Lavenza": {
+      "actions": {
+        "became the inmate of narrator's parents' house": 1,
+        "bloomed in their rude abode": 1,
+        "called each other 'cousin'": 1,
+        "continued with her foster parents": 1,
+        "entreats Victor to write": 1,
+        "placed with foster parents to nurse": 1,
+        "played with narrator in the hall": 1,
+        "thanks Henry": 1,
+        "was presented to the narrator": 1,
+        "wrote a letter": 1,
+        "wrote the letter": 1
+      },
+      "aliases": [
+        "Elizabeth Lavenza"
+      ],
+      "canonical_name": "Elizabeth Lavenza",
+      "chunks": [
+        16,
+        42,
+        139
+      ],
+      "descriptions": {
+        "beautiful and adored companion": 1,
+        "daughter of a Milanese nobleman": 1,
+        "described as 'more than sister'": 1,
+        "fairer than a garden rose": 1,
+        "inmate of narrator's parents' house": 1,
+        "located in Geneva": 1,
+        "mother was German and died in childbirth": 1,
+        "placed with good people to nurse": 1,
+        "signed letter 'Elizabeth Lavenza'": 1,
+        "your cousin and playmate": 1
+      },
+      "mentions": 3
+    },
+    "Ernest": {
+      "actions": {
+        "came and enquired if we had seen his brother": 1,
+        "climbing the hills": 1,
+        "entered": 1,
+        "exclaimed": 1,
+        "hastened to welcome Victor": 1,
+        "related circumstances of the discovery": 1,
+        "replied in accents of wonder": 1,
+        "rowing on the lake": 1,
+        "said he had been playing with him": 1,
+        "said she requires consolation": 1,
+        "sought for him": 1,
+        "spends time in the open air": 1,
+        "waited for a long time": 1,
+        "wept": 2
+      },
+      "aliases": [
+        "Ernest"
+      ],
+      "canonical_name": "Ernest",
+      "chunks": [
+        39,
+        45,
+        50,
+        51,
+        52,
+        133,
+        134,
+        146,
+        147
+      ],
+      "descriptions": {
+        "brother": 2,
+        "desirous to be a true Swiss": 1,
+        "full of activity and spirit": 1,
+        "looks upon study as an odious fetter": 1,
+        "my brother": 1,
+        "now sixteen": 1,
+        "yet lived": 2
+      },
+      "mentions": 9
+    },
+    "Eve": {
+      "actions": {
+        "did not share my thoughts": 1,
+        "did not soothe my sorrows": 1
+      },
+      "aliases": [
+        "Eve"
+      ],
+      "canonical_name": "Eve",
+      "chunks": [
+        93
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "fair creature": {
+      "actions": {
+        "commit crimes": 1,
+        "inhabit caves and dens": 1,
+        "knelt at his feet": 1,
+        "left her work": 1,
+        "traverse the sea of ice": 1
+      },
+      "aliases": [
+        "creature",
+        "fair creature"
+      ],
+      "canonical_name": "fair creature",
+      "chunks": [
+        75,
+        148
+      ],
+      "descriptions": {
+        "can traverse the sea of ice": 1,
+        "committed crimes (some months earlier)": 1,
+        "fair": 1,
+        "has powers which would put all exertions to defiance": 1,
+        "inhabit caves and dens where no man would venture to intrude": 1
+      },
+      "mentions": 2
+    },
+    "Falkland": {
+      "actions": {},
+      "aliases": [
+        "Falkland"
+      ],
+      "canonical_name": "Falkland",
+      "chunks": [
+        116
+      ],
+      "descriptions": {
+        "amiable": 1,
+        "companion of Charles I.": 1
+      },
+      "mentions": 1
+    },
+    "Felix": {
+      "actions": {
+        "approached with another man": 1,
+        "arranged with the Turk that Safie should remain as a boarder at a convent at Leghorn": 1,
+        "assisted her to dismount": 1,
+        "bestowed instructions upon the Arabian": 1,
+        "bestowed lessons upon Safie": 1,
+        "brought wood from the outhouse": 1,
+        "called her his sweet Arabian": 1,
+        "came up hastily to the lady": 1,
+        "carried the first little white flower to his sister": 1,
+        "chose Volney's work": 1,
+        "cleared away the snow obstructing her path to the milk-house": 1,
+        "communicated his plan to his father": 1,
+        "conducted fugitives through France to Lyons and across Mont Cenis to Leghorn": 1,
+        "conducted her into the cottage": 1,
+        "conducted the fugitives through France to Lyons and across Mont Cenis to Leghorn": 1,
+        "cultivated the garden": 1,
+        "darted forward": 1,
+        "dashed me to the ground": 1,
+        "delivered himself up to the vengeance of the law": 1,
+        "departed on a long country walk": 1,
+        "did not go to the forest that day": 1,
+        "dismissed her guide": 1,
+        "drew water from the well": 1,
+        "drove his friend from his door with contumely": 1,
+        "endured unheard-of oppression": 1,
+        "engaged in lively conversation": 1,
+        "enjoyed the society of the Arabian": 1,
+        "entered the cottage": 2,
+        "experienced horror and indignation at the court's decision": 1,
+        "expressed a degree of ecstatic joy": 1,
+        "flitted before me": 1,
+        "found a strongly grated window": 1,
+        "gave lessons": 1,
+        "gave very minute explanations while reading": 1,
+        "gloried in poverty": 1,
+        "had been present at the trial": 1,
+        "hastened to Paris": 1,
+        "hoped to free De Lacey and Agatha": 1,
+        "instructed Safie from Volney's book": 1,
+        "joined her in expressing surprise": 1,
+        "kissed her hand rapturously": 1,
+        "learned of the Turk's treachery": 1,
+        "letters referenced in narrative": 1,
+        "looked around for the means": 1,
+        "looked forward to marriage": 1,
+        "looked forward to the probability of consummation of his happiness": 1,
+        "loved and sympathised with one another": 1,
+        "made a solemn vow to deliver him": 1,
+        "made known to the prisoner his intentions": 1,
+        "made many fruitless attempts to gain admittance to the prison": 1,
+        "performed those offices": 1,
+        "procured passports in his father's, sister's, and his name": 1,
+        "quit the lovely Arabian": 1,
+        "read to the old man and Agatha": 1,
+        "received letters": 1,
+        "rejected offers with contempt": 1,
+        "remained with them in expectation": 1,
+        "replied": 1,
+        "replied in a cheerful accent": 1,
+        "sat up conversing with his father": 1,
+        "saw Safie": 1,
+        "sighed frequently": 1,
+        "spent more time in amusement and conversation": 1,
+        "spent the day repairing the cottage": 1,
+        "struck me violently with a stick": 1,
+        "suffered": 1,
+        "tearing me from his father's feet": 1,
+        "tore me from his father": 1,
+        "trembled violently": 1,
+        "visited the grate at night": 1,
+        "was more employed as the sun became warmer": 1,
+        "welcomed his Arabian": 1,
+        "went forth and did not return until dinner": 1,
+        "went out to his work": 2,
+        "worked for a neighbouring farmer": 1,
+        "worked in the garden": 1
+      },
+      "aliases": [
+        "Felix"
+      ],
+      "canonical_name": "Felix",
+      "chunks": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        93,
+        94,
+        96,
+        98,
+        99,
+        103,
+        156,
+        166
+      ],
+      "descriptions": {
+        "always the saddest of the group": 2,
+        "appeared miserable": 1,
+        "appeared to have suffered more deeply than his friends": 2,
+        "assisted in their labours by servants": 1,
+        "associated with lessons": 1,
+        "called Felix": 1,
+        "cheek flushed with pleasure": 1,
+        "child of De Lacey": 1,
+        "contented and happy": 1,
+        "countenance more sorrowful": 1,
+        "deprived of his wealth and rank": 1,
+        "did not appear rich": 1,
+        "enraged": 1,
+        "excellent": 1,
+        "eyes sparkled": 1,
+        "feelings serene and peaceful": 1,
+        "had not quitted the cottage that morning": 1,
+        "instructor of Safie": 1,
+        "letters referenced": 1,
+        "lively": 1,
+        "lost his beloved Safie": 1,
+        "loved": 1,
+        "melancholy beyond expression": 1,
+        "more employed": 1,
+        "most miserable of his family": 1,
+        "peculiarly happy": 1,
+        "plot of Felix": 1,
+        "ravished with delight": 1,
+        "reduced to poverty and ruin": 1,
+        "seemed ravished with delight": 1,
+        "the youth": 1,
+        "too delicate": 1,
+        "too delicate to accept offer": 1,
+        "voice more cheerful": 1,
+        "voice more cheerful than that of his sister": 1,
+        "younger protector": 1,
+        "youth": 1,
+        "zealous": 1
+      },
+      "mentions": 20
+    },
+    "fishermen": {
+      "actions": {
+        "called to one another": 1
+      },
+      "aliases": [
+        "fishermen"
+      ],
+      "canonical_name": "fishermen",
+      "chunks": [
+        122
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Frankenstein": {
+      "actions": {
+        "addressed the men": 1,
+        "asked the cause of the tumult": 1,
+        "asked to see narrator's notes": 1,
+        "attempted to speak but was unable": 1,
+        "awoke": 2,
+        "bade farewell to his friend": 1,
+        "beheld loved ones mourn at the graves of William and Justine": 1,
+        "bore a hell within him": 1,
+        "called me into being": 1,
+        "closed not his eyes that night": 1,
+        "complied with his demand": 1,
+        "contemplated the lake": 1,
+        "corrected and augmented notes": 1,
+        "could not continue his tale": 1,
+        "covered his face with his hands": 1,
+        "determined to listen to his tale": 1,
+        "didst seek my extinction": 1,
+        "discovered narrator's notes": 1,
+        "dreaded to behold the monster": 1,
+        "exclaimed that 'so much has been done'": 1,
+        "eyes closed for ever": 1,
+        "face changed to wildest rage": 1,
+        "felt calm and serene joy": 1,
+        "felt the never-dying worm alive in his bosom": 1,
+        "flung the creature's hands away with violence": 1,
+        "followed him across the ice": 1,
+        "forgot his horror and misfortune": 1,
+        "gave details of his misfortunes": 1,
+        "gentle smile passed away": 1,
+        "grasped Clerval's hand": 1,
+        "had been silent": 1,
+        "had said (of his powers of eloquence and persuasion)": 1,
+        "has outstript us all": 1,
+        "hast made me more powerful than thyself": 1,
+        "hurried into a cabriolet": 1,
+        "is roused to exertion": 1,
+        "journeyed towards Geneva": 1,
+        "motioned another to take up the letter": 1,
+        "motioned Clerval to take up the letter": 1,
+        "paused opposite the inn": 1,
+        "pledged to explore unknown powers": 1,
+        "pledged to pioneer a new way": 1,
+        "pledged to unfold to the world the deepest mysteries of creation": 1,
+        "pressed my hand feebly": 1,
+        "purposed avowal died away on his lips": 1,
+        "reflected and shivered": 1,
+        "rejoined": 1,
+        "remained two days at Lausanne": 1,
+        "remained with eyes fixed on a coach": 1,
+        "reproach me with your creation": 1,
+        "resolved to devote himself to a science": 1,
+        "resolved to return to his ancient studies": 1,
+        "roused himself": 2,
+        "sank into silence": 1,
+        "seek to increase my misery": 1,
+        "set himself at the head of the university": 1,
+        "showed letters of Felix and Safie": 1,
+        "shrieked imprecations on his persecutor": 1,
+        "signed the letter 'Alphonse Frankenstein'": 1,
+        "sinks into apparent lifelessness": 1,
+        "slackened his progress": 1,
+        "sought confirmation or denial": 1,
+        "sought his own enjoyment in feelings and passions": 1,
+        "spoke with a modulated voice": 1,
+        "suppressed agitation and related incidents with a tranquil voice": 1,
+        "threw the letter on the table": 1,
+        "trembled excessively": 1,
+        "turned to contemplate Elizabeth's grief": 1,
+        "turned towards the men": 1,
+        "uttered words with difficulty": 1,
+        "voice became fainter": 1,
+        "walked towards his college": 1,
+        "walked up and down the room": 1,
+        "walked up and down the room in the extremest agitation": 1,
+        "walked with a quick pace": 1,
+        "was addressed as 'My dear Frankenstein' by Henry": 1,
+        "was desponding and sorrowful": 1,
+        "was perceived to weep with bitterness": 1,
+        "weighed arguments": 1,
+        "welcomed his friend": 1,
+        "wept like a child": 1,
+        "wept with bitterness": 1,
+        "wrote a letter urging Victor to return and console Elizabeth": 1
+      },
+      "aliases": [
+        "Alphonse Frankenstein",
+        "Frankenstein",
+        "M. Frankenstein",
+        "Madame Frankenstein"
+      ],
+      "canonical_name": "Frankenstein",
+      "chunks": [
+        0,
+        26,
+        36,
+        43,
+        46,
+        47,
+        55,
+        56,
+        59,
+        68,
+        69,
+        102,
+        112,
+        156,
+        159,
+        160,
+        161,
+        163,
+        164,
+        165,
+        166,
+        167
+      ],
+      "descriptions": {
+        "a miserable wretch": 1,
+        "a young man": 1,
+        "affectionate and afflicted father": 1,
+        "appeared hardly to have force": 1,
+        "appeared hardly to have force enough to attend": 1,
+        "aunt of Elizabeth": 1,
+        "author at once of my existence and of its unspeakable torments": 1,
+        "called your friend": 1,
+        "cheeks flushed with momentary vigour": 1,
+        "creator": 4,
+        "daily declined in health": 1,
+        "desponding and sorrowful": 1,
+        "dozing": 1,
+        "elevated and gentle manners": 1,
+        "enemy": 1,
+        "exhausted": 1,
+        "eye full of lofty design and heroism": 1,
+        "eyes half closed": 1,
+        "eyes sparkled": 1,
+        "feverish fire in his eyes": 1,
+        "fine and lovely eyes": 1,
+        "generous and self-devoted being": 1,
+        "glorious spirit": 1,
+        "had at first been silent": 1,
+        "had horror and misfortune": 1,
+        "haunted by a curse that shut up every avenue to enjoyment": 1,
+        "ill-fated and admirable friend": 1,
+        "impenetrable about creature's formation": 1,
+        "in the extremest agitation": 1,
+        "lies white and cold in death": 1,
+        "lifeless": 1,
+        "limbs hanging listlessly": 1,
+        "looked as if he had been watching for several nights": 1,
+        "miserable origin and author": 1,
+        "modest": 1,
+        "my aunt": 1,
+        "my friend": 1,
+        "native of Geneva": 1,
+        "natural lord and king": 1,
+        "occupied by gloomy thoughts": 1,
+        "papa": 1,
+        "prophetic soul": 1,
+        "remains present": 1,
+        "select specimen of all that is worthy of love and admiration among men": 1,
+        "soul": 1,
+        "sunk in languor and almost deprived of life": 1,
+        "syndic": 1,
+        "the last of humankind whom these eyes will ever behold": 1,
+        "the true murderer": 1,
+        "thin and pale": 1,
+        "title of ebook": 1,
+        "torn by remorse, horror, and despair": 1,
+        "voice broken yet piercing": 1,
+        "was nursed in her last illness": 1,
+        "your early, much-loved friend": 1,
+        "your friend": 1,
+        "your kinsman": 1,
+        "your son": 1
+      },
+      "mentions": 24
+    },
+    "Geneva": {
+      "actions": {},
+      "aliases": [
+        "Geneva"
+      ],
+      "canonical_name": "Geneva",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "town": 1
+      },
+      "mentions": 1
+    },
+    "God": {
+      "actions": {
+        "knows the speaker's innocence": 1,
+        "made man beautiful and alluring": 1,
+        "raises weakness and gives courage": 1,
+        "warring with his creatures": 2
+      },
+      "aliases": [
+        "God"
+      ],
+      "canonical_name": "God",
+      "chunks": [
+        52,
+        54,
+        57,
+        58,
+        91,
+        92,
+        165
+      ],
+      "descriptions": {
+        "Creator": 1,
+        "omnipotent": 2
+      },
+      "mentions": 7
+    },
+    "Goring": {
+      "actions": {},
+      "aliases": [
+        "Goring"
+      ],
+      "canonical_name": "Goring",
+      "chunks": [
+        116
+      ],
+      "descriptions": {
+        "companion of Charles I.": 1,
+        "insolent": 1
+      },
+      "mentions": 1
+    },
+    "Grecians": {
+      "actions": {},
+      "aliases": [
+        "Grecians"
+      ],
+      "canonical_name": "Grecians",
+      "chunks": [
+        84
+      ],
+      "descriptions": {
+        "stupendous genius and mental activity": 1
+      },
+      "mentions": 1
+    },
+    "Greeks": {
+      "actions": {
+        "hailed with rapture the boundary of their toils": 1,
+        "wept for joy when they beheld the Mediterranean": 1
+      },
+      "aliases": [
+        "Greeks"
+      ],
+      "canonical_name": "Greeks",
+      "chunks": [
+        153
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "guiding spirit": {
+      "actions": {
+        "conducted the narrator in safety to the place": 1
+      },
+      "aliases": [
+        "guiding spirit"
+      ],
+      "canonical_name": "guiding spirit",
+      "chunks": [
+        153
+      ],
+      "descriptions": {
+        "guiding": 1
+      },
+      "mentions": 1
+    },
+    "Hampden": {
+      "actions": {
+        "fell on that field": 1,
+        "fell on the field": 1
+      },
+      "aliases": [
+        "Hampden"
+      ],
+      "canonical_name": "Hampden",
+      "chunks": [
+        116,
+        117
+      ],
+      "descriptions": {
+        "illustrious": 2,
+        "patriot": 2
+      },
+      "mentions": 2
+    },
+    "Heaven": {
+      "actions": {
+        "bestowed the child on them": 1,
+        "bless you and make you so": 1
+      },
+      "aliases": [
+        "Heaven"
+      ],
+      "canonical_name": "Heaven",
+      "chunks": [
+        15,
+        159
+      ],
+      "descriptions": {},
+      "mentions": 2
+    },
+    "Henry": {
+      "actions": {
+        "asked 'are you always to be unhappy?' and 'what has happened?'": 1,
+        "asked what had happened": 1,
+        "believed my words were wanderings": 1,
+        "ceased to remonstrate": 1,
+        "changed narrator's apartment": 1,
+        "contemplate the progress of narrator's task": 1,
+        "deeply felt the misfortune of being debarred from a liberal education": 1,
+        "drew me out into arguments": 1,
+        "enjoyed a happiness": 1,
+        "enjoyed a happiness seldom tasted by man": 1,
+        "entreated me to write often": 1,
+        "exclaimed": 1,
+        "exclaimed 'My dear Frankenstein' when he perceived the narrator weep with bitterness": 1,
+        "exerted himself to amuse me": 2,
+        "expressed the sensations that filled his soul": 1,
+        "felt as if he had been transported to Fairy-land": 1,
+        "felt as if transported to Fairy-land": 1,
+        "force his presence on narrator": 1,
+        "invented tales of wonderful fancy and passion": 1,
+        "might stand between narrator and intrusion of foe": 1,
+        "nursed the narrator": 1,
+        "perceived Frankenstein weep": 1,
+        "pronounced Chamounix": 1,
+        "proposed a pedestrian tour": 1,
+        "provided unremitting attentions that restored me to life": 1,
+        "rejoiced in my gaiety": 2,
+        "remind narrator of his task": 1,
+        "removed narrator's apparatus from view": 1,
+        "repeated my favourite poems": 1,
+        "said \"I have seen the most beautiful scenes of my own country\"": 1,
+        "said he had rather be with me": 1,
+        "said little": 1,
+        "saw narrator's dislike": 1,
+        "sends constant letters": 1,
+        "sincerely sympathised in my feelings": 2,
+        "soothed narrator": 1,
+        "spared them grief by concealing extent of my disorder": 1,
+        "spared them this grief by concealing the extent of my disorder": 1,
+        "spirit visits and consoles friend": 1,
+        "spoke": 1,
+        "stand between narrator and the intrusion of his foe": 1,
+        "visited the lakes of Lucerne and Uri": 1,
+        "voice soothed narrator": 1,
+        "was my only nurse": 1,
+        "wished to dissuade me": 1
+      },
+      "aliases": [
+        "Henry"
+      ],
+      "canonical_name": "Henry",
+      "chunks": [
+        23,
+        37,
+        38,
+        39,
+        41,
+        42,
+        44,
+        45,
+        46,
+        47,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        117,
+        118,
+        130,
+        133,
+        134,
+        136
+      ],
+      "descriptions": {
+        "abhorred presence": 1,
+        "affection": 1,
+        "affectionate": 1,
+        "animated glance": 1,
+        "associated with a coffin": 1,
+        "author of many letters": 1,
+        "conversation full of imagination": 1,
+        "conversation was full of imagination": 1,
+        "dark orbs nearly covered by lids": 1,
+        "dead": 1,
+        "dear kind Henry": 1,
+        "dearest": 1,
+        "enjoyed a happiness seldom tasted by man": 1,
+        "expressive eyes": 1,
+        "felt as if he had been transported to Fairy-land": 1,
+        "firm in hope of my recovery": 1,
+        "form divinely wrought and beaming with beauty": 1,
+        "friend": 1,
+        "kind": 1,
+        "kind and attentive": 1,
+        "kind and attentive nurse": 1,
+        "kindling eye": 1,
+        "kindness": 1,
+        "languishing in death": 1,
+        "long black lashes": 1,
+        "many letters": 1,
+        "my dear Henry": 1,
+        "my friend": 1,
+        "my only nurse": 2,
+        "resources of his mind truly astonishing": 1,
+        "resources of his mind were truly astonishing": 1,
+        "restrained but firm resolve": 1,
+        "unexampled worth": 1,
+        "voice soothed narrator": 1
+      },
+      "mentions": 22
+    },
+    "Henry Clerval": {
+      "actions": {
+        "accompanied on rambles": 1,
+        "alleged total ignorance": 1,
+        "anticipated the meeting with joy": 1,
+        "asked narrator to bestow society on him": 1,
+        "associated with his inferiors": 1,
+        "attempted to persuade his father about learning": 1,
+        "attributed the narrator's spirits to joy": 1,
+        "began to write many a tale of enchantment and knightly adventure": 1,
+        "besought narrator to meet him at Perth": 1,
+        "called forth the better feelings of my heart": 1,
+        "came": 2,
+        "came to the university with design to master oriental languages": 1,
+        "composed heroic songs": 1,
+        "continued talking about mutual friends and his good fortune": 1,
+        "could not delay his departure": 1,
+        "cried \"My dear Victor\"": 1,
+        "cried \"This is what it is to live\"": 1,
+        "declined the subject": 1,
+        "departure from Geneva": 1,
+        "desired intercourse with men of genius and talent": 1,
+        "desired to accept invitation": 1,
+        "did not attempt to draw narrator's secret": 1,
+        "endeavoured to persuade his father to permit him to accompany me and to become my fellow student": 1,
+        "endeavoured to say a few words of consolation": 1,
+        "engaged attention on Persian, Arabic, and Sanskrit languages": 1,
+        "enjoying health and youth": 1,
+        "entreating narrator to join him": 1,
+        "expressed heartfelt sympathy": 1,
+        "groaned": 1,
+        "had cares that were of no avail": 1,
+        "had conversation": 1,
+        "had tears gush from his eyes": 1,
+        "hoped to become a gallant and adventurous benefactor of our species": 1,
+        "join narrator at Strasburgh": 1,
+        "loved enterprise, hardship, and even danger for its own sake": 1,
+        "loved the scenery of external nature with ardour": 1,
+        "observed difference of manners": 1,
+        "observed my change of colour": 1,
+        "observed the narrator": 1,
+        "observed the scenery": 1,
+        "occupied himself with the moral relations of things": 1,
+        "planned return to London to complete a negotiation": 1,
+        "pointed out the shifting colours of the landscape": 1,
+        "pressed my hand once more": 1,
+        "pressed narrator's hand": 1,
+        "pursuing plan to visit India": 1,
+        "put a letter into my hands": 2,
+        "read the account of the misfortune": 1,
+        "read the account of the narrator's misfortune": 1,
+        "said he could pass his life here": 1,
+        "said he would not mention the subject if it agitates me": 1,
+        "said my father and cousin would be happy to receive a letter": 1,
+        "spent the last evening with us": 1,
+        "spoke as they hurried through the streets": 1,
+        "sprung out of coach": 1,
+        "stopped short and gazed full in narrator's face": 1,
+        "taught me to love the aspect of nature": 1,
+        "taught me to love the cheerful faces of children": 1,
+        "tears gushed from his eyes": 1,
+        "tried to make us act plays and to enter into masquerades": 1,
+        "turned his eyes toward the East": 1,
+        "was fellow-pupil with narrator": 1,
+        "was present at the carriage": 1,
+        "was surprised to observe the despair": 1,
+        "watched the narrator's countenance as he read the letter": 1,
+        "writes that you are getting better": 1
+      },
+      "aliases": [
+        "Clerval",
+        "Henry Clerval",
+        "M. Clerval"
+      ],
+      "canonical_name": "Henry Clerval",
+      "chunks": [
+        17,
+        18,
+        23,
+        24,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44,
+        46,
+        47,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        117,
+        118,
+        124,
+        126,
+        129,
+        130,
+        132,
+        133,
+        135,
+        139,
+        140,
+        146,
+        151,
+        152,
+        155,
+        158,
+        164
+      ],
+      "descriptions": {
+        "a boy of singular talent and fancy": 1,
+        "addressed as 'dearest Henry'": 1,
+        "alive to every new scene": 2,
+        "amiable companion": 1,
+        "anxious to gain experience and instruction": 1,
+        "arrived by Swiss diligence": 1,
+        "Beloved friend": 1,
+        "benefactor": 2,
+        "companion": 1,
+        "dead": 1,
+        "delight greater than narrator's": 1,
+        "did not like Edinburgh as well as Oxford": 1,
+        "enjoying health and youth": 2,
+        "eyes and feelings quick in discerning others' sensations": 1,
+        "fallen a victim": 1,
+        "favourite companion": 1,
+        "filled with cheerfulness and admiration": 1,
+        "for ever busy": 1,
+        "formed in the very poetry of nature": 1,
+        "found greater capacities and resources": 1,
+        "friend": 5,
+        "friend and dearest companion": 1,
+        "friend of narrator": 2,
+        "friendship of a devoted and wondrous nature": 1,
+        "frightened and astonished": 1,
+        "gentle and lovely being": 1,
+        "gentleness and affection": 1,
+        "ghastly": 1,
+        "had an Indian enterprise": 1,
+        "had cares for the narrator": 1,
+        "had friends in London": 1,
+        "heartfelt sympathy": 1,
+        "humane": 1,
+        "image of narrator's former self": 2,
+        "in a strange place": 1,
+        "inquisitive": 1,
+        "joyful": 1,
+        "joyful when he saw the beauties of the setting sun": 1,
+        "kind and tender": 1,
+        "knowledge of various languages": 1,
+        "left behind": 1,
+        "lifeless": 1,
+        "literary pursuits differed from narrator": 1,
+        "mind expanded in company of men of talent": 1,
+        "murdered": 3,
+        "noble spirit": 1,
+        "observed the scenery with an eye of feeling and delight": 1,
+        "occupied with the moral relations of things": 1,
+        "old familiar face": 1,
+        "passionate for adventurous exploit": 1,
+        "permitted by his father to come to Ingolstadt": 1,
+        "potential victim of the monster's sanguinary and merciless passions": 1,
+        "presence interfered with narrator's solitude": 1,
+        "resolved to pursue no inglorious career": 1,
+        "sensibility of his heart": 1,
+        "son of a merchant of Geneva": 1,
+        "soul overflowed with ardent affections": 1,
+        "spirit of enterprise": 1,
+        "stretched before the narrator": 1,
+        "thoughtful in his generosity": 1,
+        "unfortunate friend": 1,
+        "victim of murder": 1,
+        "wearing away his time fruitlessly": 1,
+        "wild and enthusiastic imagination": 1,
+        "would join at Strasburgh": 1
+      },
+      "mentions": 38
+    },
+    "his companion": {
+      "actions": {
+        "often went apart and appeared to weep": 1
+      },
+      "aliases": [
+        "his companion"
+      ],
+      "canonical_name": "his companion",
+      "chunks": [
+        77
+      ],
+      "descriptions": {
+        "companion": 1
+      },
+      "mentions": 1
+    },
+    "Homer": {
+      "actions": {},
+      "aliases": [
+        "Homer"
+      ],
+      "canonical_name": "Homer",
+      "chunks": [
+        1,
+        2
+      ],
+      "descriptions": {
+        "name consecrated in a temple": 1,
+        "name consecrated in temple": 1
+      },
+      "mentions": 2
+    },
+    "I": {
+      "actions": {
+        "brought work near to a conclusion": 1,
+        "collected bones from charnel-houses": 1,
+        "collected his forces": 1,
+        "dabbled among the unhallowed damps of the grave": 1,
+        "disturbed the tremendous secrets of the human frame": 1,
+        "forgot friends": 1,
+        "kept workshop of filthy creation": 1,
+        "pursued nature to her hiding-places": 1,
+        "remembered father's words": 1,
+        "tortured the living animal": 1
+      },
+      "aliases": [
+        "Charles I.",
+        "I"
+      ],
+      "canonical_name": "I",
+      "chunks": [
+        32,
+        116
+      ],
+      "descriptions": {
+        "eyeballs starting from their sockets": 1,
+        "eyes swim": 1,
+        "kept workshop in solitary chamber": 1,
+        "limbs tremble": 1,
+        "unfortunate king": 1
+      },
+      "mentions": 2
+    },
+    "Internal Revenue Service": {
+      "actions": {
+        "granted tax exempt status": 1
+      },
+      "aliases": [
+        "Internal Revenue Service"
+      ],
+      "canonical_name": "Internal Revenue Service",
+      "chunks": [
+        173
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "John Melbourne": {
+      "actions": {},
+      "aliases": [
+        "John Melbourne"
+      ],
+      "canonical_name": "John Melbourne",
+      "chunks": [
+        41
+      ],
+      "descriptions": {
+        "a young Englishman": 1
+      },
+      "mentions": 1
+    },
+    "Judith Boss": {
+      "actions": {},
+      "aliases": [
+        "Judith Boss"
+      ],
+      "canonical_name": "Judith Boss",
+      "chunks": [
+        0
+      ],
+      "descriptions": {
+        "credited": 1
+      },
+      "mentions": 1
+    },
+    "Jura": {
+      "actions": {},
+      "aliases": [
+        "Jura"
+      ],
+      "canonical_name": "Jura",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "black sides": 1
+      },
+      "mentions": 1
+    },
+    "Justine": {
+      "actions": {
+        "a tear seemed to dim her eye": 1,
+        "acted like a most affectionate mother toward the child": 1,
+        "appeared calm": 1,
+        "approached the narrator and spoke": 1,
+        "assumed an air of cheerfulness": 1,
+        "attended her own mother during a tedious illness": 1,
+        "awoke at dawn and left her asylum": 1,
+        "collected her powers and spoke": 1,
+        "confessed a lie": 1,
+        "confessed her guilt": 1,
+        "confirmed the suspicion": 1,
+        "did not tremble": 1,
+        "died on the morrow": 1,
+        "discovered where we were seated": 1,
+        "embraced Elizabeth": 1,
+        "entered the court": 1,
+        "gained the resignation she desired": 1,
+        "had been out the whole of the night": 1,
+        "has just returned to us": 1,
+        "is to be tried today": 1,
+        "lived in my uncle's house": 1,
+        "looked for the child for several hours": 1,
+        "met a man who asked about the child": 1,
+        "nursed Madame Frankenstein in her last illness": 1,
+        "paused, weeping": 1,
+        "perished on the scaffold": 1,
+        "quitted our house": 1,
+        "recovered herself": 1,
+        "related she passed the evening at an aunt's house in Chêne": 1,
+        "remained in a barn overnight": 1,
+        "repressed her bitter tears": 1,
+        "rose on seeing us enter": 1,
+        "said farewell to Elizabeth": 1,
+        "said her confessor threatened and menaced her": 1,
+        "said she did not fear to die": 1,
+        "shook her head mournfully": 1,
+        "struggled with her tears": 1,
+        "subscribed to a lie": 1,
+        "threw her eyes round it": 1,
+        "threw herself at Elizabeth's feet": 1,
+        "tried to comfort others and herself": 1,
+        "was apprehended": 1,
+        "was called for her defence": 1,
+        "wept as Elizabeth spoke": 1,
+        "wept bitterly": 1,
+        "wept when she quitted our house": 1,
+        "worked up her mind to an appearance of courage": 1
+      },
+      "aliases": [
+        "Justine"
+      ],
+      "canonical_name": "Justine",
+      "chunks": [
+        41,
+        51,
+        52,
+        53,
+        54,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        63,
+        114,
+        115,
+        130,
+        131,
+        136,
+        146,
+        155
+      ],
+      "descriptions": {
+        "a wretch": 1,
+        "audible although variable voice": 1,
+        "beloved and only friend (to Elizabeth)": 1,
+        "beloved by all the family": 1,
+        "benevolent": 1,
+        "blood sealed barrier": 2,
+        "condemned as a murderess": 1,
+        "confident in innocence": 1,
+        "countenance altered": 1,
+        "dead (died two months earlier)": 1,
+        "deceased": 1,
+        "described as innocent": 1,
+        "died": 1,
+        "dressed in mourning": 1,
+        "engaging countenance": 1,
+        "executed": 1,
+        "exquisitely beautiful": 1,
+        "extreme confusion of manner": 1,
+        "extremely pretty": 1,
+        "formerly remarkable for vivacity": 1,
+        "girl of merit": 1,
+        "going to suffer ignominy and death": 1,
+        "good": 1,
+        "guiltless": 1,
+        "hands manacled": 1,
+        "hapless victim to my unhallowed arts": 1,
+        "head rested on her knees": 1,
+        "innocent": 3,
+        "mien and expression remind me of my aunt": 1,
+        "much altered since the death of my aunt": 1,
+        "murdered": 1,
+        "neglected daughter": 1,
+        "playfellow, companion, sister": 1,
+        "poor": 4,
+        "poor girl": 1,
+        "poor sufferer": 2,
+        "poor victim": 1,
+        "poor, good Justine": 1,
+        "resigned to the fate awaiting her": 1,
+        "rested": 1,
+        "saintly sufferer": 1,
+        "sitting on some straw": 1,
+        "softness and a winning mildness to her manners": 1,
+        "surprise, horror, and misery expressed": 1,
+        "sustained by innocence": 1,
+        "tranquil": 1,
+        "unhappy": 1,
+        "unjustly condemned": 1,
+        "utter guiltlessness": 1,
+        "very clever and gentle": 1,
+        "very ill": 1,
+        "warmly attached to the child who is now dead": 1
+      },
+      "mentions": 19
+    },
+    "Justine Moritz": {
+      "actions": {
+        "attended her during her illness with anxious affection": 1,
+        "confirmed suspicion by extreme confusion": 1,
+        "endeavoured to imitate my aunt's phraseology and manners": 1,
+        "entered our family": 1,
+        "learned the duties of a servant": 1,
+        "lived at our house": 1,
+        "paid attention to every gesture of my aunt": 1,
+        "was confined to her bed for several days": 1,
+        "was taken ill": 1
+      },
+      "aliases": [
+        "Justine Moritz"
+      ],
+      "canonical_name": "Justine Moritz",
+      "chunks": [
+        39,
+        40,
+        51,
+        62
+      ],
+      "descriptions": {
+        "accused": 1,
+        "almost adored her protectress": 1,
+        "appeared to love the child": 1,
+        "disposition was gay": 1,
+        "favourite of her father": 1,
+        "fond of all the family": 1,
+        "innocent": 1,
+        "miserable death": 1,
+        "most grateful little creature": 1,
+        "nursed a child from its birth": 1,
+        "poor girl": 1,
+        "received in our family": 1,
+        "so amiable": 1,
+        "third child": 1,
+        "very ill": 1,
+        "was believed guilty": 1
+      },
+      "mentions": 4
+    },
+    "King Arthur": {
+      "actions": {},
+      "aliases": [
+        "King Arthur"
+      ],
+      "canonical_name": "King Arthur",
+      "chunks": [
+        17
+      ],
+      "descriptions": {
+        "associated with the Round Table": 1
+      },
+      "mentions": 1
+    },
+    "Louis Manoir": {
+      "actions": {},
+      "aliases": [
+        "Louis Manoir",
+        "Manoir"
+      ],
+      "canonical_name": "Louis Manoir",
+      "chunks": [
+        41,
+        42
+      ],
+      "descriptions": {
+        "has recovered his spirits": 1,
+        "has suffered several misfortunes since the departure of Clerval from Geneva": 1,
+        "reported to be on the point of marrying Madame Tavernier": 1,
+        "your favourite schoolfellow": 1
+      },
+      "mentions": 2
+    },
+    "Louisa Biron": {
+      "actions": {},
+      "aliases": [
+        "Louisa Biron"
+      ],
+      "canonical_name": "Louisa Biron",
+      "chunks": [
+        41
+      ],
+      "descriptions": {
+        "a pretty little girl of five years of age": 1,
+        "his favourite": 1
+      },
+      "mentions": 1
+    },
+    "Lycurgus": {
+      "actions": {},
+      "aliases": [
+        "Lycurgus"
+      ],
+      "canonical_name": "Lycurgus",
+      "chunks": [
+        91
+      ],
+      "descriptions": {
+        "peaceable lawgiver": 1
+      },
+      "mentions": 1
+    },
+    "Lynn Hanninen": {
+      "actions": {},
+      "aliases": [
+        "Lynn Hanninen"
+      ],
+      "canonical_name": "Lynn Hanninen",
+      "chunks": [
+        0
+      ],
+      "descriptions": {
+        "credited": 1
+      },
+      "mentions": 1
+    },
+    "M. Duvillard": {
+      "actions": {},
+      "aliases": [
+        "M. Duvillard"
+      ],
+      "canonical_name": "M. Duvillard",
+      "chunks": [
+        41
+      ],
+      "descriptions": {
+        "the rich banker": 1
+      },
+      "mentions": 1
+    },
+    "M. Krempe": {
+      "actions": {
+        "asked questions concerning narrator's progress": 1,
+        "called those studies nonsense": 1,
+        "commenced an eulogy on himself": 1,
+        "cried \"D—n the fellow!\"": 1,
+        "dismissed the narrator": 1,
+        "exhibited contempt": 1,
+        "gave harsh blunt encomiums": 1,
+        "gave information about the lectures": 1,
+        "mentioned lecture plans": 1,
+        "observed narrator's face": 1,
+        "reprobated certain authors": 1,
+        "stared": 1,
+        "stepped aside": 1,
+        "turned the conversation": 1,
+        "wrote down a list of several books": 1
+      },
+      "aliases": [
+        "M. Krempe"
+      ],
+      "canonical_name": "M. Krempe",
+      "chunks": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        42,
+        43
+      ],
+      "descriptions": {
+        "an uncouth man": 1,
+        "deeply imbued in the secrets of his science": 1,
+        "exhibited contempt": 1,
+        "fellow professor": 1,
+        "gruff voice": 1,
+        "little squat man": 1,
+        "not equally docile": 1,
+        "professor": 1,
+        "professor of natural philosophy": 1,
+        "real information": 1,
+        "repulsive countenance": 1,
+        "repulsive physiognomy and manners": 1,
+        "sound sense": 1,
+        "was not equally docile": 1
+      },
+      "mentions": 7
+    },
+    "M. Moritz": {
+      "actions": {
+        "favoured Justine": 1
+      },
+      "aliases": [
+        "M. Moritz"
+      ],
+      "canonical_name": "M. Moritz",
+      "chunks": [
+        40
+      ],
+      "descriptions": {
+        "deceased": 1,
+        "father of Justine": 1
+      },
+      "mentions": 1
+    },
+    "M. Waldman": {
+      "actions": {
+        "began his lecture by a recapitulation of the history of chemistry": 1,
+        "changed the subject to the science itself": 1,
+        "concluded with a panegyric upon modern chemistry": 1,
+        "entered the lecturing room": 1,
+        "entered the lecturing room shortly after": 1,
+        "explained many elementary terms": 1,
+        "explained uses of his various machines": 1,
+        "expressed heartfelt exultation in my progress": 1,
+        "gave benevolent approbation": 1,
+        "gave instructions": 1,
+        "gave the list of books": 1,
+        "inflicted torture when praising": 1,
+        "instructed narrator what to procure": 1,
+        "made a few preparatory experiments": 1,
+        "made abstruse inquiries clear and facile": 1,
+        "perceived narrator's dislike": 1,
+        "praised the narrator's progress": 1,
+        "promised use of his own machines": 1,
+        "pronounced the names of the most distinguished discoverers with fervour": 1,
+        "said \"I am happy to have gained a disciple\"": 1,
+        "smoothed for me the path of knowledge": 1,
+        "took a cursory view of the present state of the science": 1,
+        "took narrator into his laboratory": 1,
+        "tormented the narrator": 1,
+        "would lecture upon chemistry on alternate days": 1
+      },
+      "aliases": [
+        "M. Waldman"
+      ],
+      "canonical_name": "M. Waldman",
+      "chunks": [
+        25,
+        26,
+        27,
+        28,
+        42,
+        43
+      ],
+      "descriptions": {
+        "affability and kindness in his house": 1,
+        "appeared about fifty years of age": 1,
+        "aspect expressive of the greatest benevolence": 1,
+        "attributed narrator's feelings to modesty": 1,
+        "benevolent approbation": 1,
+        "chemist": 1,
+        "dignified mien during lecture": 1,
+        "fellow professor": 1,
+        "few grey hairs on his temples": 1,
+        "gentleness not tinged by dogmatism": 1,
+        "had been out of town": 1,
+        "hairs at back of his head nearly black": 1,
+        "instructions given with frankness and good nature": 1,
+        "instructor": 1,
+        "lecturer in chemistry": 1,
+        "made chemistry his peculiar study": 1,
+        "manners mild and attractive in private": 1,
+        "person short but remarkably erect": 1,
+        "praised the narrator's progress with kindness and warmth": 1,
+        "statement delivered without presumption or affectation": 1,
+        "true friend": 1,
+        "unseen by the narrator": 1,
+        "voice the sweetest I had ever heard": 1
+      },
+      "mentions": 6
+    },
+    "Madame Moritz": {
+      "actions": {
+        "accused Justine of having caused the deaths of her brothers and sister": 1,
+        "began to think the deaths of her favourites were a judgement": 1,
+        "died on the first approach of cold weather": 1,
+        "sometimes begged Justine to forgive her unkindness": 1,
+        "treated Justine very ill": 1
+      },
+      "aliases": [
+        "Madame Moritz"
+      ],
+      "canonical_name": "Madame Moritz",
+      "chunks": [
+        39,
+        40,
+        41
+      ],
+      "descriptions": {
+        "at peace for ever": 1,
+        "conscience was troubled": 1,
+        "could not endure Justine": 1,
+        "left childless (except her neglected daughter)": 1,
+        "mother of four children": 1,
+        "mother of Justine Moritz": 1,
+        "Roman Catholic": 1,
+        "very vacillating in her repentance": 1,
+        "widow": 1
+      },
+      "mentions": 3
+    },
+    "Madame Tavernier": {
+      "actions": {},
+      "aliases": [
+        "Madame Tavernier"
+      ],
+      "canonical_name": "Madame Tavernier",
+      "chunks": [
+        41
+      ],
+      "descriptions": {
+        "a favourite with everybody": 1,
+        "a lively pretty Frenchwoman": 1,
+        "a widow": 1,
+        "much older than Manoir": 1,
+        "very much admired": 1
+      },
+      "mentions": 1
+    },
+    "magistrate": {
+      "actions": {
+        "answer mildly": 1,
+        "asked who appeared as witnesses": 1,
+        "become attentive": 1,
+        "become interested": 1,
+        "drew an unfavourable augury from the narrator's manner": 1,
+        "hear the narrator's story": 1,
+        "observed the narrator with a keen eye": 1,
+        "return to incredulity when called upon to act officially": 1,
+        "selected a witness": 1,
+        "shudder with horror": 1
+      },
+      "aliases": [
+        "magistrate"
+      ],
+      "canonical_name": "magistrate",
+      "chunks": [
+        128,
+        148
+      ],
+      "descriptions": {
+        "appeared perfectly incredulous (at first)": 1,
+        "calm and mild manners": 1,
+        "intimidated": 1,
+        "looked upon narrator with some degree of severity": 1,
+        "more attentive and interested": 1,
+        "old benevolent man": 1
+      },
+      "mentions": 2
+    },
+    "Manon": {
+      "actions": {
+        "married M. Duvillard last autumn": 1
+      },
+      "aliases": [
+        "Manon"
+      ],
+      "canonical_name": "Manon",
+      "chunks": [
+        41
+      ],
+      "descriptions": {
+        "her ugly sister": 1
+      },
+      "mentions": 1
+    },
+    "Margaret": {
+      "actions": {
+        "read this strange and terrific story": 1,
+        "will anxiously await his return": 1,
+        "will be tortured by hope": 1,
+        "will have visitings of despair": 1
+      },
+      "aliases": [
+        "Margaret"
+      ],
+      "canonical_name": "Margaret",
+      "chunks": [
+        0,
+        2,
+        3,
+        6,
+        8,
+        9,
+        155,
+        156,
+        158,
+        163
+      ],
+      "descriptions": {
+        "addressee": 1,
+        "dear": 3,
+        "dear sister": 1,
+        "excellent": 1,
+        "has a husband": 1,
+        "has lovely children": 1,
+        "named addressee in letter": 1,
+        "recipient of letters": 1,
+        "sister": 2
+      },
+      "mentions": 10
+    },
+    "Mary Wollstonecraft (Godwin) Shelley": {
+      "actions": {},
+      "aliases": [
+        "Mary Wollstonecraft (Godwin) Shelley"
+      ],
+      "canonical_name": "Mary Wollstonecraft (Godwin) Shelley",
+      "chunks": [
+        0
+      ],
+      "descriptions": {
+        "Author": 1
+      },
+      "mentions": 1
+    },
+    "Menno de Leeuw": {
+      "actions": {
+        "made further corrections": 1
+      },
+      "aliases": [
+        "Menno de Leeuw"
+      ],
+      "canonical_name": "Menno de Leeuw",
+      "chunks": [
+        0
+      ],
+      "descriptions": {
+        "credited for further corrections": 1
+      },
+      "mentions": 1
+    },
+    "Miss Mansfield": {
+      "actions": {},
+      "aliases": [
+        "Miss Mansfield"
+      ],
+      "canonical_name": "Miss Mansfield",
+      "chunks": [
+        41
+      ],
+      "descriptions": {
+        "approaching marriage with John Melbourne": 1,
+        "pretty": 1
+      },
+      "mentions": 1
+    },
+    "Mississippi": {
+      "actions": {},
+      "aliases": [
+        "Mississippi"
+      ],
+      "canonical_name": "Mississippi",
+      "chunks": [
+        173
+      ],
+      "descriptions": {
+        "state whose laws the corporation is organized under": 1
+      },
+      "mentions": 1
+    },
+    "Môle": {
+      "actions": {},
+      "aliases": [
+        "Môle"
+      ],
+      "canonical_name": "Môle",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "peaked mountain east of the lake": 1
+      },
+      "mentions": 1
+    },
+    "monster": {
+      "actions": {
+        "cried": 1,
+        "executed his threat": 1,
+        "gnashed his teeth in the impotence of anger": 1,
+        "saw my determination": 1
+      },
+      "aliases": [
+        "monster",
+        "the monster"
+      ],
+      "canonical_name": "monster",
+      "chunks": [
+        122,
+        139,
+        148
+      ],
+      "descriptions": {
+        "monster": 1,
+        "referred to as monster": 1
+      },
+      "mentions": 3
+    },
+    "Mont Blanc": {
+      "actions": {
+        "overlooked the valley": 1,
+        "raised itself from the surrounding aiguilles": 1,
+        "rose above Montanvert": 2
+      },
+      "aliases": [
+        "Mont Blanc"
+      ],
+      "canonical_name": "Mont Blanc",
+      "chunks": [
+        48,
+        64,
+        65,
+        66,
+        67
+      ],
+      "descriptions": {
+        "bright summit": 1,
+        "in awful majesty": 2,
+        "location above which lightnings played": 1,
+        "magnificent": 1,
+        "supreme": 1,
+        "tremendous dome": 1
+      },
+      "mentions": 5
+    },
+    "Montanvert": {
+      "actions": {
+        "was exactly opposite": 1
+      },
+      "aliases": [
+        "Montanvert"
+      ],
+      "canonical_name": "Montanvert",
+      "chunks": [
+        65,
+        66,
+        67
+      ],
+      "descriptions": {
+        "at a distance of a league": 1,
+        "bare perpendicular rock": 1,
+        "has a summit": 1,
+        "opposite at distance of a league": 1,
+        "opposite mountain": 1
+      },
+      "mentions": 3
+    },
+    "Mr. Kirwin": {
+      "actions": {
+        "addressed the narrator in French": 1,
+        "caused the best room to be prepared": 1,
+        "charged himself with arranging my defence": 1,
+        "charged himself with collecting witnesses": 1,
+        "desired that I should be taken into the room where the body lay for interment": 1,
+        "drew a chair close to the narrator": 1,
+        "entered the apartment": 1,
+        "examined papers": 1,
+        "hastened to speak": 1,
+        "insisted strength should not be exhausted": 1,
+        "provided a physician and a nurse": 1,
+        "regarded exclamation as presumption of guilt": 1,
+        "regarded narrator": 2,
+        "rose and quitted the room with my nurse": 1,
+        "said the family is well": 1,
+        "showed extreme kindness": 1,
+        "understood narrator": 1,
+        "visited sometimes to ensure narrator was not neglected": 1,
+        "wrote to Geneva": 1
+      },
+      "aliases": [
+        "Mr. Kirwin"
+      ],
+      "canonical_name": "Mr. Kirwin",
+      "chunks": [
+        127,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "descriptions": {
+        "ardently desired to relieve sufferings but avoided murderer’s agonies": 1,
+        "countenance expressed sympathy and compassion": 1,
+        "gentleness": 1,
+        "magistrate": 2,
+        "old": 1,
+        "prepared the best room in the prison": 1,
+        "provided a physician and a nurse": 1,
+        "seldom came to see the narrator": 1,
+        "showed extreme kindness": 1,
+        "spoke French": 1,
+        "spoke in a severe tone": 2,
+        "troubled countenance": 2,
+        "understood narrator's native language": 1
+      },
+      "mentions": 7
+    },
+    "Mrs. Saville": {
+      "actions": {},
+      "aliases": [
+        "Mrs. Saville"
+      ],
+      "canonical_name": "Mrs. Saville",
+      "chunks": [
+        0,
+        3,
+        6
+      ],
+      "descriptions": {
+        "addressee": 2,
+        "in England": 2,
+        "recipient of letter": 1
+      },
+      "mentions": 3
+    },
+    "Muhammad": {
+      "actions": {},
+      "aliases": [
+        "Muhammad"
+      ],
+      "canonical_name": "Muhammad",
+      "chunks": [
+        87
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "my creator": {
+      "actions": {
+        "could precipitate me into an ice-rift and destroy my frame": 1,
+        "would tear me to pieces": 1
+      },
+      "aliases": [
+        "my creator"
+      ],
+      "canonical_name": "my creator",
+      "chunks": [
+        104
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "my destroyer": {
+      "actions": {},
+      "aliases": [
+        "my destroyer"
+      ],
+      "canonical_name": "my destroyer",
+      "chunks": [
+        148
+      ],
+      "descriptions": {
+        "accused by the narrator": 1,
+        "object of narrator's resolution to pursue to death": 1
+      },
+      "mentions": 1
+    },
+    "my enemy": {
+      "actions": {},
+      "aliases": [
+        "my enemy"
+      ],
+      "canonical_name": "my enemy",
+      "chunks": [
+        148
+      ],
+      "descriptions": {
+        "referred to as the narrator's enemy": 1
+      },
+      "mentions": 1
+    },
+    "my father": {
+      "actions": {
+        "bestowed pleasure": 1,
+        "endeavoured to encourage his children": 1,
+        "expressed admonition about interrupted correspondence": 1,
+        "inquired into my occupations": 1,
+        "made no reproach in his letters": 1,
+        "talked in a cheerful accent": 1,
+        "took notice of my silence": 1
+      },
+      "aliases": [
+        "father",
+        "my father"
+      ],
+      "canonical_name": "my father",
+      "chunks": [
+        32,
+        33,
+        78
+      ],
+      "descriptions": {
+        "cheerful accent": 1,
+        "concerned about correspondence": 1,
+        "expression of goodness": 1,
+        "father": 1,
+        "old man": 1,
+        "only name father": 1
+      },
+      "mentions": 3
+    },
+    "Nature": {
+      "actions": {
+        "bade me weep no more": 1
+      },
+      "aliases": [
+        "Nature"
+      ],
+      "canonical_name": "Nature",
+      "chunks": [
+        64,
+        65
+      ],
+      "descriptions": {
+        "glorious": 1,
+        "imperial": 1,
+        "maternal": 1
+      },
+      "mentions": 2
+    },
+    "Numa": {
+      "actions": {},
+      "aliases": [
+        "Numa"
+      ],
+      "canonical_name": "Numa",
+      "chunks": [
+        91
+      ],
+      "descriptions": {
+        "peaceable lawgiver": 1
+      },
+      "mentions": 1
+    },
+    "old man": {
+      "actions": {
+        "assumed a more cheerful air": 1,
+        "began to play": 1,
+        "played a sweet mournful air": 1,
+        "produced sweet sounds": 1,
+        "pronounced a few sounds": 1,
+        "raised her": 1,
+        "sat down to eat": 1,
+        "sat leaning his head on his hands": 1,
+        "smiled with kindness": 1,
+        "took no notice of her tears": 1,
+        "took up an instrument": 1,
+        "walked before the cottage in the sun": 1
+      },
+      "aliases": [
+        "old man"
+      ],
+      "canonical_name": "old man",
+      "chunks": [
+        75
+      ],
+      "descriptions": {
+        "benevolent countenance": 1,
+        "disconsolate attitude": 1,
+        "old": 1,
+        "silver hair": 1
+      },
+      "mentions": 1
+    },
+    "Omnipotence": {
+      "actions": {},
+      "aliases": [
+        "Omnipotence"
+      ],
+      "canonical_name": "Omnipotence",
+      "chunks": [
+        64
+      ],
+      "descriptions": {
+        "mighty": 1
+      },
+      "mentions": 1
+    },
+    "Pandæmonium": {
+      "actions": {
+        "appeared": 1
+      },
+      "aliases": [
+        "Pandæmonium"
+      ],
+      "canonical_name": "Pandæmonium",
+      "chunks": [
+        73
+      ],
+      "descriptions": {
+        "appeared to the dæmons of hell after their sufferings in the lake of fire": 1
+      },
+      "mentions": 1
+    },
+    "Paracelsus": {
+      "actions": {},
+      "aliases": [
+        "Paracelsus"
+      ],
+      "canonical_name": "Paracelsus",
+      "chunks": [
+        19,
+        21,
+        24,
+        25,
+        27
+      ],
+      "descriptions": {
+        "associated with ancient fancies": 1,
+        "lord of my imagination": 1,
+        "referenced as an older authority": 1,
+        "writer whose works contain wild fancies": 1
+      },
+      "mentions": 5
+    },
+    "peasants": {
+      "actions": {},
+      "aliases": [
+        "peasants"
+      ],
+      "canonical_name": "peasants",
+      "chunks": [
+        122
+      ],
+      "descriptions": {
+        "dwelt in a cottage not far from mine": 1
+      },
+      "mentions": 1
+    },
+    "Pélissier": {
+      "actions": {},
+      "aliases": [
+        "Pélissier"
+      ],
+      "canonical_name": "Pélissier",
+      "chunks": [
+        64
+      ],
+      "descriptions": {
+        "bridge": 1
+      },
+      "mentions": 1
+    },
+    "person": {
+      "actions": {
+        "landed close to my house": 1
+      },
+      "aliases": [
+        "person"
+      ],
+      "canonical_name": "person",
+      "chunks": [
+        122
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "PGLAF": {
+      "actions": {
+        "owns a compilation copyright": 1,
+        "owns a compilation copyright in the collection of Project Gutenberg™ electronic works": 1
+      },
+      "aliases": [
+        "PGLAF"
+      ],
+      "canonical_name": "PGLAF",
+      "chunks": [
+        168,
+        169
+      ],
+      "descriptions": {
+        "alias shown in parentheses": 1,
+        "named in parentheses as PGLAF": 1
+      },
+      "mentions": 2
+    },
+    "Plainpalais": {
+      "actions": {},
+      "aliases": [
+        "Plainpalais"
+      ],
+      "canonical_name": "Plainpalais",
+      "chunks": [
+        48
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Plutarch": {
+      "actions": {
+        "taught high thoughts": 1
+      },
+      "aliases": [
+        "Plutarch"
+      ],
+      "canonical_name": "Plutarch",
+      "chunks": [
+        91
+      ],
+      "descriptions": {
+        "author of Plutarch’s Lives": 1
+      },
+      "mentions": 1
+    },
+    "poor wretch": {
+      "actions": {
+        "approached me": 1,
+        "felt sensations of a mixture of pain and pleasure": 1,
+        "shut the door": 1,
+        "spoke in a smothered voice": 1,
+        "withdrew from the window": 1
+      },
+      "aliases": [
+        "poor wretch",
+        "wretch"
+      ],
+      "canonical_name": "poor wretch",
+      "chunks": [
+        75,
+        122
+      ],
+      "descriptions": {
+        "had never beheld aught beautiful before": 1,
+        "whom I dreaded": 1
+      },
+      "mentions": 2
+    },
+    "Professor Krempe": {
+      "actions": {
+        "asked narrator how Cornelius Agrippa went on": 1
+      },
+      "aliases": [
+        "Professor Krempe"
+      ],
+      "canonical_name": "Professor Krempe",
+      "chunks": [
+        28
+      ],
+      "descriptions": {
+        "Professor": 1
+      },
+      "mentions": 1
+    },
+    "Professor Michael S. Hart": {
+      "actions": {
+        "produced and distributed Project Gutenberg™ eBooks": 1,
+        "was the originator of the Project Gutenberg™ concept": 1
+      },
+      "aliases": [
+        "Professor Michael S. Hart"
+      ],
+      "canonical_name": "Professor Michael S. Hart",
+      "chunks": [
+        174
+      ],
+      "descriptions": {
+        "originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared": 1,
+        "produced and distributed Project Gutenberg™ eBooks for forty years with only a loose network of volunteer support": 1
+      },
+      "mentions": 1
+    },
+    "Project Gutenberg": {
+      "actions": {
+        "cannot survive without donations": 1,
+        "depends upon public support and donations": 1,
+        "depends upon widespread public support and donations": 1,
+        "is synonymous with the free distribution of electronic works": 1,
+        "may only be used on or associated with an electronic work by people who agree to be bound by the terms": 1
+      },
+      "aliases": [
+        "Project Gutenberg",
+        "Project Gutenberg™"
+      ],
+      "canonical_name": "Project Gutenberg",
+      "chunks": [
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174
+      ],
+      "descriptions": {
+        "depends upon and cannot survive without widespread public support and donations": 1,
+        "electronic work": 2,
+        "electronic works": 1,
+        "exists because of the efforts of hundreds of volunteers and donations": 1,
+        "has a mission of promoting free access to electronic works": 1,
+        "phrase appearing on or associated with works": 1,
+        "registered trademark": 1,
+        "synonymous with the free distribution of electronic works": 1,
+        "trademark": 4
+      },
+      "mentions": 9
+    },
+    "Project Gutenberg License": {
+      "actions": {},
+      "aliases": [
+        "Project Gutenberg License",
+        "Project Gutenberg™ License"
+      ],
+      "canonical_name": "Project Gutenberg License",
+      "chunks": [
+        169
+      ],
+      "descriptions": {
+        "full license attached to the work": 1,
+        "included with this eBook or online at www.gutenberg.org": 2
+      },
+      "mentions": 2
+    },
+    "Project Gutenberg Literary Archive Foundation": {
+      "actions": {
+        "accepts donations by checks, online payments and credit card donations": 1,
+        "cannot make statements concerning tax treatment of donations received from outside the United States": 1,
+        "committed to complying with laws regulating charities and charitable donations": 1,
+        "contact for permission": 1,
+        "disclaim all liability for damages, costs and expenses": 1,
+        "does not solicit donations in locations without written confirmation of compliance": 1,
+        "not liable for actual, direct, indirect, consequential, punitive or incidental damages": 1,
+        "owns a compilation copyright": 1,
+        "receive donated royalties": 1,
+        "receive royalty payments": 1,
+        "was created to provide a secure and permanent future for Project Gutenberg™ and future generations": 1
+      },
+      "aliases": [
+        "Project Gutenberg Literary Archive Foundation"
+      ],
+      "canonical_name": "Project Gutenberg Literary Archive Foundation",
+      "chunks": [
+        168,
+        171,
+        172,
+        173,
+        174
+      ],
+      "descriptions": {
+        "accepts donations": 1,
+        "business office located at 809 North 1500 West, Salt Lake City, UT 84116": 1,
+        "committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States": 1,
+        "EIN 64-6221541": 1,
+        "manager of the Project Gutenberg™ trademark": 1,
+        "non-profit 501(c)(3) educational corporation": 1,
+        "organized under the laws of the state of Mississippi": 1,
+        "owner of the Project Gutenberg™ trademark": 1,
+        "owns a compilation copyright in the collection of Project Gutenberg™ electronic works": 1
+      },
+      "mentions": 5
+    },
+    "Project Gutenberg volunteers and employees": {
+      "actions": {
+        "do copyright research": 1,
+        "identify works": 1,
+        "proofread works": 1,
+        "transcribe works": 1
+      },
+      "aliases": [
+        "Project Gutenberg volunteers and employees"
+      ],
+      "canonical_name": "Project Gutenberg volunteers and employees",
+      "chunks": [
+        171
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "R. Walton": {
+      "actions": {
+        "be patient": 1,
+        "became acquainted with celebrated poets": 1,
+        "collecting sailors": 1,
+        "commit thoughts to paper": 1,
+        "direction was northwards": 1,
+        "do not intend to sail until June": 1,
+        "engage sailors": 1,
+        "grieve": 1,
+        "had kind intentions towards a miserable wretch": 1,
+        "hired a vessel": 1,
+        "intend to hire a ship": 1,
+        "is exposing himself to the same dangers": 1,
+        "is pursuing the same course": 1,
+        "perceived necessity of learning more languages": 1,
+        "ran wild on a common in first fourteen years": 1,
+        "read Uncle Thomas' books of voyages": 1,
+        "returning to England": 1,
+        "sat by his bed": 1,
+        "seeks for knowledge and wisdom": 1,
+        "speaks of new ties and fresh affections": 1,
+        "thought he slept": 1,
+        "took me on board when my vigour was exhausted": 1,
+        "watched him": 1,
+        "will depart for the latter town in a fortnight or three weeks": 1
+      },
+      "aliases": [
+        "Captain Walton",
+        "R. Walton",
+        "Walton"
+      ],
+      "canonical_name": "R. Walton",
+      "chunks": [
+        3,
+        11,
+        155,
+        156,
+        157,
+        158,
+        162
+      ],
+      "descriptions": {
+        "affectionate brother": 1,
+        "had a vessel riding at anchor": 1,
+        "has hope": 1,
+        "has kind intentions towards a miserable wretch": 1,
+        "has no cause for despair": 1,
+        "has the world before him": 1,
+        "impatient of difficulties": 1,
+        "in continuation": 1,
+        "more illiterate than many schoolboys of fifteen": 1,
+        "self-educated": 1,
+        "somewhat fastidious": 1,
+        "too ardent in execution": 1,
+        "tutored and refined by books and retirement from the world": 1,
+        "twenty-eight": 1
+      },
+      "mentions": 7
+    },
+    "R.W.": {
+      "actions": {},
+      "aliases": [
+        "R.W."
+      ],
+      "canonical_name": "R.W.",
+      "chunks": [
+        6
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Robert Walton": {
+      "actions": {
+        "tracing a secure way over the pathless seas": 1,
+        "will not rashly encounter danger": 1,
+        "wrote a few lines in haste": 1
+      },
+      "aliases": [
+        "Robert Walton"
+      ],
+      "canonical_name": "Robert Walton",
+      "chunks": [
+        6
+      ],
+      "descriptions": {
+        "affectionate brother": 1,
+        "in good spirits": 1,
+        "well advanced on his voyage": 1
+      },
+      "mentions": 1
+    },
+    "Romans": {
+      "actions": {},
+      "aliases": [
+        "Romans"
+      ],
+      "canonical_name": "Romans",
+      "chunks": [
+        84
+      ],
+      "descriptions": {
+        "early": 1,
+        "subsequent degenerating": 1,
+        "wonderful virtue": 1
+      },
+      "mentions": 1
+    },
+    "Romulus": {
+      "actions": {},
+      "aliases": [
+        "Romulus"
+      ],
+      "canonical_name": "Romulus",
+      "chunks": [
+        91
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Safie": {
+      "actions": {
+        "arrived in safety at the cottage of her lover": 1,
+        "arrived near De Lacey's cottage": 1,
+        "attempted to expostulate with her father": 1,
+        "attempted to kiss his hand": 1,
+        "departed for Germany": 1,
+        "departed on a long country walk": 1,
+        "diffused happiness among its inhabitants": 1,
+        "endeavoured to learn their language": 1,
+        "entered the cottage": 1,
+        "expressed her lively gratitude by gestures": 1,
+        "held out her hand to Felix": 1,
+        "improved rapidly in the knowledge of language": 1,
+        "knelt at the old man's feet": 1,
+        "learned about twenty words": 1,
+        "letters referenced in narrative": 1,
+        "nursed her attendant": 1,
+        "nursed her with the most devoted affection": 1,
+        "played airs": 1,
+        "quitted Italy with an attendant": 1,
+        "related that her mother was a Christian Arab": 1,
+        "resolved a plan of conduct": 1,
+        "resolved to remain with her father": 1,
+        "resolved to remain with her father until his departure": 1,
+        "retired early": 1,
+        "rushed out of the cottage": 1,
+        "sang the divine airs of her native country": 1,
+        "sat at the feet of the old man": 1,
+        "smiled": 1,
+        "spoke enthusiastically of her mother": 1,
+        "thanked Felix in letters": 1,
+        "took jewels and a sum of money": 1,
+        "took the old man's guitar": 1,
+        "was allowed to visit her father": 1,
+        "was instructed by Felix from Volney's book": 1,
+        "was unable to attend to her friend": 1,
+        "wept with narrator over the hapless fate of original inhabitants": 1,
+        "wiped a few tears": 1,
+        "wrote letters by the aid of a servant": 1
+      },
+      "aliases": [
+        "Safie"
+      ],
+      "canonical_name": "Safie",
+      "chunks": [
+        82,
+        83,
+        84,
+        86,
+        87,
+        88,
+        89,
+        90,
+        93,
+        94,
+        96,
+        99,
+        156
+      ],
+      "descriptions": {
+        "accustomed to grand ideas and a noble emulation for virtue": 1,
+        "always gay and happy": 1,
+        "angelic beauty and expression": 1,
+        "Arabian": 3,
+        "arrived from Constantinople": 1,
+        "cheeks tinged with a lovely pink": 1,
+        "child of De Lacey": 1,
+        "complexion wondrously fair": 1,
+        "curiously braided hair": 1,
+        "daughter": 1,
+        "daughter of a Turkish merchant": 1,
+        "daughter of the Turk": 2,
+        "eyes dark but gentle": 1,
+        "features of a regular proportion": 1,
+        "fell into good hands": 1,
+        "generous": 1,
+        "hair of a shining raven black": 1,
+        "letters referenced": 1,
+        "lovely": 1,
+        "lovely Arabian": 1,
+        "lovely girl": 1,
+        "lovely stranger": 1,
+        "outraged by her father's command": 1,
+        "presence diffused happiness": 1,
+        "recipient of lessons from Felix": 1,
+        "unacquainted with the language of the country": 2,
+        "utterly ignorant of the customs of the world": 2,
+        "young girl": 1,
+        "younger protector": 1
+      },
+      "mentions": 13
+    },
+    "Salêve": {
+      "actions": {},
+      "aliases": [
+        "Salêve"
+      ],
+      "canonical_name": "Salêve",
+      "chunks": [
+        48
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Salt Lake City": {
+      "actions": {},
+      "aliases": [
+        "Salt Lake City"
+      ],
+      "canonical_name": "Salt Lake City",
+      "chunks": [
+        173
+      ],
+      "descriptions": {
+        "location of the Foundation’s business office": 1
+      },
+      "mentions": 1
+    },
+    "Satan": {
+      "actions": {},
+      "aliases": [
+        "Satan"
+      ],
+      "canonical_name": "Satan",
+      "chunks": [
+        92
+      ],
+      "descriptions": {
+        "had companions, fellow devils": 1
+      },
+      "mentions": 1
+    },
+    "Secheron": {
+      "actions": {},
+      "aliases": [
+        "Secheron"
+      ],
+      "canonical_name": "Secheron",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "village half a league from the city": 1
+      },
+      "mentions": 1
+    },
+    "Servox": {
+      "actions": {},
+      "aliases": [
+        "Servox"
+      ],
+      "canonical_name": "Servox",
+      "chunks": [
+        64
+      ],
+      "descriptions": {
+        "beautiful and picturesque": 1,
+        "valley": 1
+      },
+      "mentions": 1
+    },
+    "Shakespeare": {
+      "actions": {},
+      "aliases": [
+        "Shakespeare"
+      ],
+      "canonical_name": "Shakespeare",
+      "chunks": [
+        1,
+        2
+      ],
+      "descriptions": {
+        "name consecrated in a temple": 1,
+        "name consecrated in temple": 1
+      },
+      "mentions": 2
+    },
+    "Sir Isaac Newton": {
+      "actions": {
+        "avowed he felt like a child picking up shells": 1,
+        "avowed that he felt like a child picking up shells beside the great and unexplored ocean of truth": 1
+      },
+      "aliases": [
+        "Sir Isaac Newton"
+      ],
+      "canonical_name": "Sir Isaac Newton",
+      "chunks": [
+        19,
+        20
+      ],
+      "descriptions": {
+        "said to have avowed he felt like a child picking up shells beside the great and unexplored ocean of truth": 1,
+        "said to have felt like a child picking up shells beside the great and unexplored ocean of truth": 1
+      },
+      "mentions": 2
+    },
+    "sister": {
+      "actions": {},
+      "aliases": [
+        "sister"
+      ],
+      "canonical_name": "sister",
+      "chunks": [
+        78
+      ],
+      "descriptions": {
+        "name given to the girl": 1
+      },
+      "mentions": 1
+    },
+    "Solon": {
+      "actions": {},
+      "aliases": [
+        "Solon"
+      ],
+      "canonical_name": "Solon",
+      "chunks": [
+        91
+      ],
+      "descriptions": {
+        "peaceable lawgiver": 1
+      },
+      "mentions": 1
+    },
+    "some one": {
+      "actions": {
+        "endeavoured to open the door softly": 1
+      },
+      "aliases": [
+        "some one"
+      ],
+      "canonical_name": "some one",
+      "chunks": [
+        122
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "son": {
+      "actions": {},
+      "aliases": [
+        "son"
+      ],
+      "canonical_name": "son",
+      "chunks": [
+        78
+      ],
+      "descriptions": {
+        "name given to the youth": 1
+      },
+      "mentions": 1
+    },
+    "sparrow": {
+      "actions": {
+        "uttered harsh notes": 1
+      },
+      "aliases": [
+        "sparrow"
+      ],
+      "canonical_name": "sparrow",
+      "chunks": [
+        71
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "spirits of the dead": {
+      "actions": {
+        "hovered round": 1,
+        "instigated the narrator to toil and revenge": 1
+      },
+      "aliases": [
+        "spirits of the dead"
+      ],
+      "canonical_name": "spirits of the dead",
+      "chunks": [
+        153
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Switzerland": {
+      "actions": {},
+      "aliases": [
+        "Switzerland"
+      ],
+      "canonical_name": "Switzerland",
+      "chunks": [
+        48
+      ],
+      "descriptions": {
+        "country": 1
+      },
+      "mentions": 1
+    },
+    "the being": {
+      "actions": {
+        "finished speaking": 1,
+        "fixed his looks upon me": 1
+      },
+      "aliases": [
+        "the being"
+      ],
+      "canonical_name": "the being",
+      "chunks": [
+        104,
+        148
+      ],
+      "descriptions": {
+        "deformed and horrible": 1,
+        "whom the narrator accuses": 1
+      },
+      "mentions": 2
+    },
+    "the cottagers": {
+      "actions": {},
+      "aliases": [
+        "the cottagers"
+      ],
+      "canonical_name": "the cottagers",
+      "chunks": [
+        76
+      ],
+      "descriptions": {
+        "had a means of prolonging light by the use of tapers": 1
+      },
+      "mentions": 1
+    },
+    "the family": {
+      "actions": {
+        "extinguished their lights and retired": 1
+      },
+      "aliases": [
+        "the family"
+      ],
+      "canonical_name": "the family",
+      "chunks": [
+        76
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "the fiend": {
+      "actions": {
+        "arrived the night before": 1,
+        "calmed himself": 1,
+        "carried off their store of winter food": 1,
+        "demanded a creature of another sex": 1,
+        "harnessed the dogs": 1,
+        "intended to reason": 1,
+        "left threatening words": 1,
+        "placed food in a sledge": 1,
+        "pursued his journey across the sea": 1,
+        "put to flight inhabitants of a solitary cottage": 1,
+        "replied": 1,
+        "said this": 1,
+        "seized a numerous drove of trained dogs": 1,
+        "threatened \"I will be with you on your wedding-night!\"": 1
+      },
+      "aliases": [
+        "the fiend"
+      ],
+      "canonical_name": "the fiend",
+      "chunks": [
+        104,
+        139,
+        153
+      ],
+      "descriptions": {
+        "armed with a gun and many pistols": 1,
+        "face wrinkled into horrible contortions": 1,
+        "fiend": 1,
+        "fiendish rage": 1,
+        "gigantic monster": 1,
+        "one day's journey in advance": 1,
+        "terrific appearance": 1
+      },
+      "mentions": 3
+    },
+    "the Foundation": {
+      "actions": {
+        "makes no representations concerning the copyright status of any work in any country other than the United States": 1,
+        "owns a compilation copyright": 1,
+        "owns a compilation copyright in the collection of Project Gutenberg™ electronic works": 1
+      },
+      "aliases": [
+        "the Foundation"
+      ],
+      "canonical_name": "the Foundation",
+      "chunks": [
+        168,
+        169,
+        173
+      ],
+      "descriptions": {
+        "alias shown in parentheses": 1,
+        "has a business office at 809 North 1500 West, Salt Lake City, UT 84116": 1,
+        "mentioned as a party to be indemnified": 1,
+        "named in parentheses as “the Foundation”": 1
+      },
+      "mentions": 3
+    },
+    "the girl": {
+      "actions": {
+        "engaged in various laborious occupations within": 1
+      },
+      "aliases": [
+        "the girl"
+      ],
+      "canonical_name": "the girl",
+      "chunks": [
+        76
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "the moon": {
+      "actions": {
+        "enlightened my path": 1,
+        "gazed on my midnight labours": 1,
+        "moved slowly": 1,
+        "rose from among the trees": 1,
+        "showed itself": 1
+      },
+      "aliases": [
+        "the moon",
+        "The moon"
+      ],
+      "canonical_name": "the moon",
+      "chunks": [
+        32,
+        71
+      ],
+      "descriptions": {
+        "bright": 1,
+        "lessened form": 1,
+        "orb of night": 1,
+        "radiant form": 1
+      },
+      "mentions": 2
+    },
+    "the murderer": {
+      "actions": {
+        "commit murder": 1
+      },
+      "aliases": [
+        "the murderer"
+      ],
+      "canonical_name": "the murderer",
+      "chunks": [
+        148
+      ],
+      "descriptions": {
+        "referred to as murderer": 1
+      },
+      "mentions": 1
+    },
+    "the old man": {
+      "actions": {
+        "contemplated": 1,
+        "employed his leisure hours in contemplation": 1,
+        "employed his leisure hours on his instrument": 2,
+        "leaned on the arm of the youth": 1,
+        "produced divine sounds": 1,
+        "returned to the cottage": 1,
+        "rewarded them by benevolent smiles": 1,
+        "rewarded them by his benevolent smiles": 1,
+        "took up the instrument": 1,
+        "walked before the cottage in the sun": 1
+      },
+      "aliases": [
+        "the old man"
+      ],
+      "canonical_name": "the old man",
+      "chunks": [
+        76,
+        77
+      ],
+      "descriptions": {
+        "blind": 2,
+        "countenance beaming with benevolence and love": 1,
+        "old": 1,
+        "venerable companion": 1,
+        "with silver hairs": 1
+      },
+      "mentions": 2
+    },
+    "The Turk": {
+      "actions": {
+        "allowed this intimacy to take place": 1,
+        "decided to wait at Leghorn to pass into Turkish dominions": 1,
+        "encouraged the hopes of the youthful lovers": 1,
+        "endeavoured to secure Felix by promising his daughter's hand": 1,
+        "entered his daughter's apartment": 1,
+        "insultingly sent Felix a pittance of money": 1,
+        "intended to leave his daughter under the care of a confidential servant": 1,
+        "left his daughter angrily": 1,
+        "married Safie's mother": 1,
+        "perceived the impression his daughter made on Felix": 1,
+        "planned to secretly take his daughter with him when he departed": 1,
+        "quitted his prison": 1,
+        "quitted Italy with his daughter": 1,
+        "renewed his promise that she should be united to his deliverer": 1,
+        "revolved a thousand plans to prolong the deceit": 1,
+        "told his daughter he had hired a vessel for Constantinople": 1
+      },
+      "aliases": [
+        "The Turk",
+        "Turk"
+      ],
+      "canonical_name": "The Turk",
+      "chunks": [
+        87,
+        88,
+        89
+      ],
+      "descriptions": {
+        "father of Safie": 2,
+        "feared the resentment of Felix": 1,
+        "loathed the idea that his daughter should be united to a Christian": 1,
+        "merchant": 1,
+        "traitor to good feeling and honour": 2,
+        "treacherous": 2
+      },
+      "mentions": 3
+    },
+    "the young girl": {
+      "actions": {
+        "employed in various occupations": 1
+      },
+      "aliases": [
+        "the young girl"
+      ],
+      "canonical_name": "the young girl",
+      "chunks": [
+        76
+      ],
+      "descriptions": {
+        "young": 1
+      },
+      "mentions": 1
+    },
+    "the young man": {
+      "actions": {
+        "constantly employed out of doors": 1,
+        "often went apart and appeared to weep": 1
+      },
+      "aliases": [
+        "the young man"
+      ],
+      "canonical_name": "the young man",
+      "chunks": [
+        76,
+        77
+      ],
+      "descriptions": {
+        "young": 1,
+        "young man": 1
+      },
+      "mentions": 2
+    },
+    "The young woman": {
+      "actions": {
+        "appeared greatly astonished on seeing a great pile of wood": 1,
+        "arranged the cottage": 1,
+        "occupied in arranging the cottage": 1,
+        "opened the door in the morning": 1,
+        "prepared the food": 1,
+        "uttered words in a loud voice": 1
+      },
+      "aliases": [
+        "the young woman",
+        "The young woman"
+      ],
+      "canonical_name": "The young woman",
+      "chunks": [
+        76,
+        77
+      ],
+      "descriptions": {
+        "young": 1,
+        "young woman": 1
+      },
+      "mentions": 2
+    },
+    "the younger cottagers": {
+      "actions": {
+        "exhibited love and respect": 1,
+        "exhibited love and respect towards the old man": 1,
+        "performed every little office of affection and duty with gentleness": 1,
+        "performed offices of affection and duty with gentleness": 1,
+        "placed food before the old man when they reserved none for themselves": 1,
+        "suffered pangs of hunger": 1
+      },
+      "aliases": [
+        "the younger cottagers"
+      ],
+      "canonical_name": "the younger cottagers",
+      "chunks": [
+        76,
+        77
+      ],
+      "descriptions": {
+        "amiable": 1,
+        "younger": 1,
+        "younger cottagers": 1
+      },
+      "mentions": 2
+    },
+    "their venerable companion": {
+      "actions": {
+        "was shown love and respect by the younger cottagers": 1
+      },
+      "aliases": [
+        "their venerable companion"
+      ],
+      "canonical_name": "their venerable companion",
+      "chunks": [
+        76
+      ],
+      "descriptions": {
+        "venerable": 1
+      },
+      "mentions": 1
+    },
+    "Theseus": {
+      "actions": {},
+      "aliases": [
+        "Theseus"
+      ],
+      "canonical_name": "Theseus",
+      "chunks": [
+        91
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "Thomas": {
+      "actions": {},
+      "aliases": [
+        "Thomas",
+        "Uncle Thomas"
+      ],
+      "canonical_name": "Thomas",
+      "chunks": [
+        1,
+        3
+      ],
+      "descriptions": {
+        "good uncle": 1,
+        "had a library composed of histories of voyages": 1,
+        "has books of voyages": 1,
+        "uncle": 1
+      },
+      "mentions": 2
+    },
+    "thrush": {
+      "actions": {
+        "uttered sweet and enticing notes": 1
+      },
+      "aliases": [
+        "thrush"
+      ],
+      "canonical_name": "thrush",
+      "chunks": [
+        71
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "U.S. copyright law": {
+      "actions": {},
+      "aliases": [
+        "U.S. copyright law"
+      ],
+      "canonical_name": "U.S. copyright law",
+      "chunks": [
+        171
+      ],
+      "descriptions": {},
+      "mentions": 1
+    },
+    "United States": {
+      "actions": {},
+      "aliases": [
+        "United States"
+      ],
+      "canonical_name": "United States",
+      "chunks": [
+        168,
+        169
+      ],
+      "descriptions": {
+        "jurisdiction where nearly all individual works are in the public domain": 1,
+        "location where nearly all individual works in the collection are in the public domain": 1
+      },
+      "mentions": 2
+    },
+    "Victor": {
+      "actions": {
+        "agreed the ceremony should take place in ten days": 1,
+        "arrived at my college": 1,
+        "avoided explanation": 1,
+        "beheld those I loved spend vain sorrow upon the graves of William and Justine": 1,
+        "came to them now": 1,
+        "checked his thirst for sympathy and was silent": 1,
+        "clapped my hands for joy": 1,
+        "committed deeds of mischief": 1,
+        "communicated the discovery to his father": 1,
+        "concealed his feelings by an appearance of hilarity": 1,
+        "continued to read with the greatest avidity": 1,
+        "cried energetically": 1,
+        "curbed the imperious voice of wretchedness": 1,
+        "darted up towards my room": 1,
+        "declared he would consecrate himself to the happiness of his cousin": 1,
+        "declared love for his cousin tenderly and sincerely": 1,
+        "did not recover senses for a long time": 1,
+        "endeavoured to arrive at some conclusion": 1,
+        "fell down in a fit": 1,
+        "fled to solitude": 1,
+        "found a volume of the works of Cornelius Agrippa": 1,
+        "jumped over the chairs": 1,
+        "laughed aloud": 1,
+        "left Paris": 1,
+        "left us": 1,
+        "listened to his father in silence": 1,
+        "looked forward to their union with delight": 1,
+        "maintained silence about the wretch I had created": 1,
+        "offered no explanation": 1,
+        "opened the volume with apathy": 1,
+        "procured the whole works of Cornelius Agrippa, Paracelsus, and Albertus Magnus": 1,
+        "put my hands before my eyes": 1,
+        "quitted Geneva": 1,
+        "ran down to Clerval": 1,
+        "read and studied the wild fancies with delight": 1,
+        "reassured his father": 1,
+        "received a letter from Elizabeth": 1,
+        "remained incapable of offering any reply": 1,
+        "remained silent": 1,
+        "remembered necessity of journeying to England or entering into long correspondence": 1,
+        "resolved to perform his engagement": 1,
+        "retired to our house at Belrive": 1,
+        "returned home": 1,
+        "revolved a multitude of thoughts": 1,
+        "said he loved Elizabeth": 1,
+        "says he knows the murderer": 1,
+        "shunned the face of man": 1,
+        "sleep fled from my eyes": 1,
+        "spent several years at Ingolstadt": 1,
+        "stepped fearfully in": 1,
+        "struggled furiously": 1,
+        "threw the door forcibly open": 1,
+        "travelled": 1,
+        "trembled excessively": 1,
+        "trembled violently at his exordium": 1,
+        "waited impatiently for a letter": 1,
+        "walked with a quick pace": 1,
+        "wandered like an evil spirit": 1,
+        "was confined by a nervous fever for several months": 1,
+        "was told he alone can console Elizabeth": 1,
+        "was urged in the letter to return and be the family's comforter": 1,
+        "was urged not to brood on vengeance but to enter the house of mourning with kindness": 1,
+        "words burst uncontrollably from him": 1
+      },
+      "aliases": [
+        "Victor"
+      ],
+      "canonical_name": "Victor",
+      "chunks": [
+        16,
+        19,
+        37,
+        39,
+        41,
+        42,
+        45,
+        46,
+        50,
+        52,
+        57,
+        60,
+        62,
+        63,
+        109,
+        113,
+        137,
+        138,
+        139,
+        140,
+        141,
+        143,
+        144,
+        155
+      ],
+      "descriptions": {
+        "addressed as 'dearest Victor'": 1,
+        "addressed as 'my Victor' by his mother in a quoted line": 1,
+        "addressed by Elizabeth as 'my dear Victor'": 1,
+        "alive": 1,
+        "assassin of those most innocent victims": 1,
+        "attached to Elizabeth from earliest infancy": 1,
+        "begun life with benevolent intentions": 1,
+        "borne down by the cruellest misfortunes": 1,
+        "bound by a solemn promise": 1,
+        "calmer and more composed": 1,
+        "contented and even cheerful countenance": 1,
+        "cousin of Elizabeth Lavenza": 1,
+        "dear": 2,
+        "dearest": 1,
+        "flying to solitude from society": 1,
+        "forbidden to write—to hold a pen": 1,
+        "has a sickbed": 1,
+        "has an expression of despair and sometimes of revenge in his countenance": 1,
+        "has travelled": 1,
+        "heart overflowed with kindness and the love of virtue": 1,
+        "ill": 1,
+        "ill, very ill": 1,
+        "imbued with a fervent longing to penetrate the secrets of nature": 1,
+        "lifeless": 1,
+        "long absent son": 1,
+        "not mad": 1,
+        "possessed of a competent fortune": 1,
+        "quitted Geneva": 1,
+        "so unhappy": 1,
+        "solitude was his only consolation": 1,
+        "spent several years at Ingolstadt": 1,
+        "studied with Elizabeth": 1,
+        "suited in dispositions and tastes": 1,
+        "thirteen years of age": 1,
+        "torn by remorse, horror, and despair": 1,
+        "wretched": 1,
+        "young": 1
+      },
+      "mentions": 24
+    },
+    "Volney": {
+      "actions": {},
+      "aliases": [
+        "Volney"
+      ],
+      "canonical_name": "Volney",
+      "chunks": [
+        83
+      ],
+      "descriptions": {
+        "author of Ruins of Empires": 1
+      },
+      "mentions": 1
+    },
+    "Werter": {
+      "actions": {
+        "had imaginations": 1
+      },
+      "aliases": [
+        "Werter"
+      ],
+      "canonical_name": "Werter",
+      "chunks": [
+        90,
+        91
+      ],
+      "descriptions": {
+        "character contained no pretension": 2,
+        "hero": 2,
+        "more divine being": 2
+      },
+      "mentions": 2
+    },
+    "William": {
+      "actions": {
+        "died": 1,
+        "felt the murderer's grasp": 1,
+        "had run away to hide himself": 1,
+        "has had one or two little wives": 1,
+        "sleeps with his angel mother": 1,
+        "smiled, delighting and warming my heart": 1,
+        "smiles": 1,
+        "teased Elizabeth to let him wear a valuable miniature": 1,
+        "was murdered": 1
+      },
+      "aliases": [
+        "William"
+      ],
+      "canonical_name": "William",
+      "chunks": [
+        41,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        55,
+        58,
+        59,
+        60,
+        61,
+        62,
+        114,
+        115,
+        129,
+        130,
+        136,
+        146,
+        149,
+        150,
+        155
+      ],
+      "descriptions": {
+        "assassinated": 1,
+        "blood sealed barrier": 2,
+        "bright and joyous in his young beauty": 1,
+        "cheeks rosy with health": 1,
+        "curling hair": 1,
+        "dark eyelashes": 1,
+        "darling and our pride": 1,
+        "dead": 3,
+        "dear angel": 1,
+        "dear lovely child": 1,
+        "dearest blessed child": 1,
+        "deceased": 2,
+        "fair child": 1,
+        "first hapless victim to my unhallowed arts": 1,
+        "gentle form": 1,
+        "grave marked by a tomb": 1,
+        "had been blooming and active in health": 1,
+        "hapless victim to my unhallowed arts": 1,
+        "little": 1,
+        "little darling": 1,
+        "lovely boy": 1,
+        "lovely darling boy": 1,
+        "mentioned as a murder victim": 1,
+        "murdered": 3,
+        "murdered friend": 1,
+        "our darling and our pride": 1,
+        "poor": 3,
+        "poor William": 1,
+        "print of the murder's finger on his neck": 1,
+        "reposed": 1,
+        "reposed in cemetery": 1,
+        "so gentle yet so gay": 1,
+        "stretched on the grass livid and motionless": 1,
+        "sweet child": 1,
+        "sweet laughing blue eyes": 1,
+        "two little dimples on each cheek": 1,
+        "unhappy child": 1,
+        "very tall of his age": 1
+      },
+      "mentions": 25
+    },
+    "Wordsworth": {
+      "actions": {},
+      "aliases": [
+        "Wordsworth"
+      ],
+      "canonical_name": "Wordsworth",
+      "chunks": [
+        113,
+        114
+      ],
+      "descriptions": {
+        "author of 'Tintern Abbey'": 1,
+        "author of \"Tintern Abbey\"": 1
+      },
+      "mentions": 2
+    },
+    "www.gutenberg.org": {
+      "actions": {
+        "hosts contact page at /contact": 1,
+        "hosts donate page at /donate": 1
+      },
+      "aliases": [
+        "www.gutenberg.org"
+      ],
+      "canonical_name": "www.gutenberg.org",
+      "chunks": [
+        169,
+        173,
+        174
+      ],
+      "descriptions": {
+        "Foundation information page / official website for contact": 1,
+        "main PG search facility": 1,
+        "website where the Project Gutenberg License is available online": 1,
+        "website with information about Project Gutenberg and donation methods": 1
+      },
+      "mentions": 3
+    },
+    "young girl": {
+      "actions": {
+        "carried fuel into the cottage": 1,
+        "continued her work": 1,
+        "entered the cottage": 1,
+        "helped relieve him of his burden": 1,
+        "joined him in the garden": 1,
+        "knelt at his feet": 1,
+        "left her work": 1,
+        "met him at the door": 1,
+        "occupied in arranging the cottage": 1,
+        "placed fuel on the fire": 1,
+        "placed plants in water": 1,
+        "placed plants on the fire": 1,
+        "sat down beside the old man": 1,
+        "sat down to eat": 1,
+        "sobbed audibly": 1,
+        "took something out of a drawer": 1,
+        "was busied in house and yard": 1,
+        "went into the garden for roots": 1
+      },
+      "aliases": [
+        "young girl"
+      ],
+      "canonical_name": "young girl",
+      "chunks": [
+        75
+      ],
+      "descriptions": {
+        "amiable companion": 1,
+        "gentle manners": 1,
+        "young": 1
+      },
+      "mentions": 1
+    },
+    "young man": {
+      "actions": {
+        "appeared busily employed in digging and pulling up roots": 1,
+        "entered the cottage": 1,
+        "returned bearing a load of wood on his shoulders": 1,
+        "sat down to eat": 1,
+        "showed her a large loaf and a piece of cheese": 1,
+        "was employed about an hour": 1,
+        "went into the garden": 1
+      },
+      "aliases": [
+        "young man"
+      ],
+      "canonical_name": "young man",
+      "chunks": [
+        75
+      ],
+      "descriptions": {
+        "young": 1
+      },
+      "mentions": 1
+    },
+    "young woman": {
+      "actions": {
+        "entered the cottage": 1,
+        "joined him in the garden": 1,
+        "sat down to eat": 1,
+        "was again occupied in arranging the cottage": 1
+      },
+      "aliases": [
+        "young woman"
+      ],
+      "canonical_name": "young woman",
+      "chunks": [
+        75
+      ],
+      "descriptions": {
+        "young": 1
+      },
+      "mentions": 1
+    },
+    "youth": {
+      "actions": {
+        "began to utter monotonous sounds": 1,
+        "cultivated the garden": 1,
+        "departed after the first meal": 1,
+        "did not go to the forest that day": 1,
+        "directed his steps across the fields": 1,
+        "joined her and expressed surprise": 1,
+        "read aloud": 1,
+        "spent a great part of each day collecting wood for the family fire": 1,
+        "spent the day repairing the cottage": 1,
+        "used tools different from those used in the morning": 1
+      },
+      "aliases": [
+        "the youth",
+        "youth"
+      ],
+      "canonical_name": "youth",
+      "chunks": [
+        75,
+        76,
+        77
+      ],
+      "descriptions": {
+        "eyes and attitude expressed sadness and despondency": 1,
+        "features moulded with the finest symmetry": 1,
+        "slight and graceful": 2,
+        "youth": 1
+      },
+      "mentions": 3
+    }
+  }
+}

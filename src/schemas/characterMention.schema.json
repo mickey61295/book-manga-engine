@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ChunkMentionsResult",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["chunkIndex", "characters"],
+  "properties": {
+    "chunkIndex": { "type": "integer", "minimum": 0 },
+    "characters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "descriptions", "actions"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "descriptions": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "actions": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    }
+  }
+}

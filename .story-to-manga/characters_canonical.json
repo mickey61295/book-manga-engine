@@ -1,0 +1,2611 @@
+{
+  "characters": {
+    "Adam": {
+      "character_id": "adam",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "came forth from the hands of God",
+          "conversed with beings of a superior nature",
+          "described as a perfect creature",
+          "guarded by the especial care of his Creator",
+          "made supplication to his Creator"
+        ],
+        "role": "biblical figure"
+      },
+      "drawable": false,
+      "kind": "mythological",
+      "reason": "Evidence frames Adam as a religious/biblical created being; mythological classification fits and such figures are not drawable per rules."
+    },
+    "Agatha": {
+      "character_id": "agatha",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "female",
+        "notes": [
+          "assisted in labours by servants",
+          "entered a cottage",
+          "eyes sometimes filled with tears",
+          "fainted",
+          "found asylum in a cottage in Germany",
+          "gentle",
+          "imprisoned and condemned to exile and deprived of fortune",
+          "kissed the hands of a stranger",
+          "listened to father's exhortations",
+          "played a simple air (guitar)"
+        ],
+        "role": "child of De Lacey; sister"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence attributes multiple concrete actions and scenes to Agatha (entering cottages, playing, fainting, imprisonment/exile), so classify as a narrative character; conservatively limited traits to those stated."
+    },
+    "aged cottager": {
+      "character_id": "aged_cottager",
+      "confidence": "medium",
+      "core_identity": {
+        "age": "aged",
+        "gender": null,
+        "notes": [
+          "action: won my reverence",
+          "benevolent countenance",
+          "mentioned once",
+          "silver hair"
+        ],
+        "role": "cottager"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Named 'aged cottager' with descriptive attributes (benevolent countenance, silver hair) and a recorded action ('won my reverence')—evidence supports a narrative character performing an action."
+    },
+    "Al Haines": {
+      "character_id": "al_haines",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "alias: Al Haines",
+          "created HTML version",
+          "mentioned once"
+        ],
+        "role": "HTML version author"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows a concrete action ('created HTML version') and a name; no other attributes provided."
+    },
+    "Albertus Magnus": {
+      "character_id": "albertus_magnus",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "associated with ancient fancies",
+          "called 'lord of my imagination'",
+          "no actions or scenes attributed in evidence",
+          "referenced as an older authority",
+          "writer whose works contain wild fancies"
+        ],
+        "role": "writer / older authority"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "All evidence frames him as a referenced author/authority with fanciful writings; no concrete actions in scenes are present."
+    },
+    "Alps": {
+      "character_id": "alps",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "action: 'towered above all'",
+          "described as 'mighty'",
+          "described as 'white and shining pyramids and domes'"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence shows the entity performs an action ('towered above all') and has physical descriptions; no human-specific traits or mythological attribution present, so treated as a narrative character with unknown personal attributes."
+    },
+    "Alps of Savoy": {
+      "character_id": "alps_of_savoy",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention labeled as 'Alps' with no actions or human attributes in evidence; appears to be a place/location only, so conservatively classified as unknown and not drawable."
+    },
+    "Ancient Mariner": {
+      "character_id": "ancient_mariner",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "appears in poem (poem title)",
+          "described as 'worn and woeful'",
+          "mentions: 2",
+          "no actions recorded"
+        ],
+        "role": "Ancient Mariner"
+      },
+      "drawable": false,
+      "kind": "narrative_character",
+      "reason": "Named narrative figure with descriptive tags but no recorded concrete actions; conservatively not drawable."
+    },
+    "Angel of Destruction": {
+      "character_id": "angel_of_destruction",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "asserted omnipotent sway over narrator",
+          "described as an evil influence",
+          "led narrator to M. Krempe"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence names the entity and records a concrete action ('led narrator to M. Krempe') and descriptions; no verified personal traits available."
+    },
+    "Angelica": {
+      "character_id": "angelica",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "beauty referenced"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned once and described for beauty only; no actions or scene activity present, so treated as referenced human."
+    },
+    "Arabian": {
+      "character_id": "arabian",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "buried with the dead",
+          "charming",
+          "conversed in broken accents",
+          "conversed with Felix by looks",
+          "conversed with Felix through the means of an interpreter",
+          "exhibited the simplest and tenderest affection towards Felix",
+          "found a passage to life",
+          "gave animated smiles",
+          "sat at the feet of the old man",
+          "took his guitar and played entrancing airs",
+          "understood very little",
+          "was aided by one glimmering and seemingly ineffectual light"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains multiple concrete actions and interactions (conversation, sitting, playing guitar, smiling), supporting classification as a narrative character and drawable."
+    },
+    "Ariosto": {
+      "character_id": "ariosto",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Gives a reason concerning Angelica's beauty",
+          "Referenced concerning Angelica's beauty",
+          "Single mention"
+        ],
+        "role": "author"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Evidence shows an author being referenced and providing a reason about Angelica; no concrete scene actions to treat as a narrative character."
+    },
+    "Arve": {
+      "character_id": "arve",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "actions: 'pursued its noisy way beneath', 'raging among the rocks'",
+          "described as impetuous and rushing",
+          "natural feature"
+        ],
+        "role": "river"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence names a river ('Arve') and shows it performing actions in scenes; classification as narrative_character is conservative given concrete actions."
+    },
+    "Arveiron": {
+      "character_id": "arveiron",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence only notes 'sources take their rise in a glacier' (suggests a geographic/natural feature); no actions or human/mythological attributes present—conservatively unknown."
+    },
+    "Asiatics": {
+      "character_id": "asiatics",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "aliases: Asiatics",
+          "described as: slothful",
+          "mentions: 1",
+          "no actions recorded"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned once with a descriptive attribute but no recorded actions; treated as a referenced human and not drawable."
+    },
+    "Austrian": {
+      "character_id": "austrian",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "aliases: Austrian",
+          "mentions: 1",
+          "Recorded action: restored part of Elizabeth's inheritance to her"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Explicit documented action (restored part of Elizabeth's inheritance) implies an acting narrative character but other identity details are not provided."
+    },
+    "Beaufort": {
+      "character_id": "beaufort",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "associated_with_coffin",
+          "concealed_himself",
+          "deceased (implied)",
+          "has_a_daughter",
+          "paid_debts",
+          "retreated_with_his_daughter_to_Lucerne"
+        ],
+        "role": "merchant"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete actions attributed to Beaufort (paid debts, retreated with daughter, concealed himself) and mentions a coffin and daughter."
+    },
+    "Belrive": {
+      "character_id": "belrive",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention described as 'promontory' with no recorded actions; evidence indicates a geographic feature, so conservatively classified as unknown."
+    },
+    "berg Literary Archive Foundation": {
+      "character_id": "berg_literary_archive_foundation",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence shows an organization name, aliases, and a legal ownership action; insufficient evidence to classify as a narrative character, human, mythological, or abstract—conservative classification as unknown."
+    },
+    "blackbird": {
+      "character_id": "blackbird",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "action recorded: uttered sweet and enticing notes",
+          "alias: blackbird",
+          "mentions: 1",
+          "no descriptive physical attributes provided"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence shows a concrete action (uttered sweet and enticing notes) so it functions as an acting narrative character; insufficient evidence for role/gender/age."
+    },
+    "brother": {
+      "character_id": "brother",
+      "confidence": "high",
+      "core_identity": {
+        "age": "youth",
+        "gender": null,
+        "notes": [
+          "canonical_name: brother",
+          "description: name given to the youth",
+          "mentions: 1",
+          "no recorded actions"
+        ],
+        "role": "brother"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Single mention described as a name for a youth with no recorded actions; classified as referenced_human and not drawable."
+    },
+    "Cæsar": {
+      "character_id": "cæsar",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "actions recorded: \"would have spared his country\" (conditional/hypothetical)",
+          "chunks: [33]",
+          "mentions: 1"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Only a single mention with a conditional action; no concrete performed actions or descriptive traits to classify reliably."
+    },
+    "Caroline": {
+      "character_id": "caroline",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "action: became his wife",
+          "appears in chunk 14",
+          "mentioned 1 time"
+        ],
+        "role": "wife"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence contains a concrete action ('became his wife'), so she functions as a narrative character in a scene; no other traits provided."
+    },
+    "Chamounix": {
+      "character_id": "chamounix",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence describes 'valley' and 'village' and contains no actions; no indication of a human or mythological/abstract entity—conservatively classified as unknown."
+    },
+    "Christy Phillips": {
+      "character_id": "christy_phillips",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "credited in descriptions",
+          "mentioned once",
+          "no recorded actions"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Single mention and credited but no actions recorded; conservatively classified as a referenced human and not drawable."
+    },
+    "Coleridge": {
+      "character_id": "coleridge",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "aliases: Coleridge",
+          "author of 'Ancient Mariner'",
+          "mentioned 2 times"
+        ],
+        "role": "author"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Evidence lists Coleridge as author of 'Ancient Mariner' with no actions recorded; thus a referenced human and not drawable."
+    },
+    "Copêt": {
+      "character_id": "copêt",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention labeled as 'village' and no actions recorded; insufficient evidence to treat as a character. Classified conservatively as unknown."
+    },
+    "Cornelius Agrippa": {
+      "character_id": "cornelius_agrippa",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "attempts to demonstrate a theory",
+          "described as author",
+          "lord of my imagination",
+          "object of firm belief by a youngster",
+          "relates wonderful facts"
+        ],
+        "role": "author"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence names Cornelius Agrippa and records actions (attempts to demonstrate a theory; relates wonderful facts) and labels him 'author' and imaginative object; no explicit gender or age."
+    },
+    "dæmon": {
+      "character_id": "dæmon",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "allotted a task to narrator; came to mark progress; claimed fulfilment of promise",
+          "followed narrator in travels",
+          "ghastly grin; countenance expressed malice and treachery",
+          "hid himself in caves; loitered in forests; took refuge in wide and desert heaths",
+          "made fiendish threats",
+          "murdered Clerval",
+          "pitied Frankenstein",
+          "pointed to the corpse",
+          "withdrew with a howl"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete scene actions (murder, following, threats, movements) so this is an acting narrative character; drawable true per rules."
+    },
+    "Daniel": {
+      "character_id": "daniel",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "action recorded: went to the town for an apothecary",
+          "mentioned once"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record includes a concrete action (went to the town for an apothecary) but provides no role, gender, or age information."
+    },
+    "Daniel Nugent": {
+      "character_id": "daniel_nugent",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as brother-in-law",
+          "described as one of the fishermen",
+          "said he saw a boat with a single man at a short distance from the shore",
+          "swore positively",
+          "was called as a witness"
+        ],
+        "role": "fisherman; witness"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence records concrete actions (spoke, swore, called as witness) and a descriptive role ('one of the fishermen'), supporting classification as a narrative character and drawable."
+    },
+    "Dante": {
+      "character_id": "dante",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Mentioned once; described as \"could not have conceived such a thing\""
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only a single mention with no recorded actions or concrete identity details; referenced but not depicted acting."
+    },
+    "David Meltzer": {
+      "character_id": "david_meltzer",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "credited",
+          "single_mention"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only one mention and credited; no described actions or scenes, so treated as a referenced human and not drawable."
+    },
+    "De Lacey": {
+      "character_id": "de_lacey",
+      "confidence": "high",
+      "core_identity": {
+        "age": "old",
+        "gender": "male",
+        "notes": [
+          "blind",
+          "blind and aged father",
+          "descended from a good family in France",
+          "experienced imprisonment/exile",
+          "lived in affluence then deprived of fortune",
+          "offered shelter/relief to a stranger",
+          "played guitar / musical",
+          "respected by his superiors"
+        ],
+        "role": "father, cottage owner"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains concrete actions and dialogue (addressed narrator, spoke, played instrument, offered relief, etc.), indicating an acting character in scenes."
+    },
+    "Destiny": {
+      "character_id": "destiny",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "decreed my utter and terrible destruction",
+          "had immutable laws",
+          "too potent"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "abstract",
+      "reason": "Described as a conceptual force with 'immutable laws' and 'too potent'; action ('decreed...destruction') is personification of an abstract force, not evidence of a concrete narrative character."
+    },
+    "Elizabeth": {
+      "character_id": "elizabeth",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "close relative and romantic partner of narrator",
+          "described as affectionate, beloved, kind, and gentle",
+          "performs concrete actions in scenes (speaks, enters rooms, comforts, addresses court)",
+          "portrayed as suffering severe illness and described as dead/corpse"
+        ],
+        "role": "cousin; wife (to narrator)"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence lists many concrete actions and scene presence and familial/romantic relationship; therefore a narrative character and drawable."
+    },
+    "Elizabeth Lavenza": {
+      "character_id": "elizabeth_lavenza",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "beautiful and adored companion",
+          "daughter of a Milanese nobleman",
+          "inmate of narrator's parents' house",
+          "located in Geneva",
+          "mother was German and died in childbirth",
+          "placed with foster parents to nurse",
+          "signed letter 'Elizabeth Lavenza'"
+        ],
+        "role": "companion; cousin; playmate"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Named character with multiple concrete actions (presented to narrator, played with narrator, wrote letters) and descriptive/familial details in the record."
+    },
+    "Ernest": {
+      "character_id": "ernest",
+      "confidence": "high",
+      "core_identity": {
+        "age": "16",
+        "gender": "male",
+        "notes": [
+          "desirous to be a true Swiss",
+          "full of activity and spirit",
+          "looks upon study as an odious fetter",
+          "spends time in the open air",
+          "wept"
+        ],
+        "role": "brother"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Multiple concrete actions listed (entered, climbed hills, hastened to welcome, related circumstances, sought for him, etc.) and descriptions identify him as a brother aged sixteen."
+    },
+    "Eve": {
+      "character_id": "eve",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention; no descriptive attributes; only negated actions ('did not share my thoughts', 'did not soothe my sorrows')—insufficient evidence to classify or mark drawable."
+    },
+    "fair creature": {
+      "character_id": "fair_creature",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "actions: commit crimes, inhabit caves and dens, knelt at his feet, left her work, traverse the sea of ice",
+          "can traverse the sea of ice",
+          "committed crimes (some months earlier)",
+          "described as fair",
+          "has powers that defy exertions",
+          "inhabits caves and dens"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete actions in scenes (committed crimes, inhabited caves/dens, knelt, left work, traversed sea of ice); no reliable explicit role, gender, or age."
+    },
+    "Falkland": {
+      "character_id": "falkland",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "amiable"
+        ],
+        "role": "companion of Charles I."
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Described as 'amiable' and 'companion of Charles I.' Mentions=1 and no recorded actions, so treated as a referenced human and not drawable."
+    },
+    "Felix": {
+      "character_id": "felix",
+      "confidence": "high",
+      "core_identity": {
+        "age": "youth",
+        "gender": "male",
+        "notes": [
+          "child of De Lacey",
+          "experienced poverty and ruin",
+          "instructor of Safie",
+          "performs concrete actions (teaching, travelling, gardening, aiding fugitives)"
+        ],
+        "role": "son; instructor of Safie"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence shows many concrete actions and scene interactions (teaching, conducting fugitives, working, entering cottages), so Felix is an acting narrative character."
+    },
+    "fishermen": {
+      "character_id": "fishermen",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "action: called to one another",
+          "mentioned 1 time",
+          "no descriptive attributes provided"
+        ],
+        "role": "fishermen"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "They perform a concrete action ('called to one another'), supporting narrative_character and drawable; other traits not present in evidence."
+    },
+    "Frankenstein": {
+      "character_id": "frankenstein",
+      "confidence": "medium",
+      "core_identity": {
+        "age": "young adult",
+        "gender": "male",
+        "notes": [
+          "a young man",
+          "affectionate and afflicted father",
+          "creator",
+          "described as lying white and cold in death",
+          "desponding and sorrowful",
+          "native of Geneva",
+          "referred to as 'papa'"
+        ],
+        "role": "creator"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains numerous concrete actions (e.g., addressed the men, followed him across the ice, called me into being) and descriptors including 'creator' and 'a young man', supporting classification as an acted narrative character and thus drawable."
+    },
+    "Geneva": {
+      "character_id": "geneva",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as town"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention described as a town and no recorded actions; insufficient evidence to classify as a narrative character or human."
+    },
+    "God": {
+      "character_id": "god",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as Creator",
+          "described as omnipotent",
+          "knows the speaker's innocence",
+          "made man beautiful and alluring",
+          "raises weakness and gives courage",
+          "warring with his creatures"
+        ],
+        "role": "Creator"
+      },
+      "drawable": false,
+      "kind": "mythological",
+      "reason": "Described as 'Creator' and 'omnipotent' with cosmic/legendary actions; fits mythological classification."
+    },
+    "Goring": {
+      "character_id": "goring",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "companion of Charles I.",
+          "insolent"
+        ],
+        "role": "companion of Charles I."
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned but no actions recorded; referenced human rather than an active narrative character, so not drawable."
+    },
+    "Grecians": {
+      "character_id": "grecians",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as \"stupendous genius and mental activity\"",
+          "mentioned once",
+          "no recorded actions"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned once with descriptive trait and no recorded actions; conservatively classified as referenced humans."
+    },
+    "Greeks": {
+      "character_id": "greeks",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "mentions:1",
+          "performed actions: \"hailed with rapture the boundary of their toils\"",
+          "performed actions: \"wept for joy when they beheld the Mediterranean\"",
+          "plural group"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows the group performing concrete actions and emotional responses in scenes, so classified as a narrative character."
+    },
+    "guiding spirit": {
+      "character_id": "guiding_spirit",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "One mention with a single action phrase; name implies a spirit but evidence lacks context to classify as human, mythological, or abstract—conservatively marked unknown."
+    },
+    "Hampden": {
+      "character_id": "hampden",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "fell on the field",
+          "illustrious",
+          "patriot"
+        ],
+        "role": "patriot"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Described as 'illustrious' and 'patriot' and recorded performing the action 'fell on the field', indicating a character acting in scenes."
+    },
+    "Heaven": {
+      "character_id": "heaven",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "actions: bestowed the child on them",
+          "actions: bless you and make you so",
+          "chunks: [15,159]",
+          "mentions: 2"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Name and blessing actions could indicate a personified/religious entity, but evidence is limited and ambiguous; conservatively classified as unknown."
+    },
+    "Henry": {
+      "character_id": "henry",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "associated with a coffin in descriptions",
+          "author of many letters / correspondent",
+          "performed concrete actions: nursed, removed apparatus, changed apartment, visited lakes, provided attentions",
+          "referred to as friend and 'my only nurse'"
+        ],
+        "role": "friend and nurse"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains repeated concrete, scene-level actions and interpersonal roles (nursing, visiting, speaking, removing apparatus), supporting classification as an on-scene narrative character and thus drawable."
+    },
+    "Henry Clerval": {
+      "character_id": "henry_clerval",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "male",
+        "notes": [
+          "described as amiable, gentle, humane",
+          "fellow-pupil and close companion of the narrator",
+          "reported dead/murdered in the narrative",
+          "son of a merchant of Geneva",
+          "studies oriental languages (Persian, Arabic, Sanskrit)"
+        ],
+        "role": "friend and companion"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows numerous concrete actions and scene presence (companionship, study, travel, gestures, reading letters) and explicit mentions of death/murder, so classified as a narrative character and drawable."
+    },
+    "his companion": {
+      "character_id": "his_companion",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Action recorded: 'often went apart and appeared to weep'",
+          "Described as 'companion'"
+        ],
+        "role": "companion"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record names a companion and documents concrete action (weeping), indicating a narrative character; no gender or age specified."
+    },
+    "Homer": {
+      "character_id": "homer",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Only two mentions and descriptions of a 'name consecrated in a temple'; no actions, roles, gender, or age provided — conservatively unknown."
+    },
+    "I": {
+      "character_id": "i",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "alias 'Charles I.'",
+          "collected bones from charnel-houses",
+          "eyeballs starting from their sockets",
+          "kept workshop in solitary chamber",
+          "limbs tremble",
+          "tortured the living animal",
+          "unfortunate king"
+        ],
+        "role": "king"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Provided evidence shows explicit actions and concrete scene activity (e.g., collected bones, tortured the living animal) and a descriptive label 'unfortunate king'; classified conservatively on given data."
+    },
+    "Internal Revenue Service": {
+      "character_id": "internal_revenue_service",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "alias: Internal Revenue Service",
+          "mentions: 1",
+          "no physical description provided",
+          "performed action: granted tax exempt status"
+        ],
+        "role": "Internal Revenue Service"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence records the entity 'Internal Revenue Service' and a concrete action ('granted tax exempt status'), indicating it acted in the narrative."
+    },
+    "John Melbourne": {
+      "character_id": "john_melbourne",
+      "confidence": "medium",
+      "core_identity": {
+        "age": "young",
+        "gender": "male",
+        "notes": [
+          "described as \"a young Englishman\"",
+          "mentioned once in evidence",
+          "no recorded actions"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only mentioned once and described; no actions in evidence, so treated as a referenced human and not drawable."
+    },
+    "Judith Boss": {
+      "character_id": "judith_boss",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "credited in descriptions",
+          "mentioned once"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only a single mention and credited description; no actions or scene activity recorded, so treated as a referenced human and not drawable."
+    },
+    "Jura": {
+      "character_id": "jura",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "aliases: [\"Jura\"]",
+          "description: \"black sides\"",
+          "mentioned once",
+          "no recorded actions"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Single mention with a brief descriptive fragment and no recorded actions; fits 'referenced_human' (mentioned but not acting), so not drawable."
+    },
+    "Justine": {
+      "character_id": "justine",
+      "confidence": "high",
+      "core_identity": {
+        "age": "girl",
+        "gender": "female",
+        "notes": [
+          "condemned, tried, and executed",
+          "confessed a lie under alleged menace; hands manacled",
+          "described as innocent/guiltless",
+          "nursed Madame Frankenstein; attended her mother; embraced Elizabeth; entered court",
+          "referred to as a daughter and playfellow"
+        ],
+        "role": "accused of murder"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains multiple concrete actions and scenes (trial, execution, court appearance, caregiving, interactions), indicating an active narrative character."
+    },
+    "Justine Moritz": {
+      "character_id": "justine_moritz",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "attended family members during illness",
+          "described as innocent and accused",
+          "learned the duties of a servant",
+          "nursed a child from its birth",
+          "third child / referred to as a girl",
+          "was believed guilty; suffered a miserable death"
+        ],
+        "role": "servant"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete actions (entered family, learned servant duties, nursed a child, attended during illness), so treated as a narrative character and drawable."
+    },
+    "King Arthur": {
+      "character_id": "king_arthur",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "associated with the Round Table",
+          "no recorded actions",
+          "single mention"
+        ],
+        "role": "king"
+      },
+      "drawable": false,
+      "kind": "mythological",
+      "reason": "Name and association with the Round Table indicate a legendary/mythological figure; no actions present so not drawable."
+    },
+    "Louis Manoir": {
+      "character_id": "louis_manoir",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "has recovered his spirits",
+          "has suffered several misfortunes since the departure of Clerval from Geneva",
+          "reported to be on the point of marrying Madame Tavernier",
+          "your favourite schoolfellow"
+        ],
+        "role": "schoolfellow"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only descriptive mentions provided; no recorded actions in scenes, so treated as referenced human and not drawable."
+    },
+    "Louisa Biron": {
+      "character_id": "louisa_biron",
+      "confidence": "high",
+      "core_identity": {
+        "age": "five",
+        "gender": "female",
+        "notes": [
+          "described as 'a pretty little girl of five years of age'",
+          "described as 'his favourite'"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only descriptive mentions present; no actions recorded, so treated as referenced human and not drawable."
+    },
+    "Lycurgus": {
+      "character_id": "lycurgus",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Only a single mention described as 'peaceable lawgiver' with no recorded actions; insufficient evidence to assign role/age/gender or narrative status."
+    },
+    "Lynn Hanninen": {
+      "character_id": "lynn_hanninen",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as credited",
+          "mentioned once",
+          "no actions recorded"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Evidence shows a single mention and a credited description with no actions; conservatively classified as a referenced human not depicted acting."
+    },
+    "M. Duvillard": {
+      "character_id": "m_duvillard",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "appears only once in mentions",
+          "described as 'the rich banker'",
+          "no recorded actions in evidence"
+        ],
+        "role": "banker"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only a single mention described as 'the rich banker' with no actions; thus treated as a referenced human and not drawable."
+    },
+    "M. Krempe": {
+      "character_id": "m_krempe",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "an uncouth man",
+          "asked questions concerning narrator's progress",
+          "deeply imbued in the secrets of his science",
+          "dismissed the narrator",
+          "exhibited contempt",
+          "gruff voice",
+          "little squat man",
+          "repulsive countenance",
+          "repulsive physiognomy and manners",
+          "sound sense",
+          "wrote down a list of several books"
+        ],
+        "role": "professor of natural philosophy"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Descriptions identify a professorial figure and the actions list shows concrete scene activity (questions, dismissal, writing a book list), so he is a narrative character and drawable."
+    },
+    "M. Moritz": {
+      "character_id": "m_moritz",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "deceased",
+          "father of Justine",
+          "favoured Justine"
+        ],
+        "role": "father"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record lists him as deceased and father of Justine and includes the action 'favoured Justine', indicating an acting narrative character; thus drawable under rules."
+    },
+    "M. Waldman": {
+      "character_id": "m_waldman",
+      "confidence": "high",
+      "core_identity": {
+        "age": "about fifty",
+        "gender": null,
+        "notes": [
+          "affable and kind in his house",
+          "aspect expressive of the greatest benevolence",
+          "dignified mien during lecture",
+          "few grey hairs on temples; hairs at back nearly black",
+          "performed concrete actions: lectured, entered lecturing room, took narrator into laboratory, gave instructions and promised use of machines",
+          "person short but remarkably erect",
+          "voice described as the sweetest"
+        ],
+        "role": "chemist; lecturer/instructor; fellow professor"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains multiple concrete actions (lecturing, entering, instructing, taking narrator into laboratory) and role descriptors (chemist, lecturer), supporting classification as a narrative character and drawable."
+    },
+    "Madame Moritz": {
+      "character_id": "madame_moritz",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "accused Justine of causing siblings' deaths",
+          "died on the first approach of cold weather",
+          "mother of four children",
+          "mother of Justine Moritz",
+          "Roman Catholic",
+          "sometimes begged Justine to forgive her unkindness",
+          "treated Justine very ill",
+          "very vacillating in her repentance",
+          "widow"
+        ],
+        "role": "mother; widow"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains concrete actions (accused, begged, treated ill, died) showing she appears and acts in scenes; descriptions provide familial and religious roles. Classification based only on provided evidence."
+    },
+    "Madame Tavernier": {
+      "character_id": "madame_tavernier",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "a favourite with everybody",
+          "a lively pretty Frenchwoman",
+          "a widow",
+          "much older than Manoir",
+          "very much admired"
+        ],
+        "role": "widow"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned and described but no actions recorded; therefore a referenced human and not drawable."
+    },
+    "magistrate": {
+      "character_id": "magistrate",
+      "confidence": "high",
+      "core_identity": {
+        "age": "elderly",
+        "gender": "male",
+        "notes": [
+          "appeared perfectly incredulous (at first)",
+          "asked who appeared as witnesses",
+          "calm and mild manners",
+          "heard the narrator's story",
+          "intimidated",
+          "looked upon narrator with some degree of severity",
+          "more attentive and interested",
+          "observed the narrator with a keen eye",
+          "old benevolent man",
+          "selected a witness",
+          "shudder with horror"
+        ],
+        "role": "magistrate"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete scene actions (answered, asked, heard story, selected witness, observed), so classify as a narrative character and drawable."
+    },
+    "Manon": {
+      "character_id": "manon",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "aliases: [\"Manon\"]",
+          "described as 'her ugly sister'",
+          "married M. Duvillard last autumn",
+          "mentions: 1"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Explicit action ('married M. Duvillard last autumn') indicates a character acting in a scene; description text implies female. Limited other details, so role and age left unknown."
+    },
+    "Margaret": {
+      "character_id": "margaret",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "actions: read this strange and terrific story",
+          "actions: will anxiously await his return",
+          "actions: will be tortured by hope",
+          "actions: will have visitings of despair",
+          "addressed as 'dear'/'dear sister'",
+          "has a husband",
+          "has lovely children",
+          "recipient of letters"
+        ],
+        "role": "sister; recipient of letters"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "She is directly addressed as a sister and recipient of letters and is attributed concrete actions/emotional behaviors in the text, so classified as a narrative character and drawable."
+    },
+    "Mary Wollstonecraft (Godwin) Shelley": {
+      "character_id": "mary_wollstonecraft_godwin_shelley",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Alias: Mary Wollstonecraft (Godwin) Shelley",
+          "Mentions: 1",
+          "No actions recorded in evidence"
+        ],
+        "role": "Author"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Described as an author and only mentioned once with no actions; conservatively classified as referenced_human and not drawable."
+    },
+    "Menno de Leeuw": {
+      "character_id": "menno_de_leeuw",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "credited for further corrections",
+          "made further corrections",
+          "mentions:1"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence includes 'made further corrections' and a credit, indicating action in the narrative but no role/gender/age details provided."
+    },
+    "Miss Mansfield": {
+      "character_id": "miss_mansfield",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "approaching marriage with John Melbourne",
+          "pretty"
+        ],
+        "role": "bride-to-be"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Described as 'approaching marriage with John Melbourne' and 'pretty'; no actions recorded, so treated as a referenced human and not drawable."
+    },
+    "Mississippi": {
+      "character_id": "mississippi",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Referenced only as a legal jurisdiction (state whose laws the corporation is organized under); no actions or human traits present, so conservatively classified as unknown."
+    },
+    "Môle": {
+      "character_id": "môle",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Described only as a geographic feature ('peaked mountain east of the lake'); no actions or human/mythological markers."
+    },
+    "monster": {
+      "character_id": "monster",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "actions: cried, executed his threat, gnashed his teeth",
+          "referred to as 'monster'",
+          "uses pronoun 'his'"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains concrete actions and a male pronoun, indicating an acting narrative character; no clear role or age."
+    },
+    "Mont Blanc": {
+      "character_id": "mont_blanc",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence depicts a geographic feature (bright summit, tremendous dome) with scene verbs (overlooked the valley, rose) but gives no human role, gender, or age; conservatively classified as unknown and not drawable."
+    },
+    "Montanvert": {
+      "character_id": "montanvert",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence describes a geographic feature (mountain/place: summit, bare perpendicular rock, distance) and only positional phrasing; no human/character attributes or concrete actions, so conservatively classified as unknown."
+    },
+    "Mr. Kirwin": {
+      "character_id": "mr_kirwin",
+      "confidence": "medium",
+      "core_identity": {
+        "age": "old",
+        "gender": null,
+        "notes": [
+          "addressed and visited narrator; entered apartment and examined papers",
+          "charged himself with arranging defence and collecting witnesses",
+          "prepared best room; provided physician and nurse",
+          "spoke French and understood narrator; showed kindness and compassion"
+        ],
+        "role": "magistrate"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Named magistrate performing multiple concrete actions in scenes (visiting, arranging room/defense, providing care)."
+    },
+    "Mrs. Saville": {
+      "character_id": "mrs_saville",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "described as addressee (2 mentions)",
+          "described as in England (2 mentions)",
+          "described as recipient of letter (1 mention)",
+          "no recorded actions in evidence",
+          "referred to as 'Mrs. Saville'"
+        ],
+        "role": "addressee/recipient of letter"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only mentioned as addressee/recipient with no recorded actions; treated as a referenced human and not drawable."
+    },
+    "Muhammad": {
+      "character_id": "muhammad",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Only a single mention; no descriptions or actions provided in the evidence."
+    },
+    "my creator": {
+      "character_id": "my_creator",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Could precipitate me into an ice-rift and destroy my frame",
+          "Mentions: 1",
+          "Would tear me to pieces"
+        ],
+        "role": "my creator"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record attributes agent-like actions (threatening to precipitate into an ice-rift and tear to pieces); sufficient evidence of acting in scenes to mark as narrative_character and drawable."
+    },
+    "my destroyer": {
+      "character_id": "my_destroyer",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "accused by the narrator",
+          "mentions:1",
+          "no recorded actions",
+          "object of narrator's resolution to pursue to death"
+        ],
+        "role": "accused"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned and accused by narrator but no recorded actions; categorized as referenced_human and not drawable."
+    },
+    "my enemy": {
+      "character_id": "my_enemy",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "aliases: my enemy",
+          "mentioned once",
+          "no recorded actions",
+          "referred to as the narrator's enemy"
+        ],
+        "role": "narrator's enemy"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Evidence only shows a single mention describing them as the narrator's enemy with no actions, so they are referenced but not depicted acting."
+    },
+    "my father": {
+      "character_id": "my_father",
+      "confidence": "high",
+      "core_identity": {
+        "age": "old",
+        "gender": "male",
+        "notes": [
+          "bestowed pleasure",
+          "cheerful accent",
+          "concerned about correspondence",
+          "endeavoured to encourage his children",
+          "expressed admonition about interrupted correspondence",
+          "expression of goodness",
+          "inquired into occupations",
+          "made no reproach in letters",
+          "took notice of silence"
+        ],
+        "role": "father"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains role descriptors (father, old man) and multiple concrete actions (bestowed pleasure, encouraged children, inquired, noticed silence), so treated as a narrative character and drawable."
+    },
+    "Nature": {
+      "character_id": "nature",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "abstract",
+      "reason": "Canonical name is 'Nature' with descriptive adjectives and one personified utterance, indicating personification of a concept rather than a concrete narrative character; fits abstract category."
+    },
+    "Numa": {
+      "character_id": "numa",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as \"peaceable lawgiver\"",
+          "no actions recorded",
+          "single mention"
+        ],
+        "role": "peaceable lawgiver"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Role descriptor present but no concrete actions; treated as referenced human, not drawable."
+    },
+    "old man": {
+      "character_id": "old_man",
+      "confidence": "high",
+      "core_identity": {
+        "age": "old",
+        "gender": "male",
+        "notes": [
+          "benevolent countenance",
+          "disconsolate attitude",
+          "performs concrete actions (walked, sat, smiled, ate)",
+          "silver hair",
+          "takes up and plays an instrument"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record lists multiple concrete actions (played, walked, sat, smiled, ate), indicating an acting narrative character; descriptions indicate old male with silver hair."
+    },
+    "Omnipotence": {
+      "character_id": "omnipotence",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "abstract",
+      "reason": "Single mention named 'Omnipotence' with descriptor 'mighty' and no recorded actions; aligns with an abstract concept rather than a person or actor."
+    },
+    "Pandæmonium": {
+      "character_id": "pandæmonium",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "mythological",
+      "reason": "Described with religious/hell imagery (dæmons, lake of fire) indicating a legendary/mythological entity; no concrete personal traits beyond appearing."
+    },
+    "Paracelsus": {
+      "character_id": "paracelsus",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "associated with ancient fancies",
+          "lord of my imagination",
+          "referenced as an older authority",
+          "writer whose works contain wild fancies"
+        ],
+        "role": "writer"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Evidence shows Paracelsus is mentioned as an older authority/writer with descriptive phrases and no recorded actions; thus classified as a referenced human and not drawable."
+    },
+    "peasants": {
+      "character_id": "peasants",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "dwelt in a cottage not far from mine",
+          "mentioned once",
+          "no recorded actions"
+        ],
+        "role": "peasants"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only a single mention indicating residence ('dwelt in a cottage not far from mine') with no recorded actions, so treated as a referenced human and not drawable."
+    },
+    "Pélissier": {
+      "character_id": "pélissier",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "description tag: bridge",
+          "mentioned once",
+          "no recorded actions"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Single mention with descriptive tag 'bridge' and no actions; treated as a referenced human."
+    },
+    "person": {
+      "character_id": "person",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "performed action: 'landed close to my house'",
+          "single mention"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence shows a concrete action ('landed close to my house') indicating an active narrative character, but no information about role, gender, or age."
+    },
+    "PGLAF": {
+      "character_id": "pglaf",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "named in parentheses as PGLAF",
+          "owns a compilation copyright in the collection of Project Gutenberg™ electronic works"
+        ],
+        "role": "copyright holder"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Referenced entity identified as owning a compilation copyright; no evidence of narrative scene actions."
+    },
+    "Plainpalais": {
+      "character_id": "plainpalais",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Only one mention; no descriptions or actions provided, so role/gender/age cannot be determined."
+    },
+    "Plutarch": {
+      "character_id": "plutarch",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "author of Plutarch’s Lives",
+          "chunks: [91]",
+          "mentions:1",
+          "taught high thoughts"
+        ],
+        "role": "author"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Described as 'author of Plutarch’s Lives' and recorded performing an action ('taught high thoughts'); single mention so classified conservatively as a narrative character and drawable."
+    },
+    "poor wretch": {
+      "character_id": "poor_wretch",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Actions present: approached narrator; felt mixture of pain and pleasure; shut the door; spoke in a smothered voice; withdrew from the window",
+          "Aliases: \"poor wretch\", \"wretch\"",
+          "Described: \"had never beheld aught beautiful before\"; \"whom I dreaded\""
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete scene actions attributable to the entity, supporting classification as a narrative character; no reliable evidence for role, gender, or age."
+    },
+    "Professor Krempe": {
+      "character_id": "professor_krempe",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Described as 'Professor'",
+          "Mentions: 1",
+          "Performed action: asked narrator how Cornelius Agrippa went on"
+        ],
+        "role": "Professor"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Character is described as a professor and performs an explicit action (asked the narrator), indicating presence in a scene; no evidence for gender or age."
+    },
+    "Professor Michael S. Hart": {
+      "character_id": "professor_michael_s_hart",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared",
+          "Produced and distributed Project Gutenberg™ eBooks for forty years with only a loose network of volunteer support"
+        ],
+        "role": "Originator of the Project Gutenberg concept; produced and distributed Project Gutenberg eBooks"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record explicitly attributes concrete actions (originator; produced and distributed eBooks), supporting a narrative character who acts in scenes."
+    },
+    "Project Gutenberg": {
+      "character_id": "project_gutenberg",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "depends upon and cannot survive without widespread public support and donations",
+          "electronic work / electronic works",
+          "exists because of the efforts of hundreds of volunteers and donations",
+          "has a mission of promoting free access to electronic works",
+          "is synonymous with the free distribution of electronic works",
+          "may only be used on or associated with an electronic work by people who agree to be bound by the terms",
+          "registered trademark"
+        ],
+        "role": "promotes free access to electronic works (organization/trademark)"
+      },
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence describes an organization/trademark and its mission/usage; no human attributes or concrete scene actions present; conservative classification as unknown."
+    },
+    "Project Gutenberg License": {
+      "character_id": "project_gutenberg_license",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "abstract",
+      "reason": "Legal/document license referenced; descriptions indicate inclusion with eBook, no personhood or actions."
+    },
+    "Project Gutenberg Literary Archive Foundation": {
+      "character_id": "project_gutenberg_literary_archive_foundation",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "accepts donations by checks, online payments and credit card donations",
+          "business office located at 809 North 1500 West, Salt Lake City, UT 84116",
+          "committed to complying with laws regulating charities and charitable donations in all 50 states",
+          "EIN 64-6221541",
+          "organized under the laws of the state of Mississippi",
+          "owns a compilation copyright in the collection of Project Gutenberg electronic works"
+        ],
+        "role": "non-profit 501(c)(3) educational corporation; manager/owner of the Project Gutenberg trademark"
+      },
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Provided evidence describes an organization (foundation) with administrative/legal attributes; no evidence of a human character or mythological/abstract entity—conservatively classified as unknown."
+    },
+    "Project Gutenberg volunteers and employees": {
+      "character_id": "project_gutenberg_volunteers_and_employees",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Collective/group entity rather than a single named individual",
+          "Performs concrete actions: do copyright research, identify works, proofread works, transcribe works"
+        ],
+        "role": "Project Gutenberg volunteers and employees"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "The record attributes concrete actions to the group, so they function as narrative characters; drawable since actions are present."
+    },
+    "R. Walton": {
+      "character_id": "r_walton",
+      "confidence": "high",
+      "core_identity": {
+        "age": "twenty-eight",
+        "gender": null,
+        "notes": [
+          "affectionate brother",
+          "impatient of difficulties",
+          "seeks knowledge and wisdom",
+          "self-educated",
+          "somewhat fastidious",
+          "tutored and refined by books and retirement from the world"
+        ],
+        "role": "captain"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete actions (hired a vessel, collected/engaged sailors, took narrator on board, northward voyage) consistent with an acting narrative character."
+    },
+    "R.W.": {
+      "character_id": "r_w",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Mentioned once; no descriptions or actions in evidence"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Single mention with no descriptive attributes or actions; classified as referenced_human and not drawable."
+    },
+    "Robert Walton": {
+      "character_id": "robert_walton",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "affectionate brother",
+          "in good spirits",
+          "mentions:1",
+          "tracing a secure way over the pathless seas",
+          "well advanced on his voyage",
+          "will not rashly encounter danger",
+          "wrote a few lines in haste"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence shows concrete actions and decisions (tracing a secure way over the pathless seas; will not rashly encounter danger; wrote a few lines), so classified as narrative_character and drawable per rules. No unprovided traits inferred."
+    },
+    "Romans": {
+      "character_id": "romans",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "descriptions: early",
+          "descriptions: subsequent degenerating",
+          "descriptions: wonderful virtue",
+          "mentions: 1"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Entity mentioned with descriptive labels but no recorded actions; conservatively treated as referenced_human and not drawable."
+    },
+    "Romulus": {
+      "character_id": "romulus",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention with no descriptions or actions in the provided evidence; conservatively classified as unknown and not drawable."
+    },
+    "Safie": {
+      "character_id": "safie",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "female",
+        "notes": [
+          "Arabian",
+          "arrived from Constantinople",
+          "daughter of a Turkish merchant",
+          "learned about twenty words / improved rapidly in the knowledge of language",
+          "nursed her attendant",
+          "sang the divine airs of her native country",
+          "unacquainted with the language of the country",
+          "young girl"
+        ],
+        "role": "daughter, lover"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains multiple concrete actions (arrived, entered cottage, held out hand, knelt, learned language, sang, nursed), indicating an active narrative character."
+    },
+    "Salêve": {
+      "character_id": "salêve",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention with no descriptions or actions; insufficient evidence to assign a category or traits."
+    },
+    "Salt Lake City": {
+      "character_id": "salt_lake_city",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence identifies a place ('location of the Foundation’s business office') with no actions or personal attributes; conservatively classified as unknown."
+    },
+    "Satan": {
+      "character_id": "satan",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as having companions: fellow devils"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "mythological",
+      "reason": "Canonical name 'Satan' and description referencing 'fellow devils' indicate a religious/mythological figure; no actions shown and mythological figures are not drawable under the rules."
+    },
+    "Secheron": {
+      "character_id": "secheron",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention; described as 'village half a league from the city'; no actions or human attributes in evidence."
+    },
+    "Servox": {
+      "character_id": "servox",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Only one mention; described with terms 'beautiful and picturesque' and 'valley'; no actions or human attributes present. Insufficient evidence to classify as a narrative character."
+    },
+    "Shakespeare": {
+      "character_id": "shakespeare",
+      "confidence": "low",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "descriptions: \"name consecrated in a temple\"",
+          "mentions: 2"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only mentioned and described; no actions or scene activity in evidence."
+    },
+    "Sir Isaac Newton": {
+      "character_id": "sir_isaac_newton",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence only shows two mentions and a quoted avowal ('felt like a child picking up shells'); no concrete scene actions, role, gender, or age provided — conservatively unknown."
+    },
+    "sister": {
+      "character_id": "sister",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "Described as a girl (name given to the girl)",
+          "Mentioned once",
+          "No actions recorded"
+        ],
+        "role": "sister"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Single mention; described as a girl; no concrete actions — treated as a referenced human and not drawable."
+    },
+    "Solon": {
+      "character_id": "solon",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as 'peaceable lawgiver'",
+          "no actions recorded",
+          "single mention"
+        ],
+        "role": "lawgiver"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Described as a 'peaceable lawgiver' but has only one mention and no recorded actions, so treated as a referenced human rather than an active narrative character."
+    },
+    "some one": {
+      "character_id": "some_one",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "alias: some one",
+          "mentions:1",
+          "performed action: endeavoured to open the door softly"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence contains a concrete action ('endeavoured to open the door softly'), indicating an acting narrative character, but no identity details are provided."
+    },
+    "son": {
+      "character_id": "son",
+      "confidence": "medium",
+      "core_identity": {
+        "age": "youth",
+        "gender": null,
+        "notes": [
+          "description: name given to the youth",
+          "mentioned once",
+          "no recorded actions"
+        ],
+        "role": "son"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only one mention ('name given to the youth') and no recorded actions; treated as a referenced human, not drawable."
+    },
+    "sparrow": {
+      "character_id": "sparrow",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Mentioned once (mentions:1, chunks:[71])",
+          "Performed action: 'uttered harsh notes' (1)"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence shows a concrete action ('uttered harsh notes'), so treated as a narrative character; other attributes unknown."
+    },
+    "spirits of the dead": {
+      "character_id": "spirits_of_the_dead",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "Actions recorded: 'hovered round', 'instigated the narrator to toil and revenge'",
+          "Collective entity referred to as 'spirits'"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "mythological",
+      "reason": "Referred to as 'spirits' and shown performing supernatural actions; no concrete physical traits or human-specific attributes provided, fitting mythological/symbolic classification."
+    },
+    "Switzerland": {
+      "character_id": "switzerland",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Record labels the entity as a country (descriptions.country=1), only one mention, and no actions; not shown acting as a narrative character or identified as a human or mythological figure."
+    },
+    "the being": {
+      "character_id": "the_being",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as 'deformed and horrible'",
+          "performed actions: 'finished speaking', 'fixed his looks upon me'",
+          "referred to as 'whom the narrator accuses'"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence shows concrete actions (speaking, fixing gaze) and descriptive labels, indicating an active narrative character."
+    },
+    "the cottagers": {
+      "character_id": "the_cottagers",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "had a means of prolonging light by the use of tapers"
+        ],
+        "role": null
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned once with a descriptive attribute but no recorded actions; treated as referenced_human and not drawable."
+    },
+    "the family": {
+      "character_id": "the_family",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "action recorded: 'extinguished their lights and retired'",
+          "mentions: 1",
+          "plural group"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows a plural entity performing a concrete action in-scene, so classified as a narrative character."
+    },
+    "the fiend": {
+      "character_id": "the_fiend",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "actions include: arrived the night before; seized a numerous drove of trained dogs; harnessed the dogs; carried off their store of winter food; put to flight inhabitants of a solitary cottage; threatened 'I will be with you on your wedding-night!'",
+          "armed with a gun and many pistols",
+          "described as 'fiend' and 'fiendish rage'",
+          "described as 'gigantic monster' and having a 'terrific appearance'",
+          "face 'wrinkled into horrible contortions'"
+        ],
+        "role": "fiend / antagonist"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Multiple concrete actions and scene activity are recorded in the evidence, and descriptions label the figure a 'fiend' and monstrous, supporting classification as an acting narrative character."
+    },
+    "the Foundation": {
+      "character_id": "the_foundation",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "alias 'the Foundation'",
+          "business office at 809 North 1500 West, Salt Lake City, UT 84116",
+          "makes no representations concerning the copyright status of works outside the United States",
+          "named as a party to be indemnified",
+          "owns a compilation copyright in the collection of Project Gutenberg™ electronic works"
+        ],
+        "role": "organization"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence names an organization ('the Foundation') and records concrete actions (owns copyrights; issues legal statement), so classified as a narrative character that acts."
+    },
+    "the girl": {
+      "character_id": "the_girl",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": "female",
+        "notes": [
+          "engaged in various laborious occupations",
+          "mentioned once",
+          "no physical appearance described"
+        ],
+        "role": "laborer"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Named character with recorded actions (engaged in laborious occupations) — qualifies as a narrative character and is drawable; other traits kept conservative."
+    },
+    "the moon": {
+      "character_id": "the_moon",
+      "confidence": "medium",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence shows personified actions (gazed, moved, enlightened) but does not confirm if this is a narrative character, mythological figure, or symbolic/metaphorical entity; conservative classification is unknown."
+    },
+    "the murderer": {
+      "character_id": "the_murderer",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "committed murder",
+          "mentions: 1",
+          "referred to as murderer"
+        ],
+        "role": "murderer"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record labels entity as 'murderer' and includes the concrete action 'commit murder'; no information on gender or age."
+    },
+    "the old man": {
+      "character_id": "the_old_man",
+      "confidence": "high",
+      "core_identity": {
+        "age": "old",
+        "gender": "male",
+        "notes": [
+          "blind",
+          "countenance beaming with benevolence and love",
+          "employed his leisure hours on his instrument",
+          "leaned on the arm of the youth",
+          "produced divine sounds",
+          "returned to the cottage",
+          "rewarded them by benevolent smiles",
+          "venerable companion",
+          "with silver hairs"
+        ],
+        "role": "elder musician"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows multiple concrete actions (playing an instrument, walking, leaning, producing sounds) and descriptive attributes (old, blind, venerable), indicating an active narrative character."
+    },
+    "The Turk": {
+      "character_id": "the_turk",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "described as treacherous/traitor to good feeling and honour",
+          "engages in concrete actions in scenes (encouraged lovers, planned to depart with daughter, insulted Felix)",
+          "father of Safie",
+          "married Safie's mother",
+          "merchant"
+        ],
+        "role": "father; merchant"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains multiple concrete actions and scene behavior (entered apartment, encouraged lovers, planned departures), so this is a narrative character and drawable."
+    },
+    "the young girl": {
+      "character_id": "the_young_girl",
+      "confidence": "medium",
+      "core_identity": {
+        "age": "young",
+        "gender": "female",
+        "notes": [
+          "described as 'young'",
+          "documented action: 'employed in various occupations'",
+          "mentioned once"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Name and explicit action indicate an acting narrative character, though specific role is unspecified."
+    },
+    "the young man": {
+      "character_id": "the_young_man",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "male",
+        "notes": [
+          "constantly employed out of doors",
+          "described as 'young' and 'young man'",
+          "mentions: 2",
+          "often went apart and appeared to weep"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Labeled as a 'young man' with recorded concrete actions, so treated as a narrative character and drawable."
+    },
+    "The young woman": {
+      "character_id": "the_young_woman",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "female",
+        "notes": [
+          "appeared greatly astonished on seeing a great pile of wood",
+          "arranged the cottage",
+          "described as young",
+          "opened the door in the morning",
+          "prepared the food",
+          "uttered words in a loud voice"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence lists multiple concrete actions performed by the character, indicating an on-scene narrative character."
+    },
+    "the younger cottagers": {
+      "character_id": "the_younger_cottagers",
+      "confidence": "high",
+      "core_identity": {
+        "age": "younger",
+        "gender": null,
+        "notes": [
+          "exhibited love and respect towards the old man",
+          "performed every little office of affection and duty with gentleness",
+          "placed food before the old man when they reserved none for themselves",
+          "suffered pangs of hunger"
+        ],
+        "role": "younger cottagers"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows concrete caring actions in scenes (placing food, performing duties), so they are on-scene narrative characters and drawable."
+    },
+    "their venerable companion": {
+      "character_id": "their_venerable_companion",
+      "confidence": "medium",
+      "core_identity": {
+        "age": "elderly",
+        "gender": null,
+        "notes": [
+          "described as 'venerable'",
+          "mentioned once",
+          "was shown love and respect by the younger cottagers"
+        ],
+        "role": "companion"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned and was object of others' actions; no evidence the character acts in scenes, so classified as referenced_human and not drawable."
+    },
+    "Theseus": {
+      "character_id": "theseus",
+      "confidence": "low",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Single mention with no descriptions or actions; insufficient evidence to classify"
+    },
+    "Thomas": {
+      "character_id": "thomas",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "described as \"good uncle\"",
+          "has a library composed of histories of voyages",
+          "has books of voyages",
+          "mentioned 2 times",
+          "no recorded actions"
+        ],
+        "role": "uncle"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only mentioned and described (uncle with books); no actions recorded, so referenced human and not drawable."
+    },
+    "thrush": {
+      "character_id": "thrush",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "no descriptive attributes provided",
+          "uttered sweet and enticing notes (1 mention)"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows a concrete action (uttered notes) but contains no demographic or role details; conservatively classified as a narrative character."
+    },
+    "U.S. copyright law": {
+      "character_id": "u_s_copyright_law",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "abstract",
+      "reason": "Entity is a legal concept mentioned once with no descriptions or actions; fits abstract concept, not a depicted character."
+    },
+    "United States": {
+      "character_id": "united_states",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Evidence describes a jurisdiction/location (no actions, no human traits). Conservatively classified as unknown."
+    },
+    "Victor": {
+      "character_id": "victor",
+      "confidence": "high",
+      "core_identity": {
+        "age": null,
+        "gender": "male",
+        "notes": [
+          "cousin of Elizabeth Lavenza",
+          "creator of the 'wretch' (\"the wretch I had created\")",
+          "fled to solitude; confined by nervous fever; torn by remorse and despair",
+          "imbued with longing to penetrate the secrets of nature",
+          "long absent son; communicated with his father",
+          "performed many concrete actions (arrived at college, travelled, resolved engagements, etc.)",
+          "studied at Ingolstadt; procured works of Agrippa, Paracelsus, Albertus Magnus"
+        ],
+        "role": "student and natural philosopher; creator"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record contains numerous concrete actions (arrived at college, studied, procured occult works, created the 'wretch', fled to solitude), indicating an active narrative character; drawable true."
+    },
+    "Volney": {
+      "character_id": "volney",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as author of Ruins of Empires",
+          "single mention"
+        ],
+        "role": "author"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Only described as an author with no recorded actions; mentioned but not shown acting in scenes."
+    },
+    "Werter": {
+      "character_id": "werter",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "character contained no pretension",
+          "had imaginations",
+          "more divine being"
+        ],
+        "role": "hero"
+      },
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Descriptions include 'hero' and 'more divine being' and a mental action (imaginations) but provide no concrete scene actions; classification is ambiguous so conservatively 'unknown'."
+    },
+    "William": {
+      "character_id": "william",
+      "confidence": "high",
+      "core_identity": {
+        "age": "child",
+        "gender": "male",
+        "notes": [
+          "actions reported: smiled, ran away to hide, teased Elizabeth, felt the murderer's grasp",
+          "described as a little/young boy",
+          "physical descriptors: curly hair, blue eyes, dimples (from descriptions)",
+          "repeatedly described as murdered/deceased/assassinated",
+          "reposed in cemetery/tomb"
+        ],
+        "role": "murder victim"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence contains concrete scene actions and repeated descriptions as a murdered child, so treated as a narrative character and drawable."
+    },
+    "Wordsworth": {
+      "character_id": "wordsworth",
+      "confidence": "medium",
+      "core_identity": {
+        "age": null,
+        "gender": null,
+        "notes": [
+          "described as author of 'Tintern Abbey'",
+          "no actions or scenes in evidence"
+        ],
+        "role": "poet/author"
+      },
+      "drawable": false,
+      "kind": "referenced_human",
+      "reason": "Mentioned as the author of 'Tintern Abbey' with no recorded actions; treated as a referenced human."
+    },
+    "www.gutenberg.org": {
+      "character_id": "www_gutenberg_org",
+      "confidence": "high",
+      "core_identity": null,
+      "drawable": false,
+      "kind": "unknown",
+      "reason": "Descriptions identify an official website/Foundation info page and main Project Gutenberg site; actions are hosting contact/donate pages. Evidence indicates an organizational website, not a narrative person or mythological/abstract entity, so conservative classification is unknown."
+    },
+    "young girl": {
+      "character_id": "young_girl",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "female",
+        "notes": [
+          "amiable companion",
+          "busied in house and yard",
+          "carried fuel into the cottage",
+          "gentle manners",
+          "occupied in arranging the cottage"
+        ],
+        "role": "amiable companion"
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record lists numerous concrete actions (entered the cottage, carried fuel, helped, garden tasks) indicating an active character in scenes."
+    },
+    "young man": {
+      "character_id": "young_man",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "male",
+        "notes": [
+          "actions recorded: digging and pulling up roots",
+          "actions recorded: entered the cottage",
+          "actions recorded: returned bearing a load of wood on his shoulders",
+          "actions recorded: sat down to eat",
+          "actions recorded: showed her a large loaf and a piece of cheese",
+          "actions recorded: went into the garden",
+          "canonical name 'young man'",
+          "described as 'young'"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Named 'young man' and evidence lists concrete scene actions (digging, entering cottage, carrying wood, eating, showing food), so classified as a narrative character and drawable."
+    },
+    "young woman": {
+      "character_id": "young_woman",
+      "confidence": "high",
+      "core_identity": {
+        "age": "young",
+        "gender": "female",
+        "notes": [
+          "canonical name: young woman",
+          "described as 'young'",
+          "explicit actions: entered the cottage; joined him in the garden; sat down to eat; occupied arranging the cottage"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Record shows explicit scene actions and a descriptive label 'young woman', indicating a narrative character who acts in scenes."
+    },
+    "youth": {
+      "character_id": "youth",
+      "confidence": "high",
+      "core_identity": {
+        "age": "youth",
+        "gender": "male",
+        "notes": [
+          "began to utter monotonous sounds",
+          "cultivated the garden",
+          "departed after the first meal",
+          "did not go to the forest that day",
+          "directed his steps across the fields",
+          "eyes and attitude expressed sadness and despondency",
+          "features moulded with the finest symmetry",
+          "joined her and expressed surprise",
+          "read aloud",
+          "slight and graceful",
+          "spent a great part of each day collecting wood for the family fire",
+          "spent the day repairing the cottage",
+          "used tools different from those used in the morning"
+        ],
+        "role": null
+      },
+      "drawable": true,
+      "kind": "narrative_character",
+      "reason": "Evidence contains multiple concrete actions (acts in scenes) and uses the pronoun 'his'; classed as a narrative character and drawable."
+    }
+  }
+}

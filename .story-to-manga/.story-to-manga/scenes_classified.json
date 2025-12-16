@@ -1,0 +1,1670 @@
+{
+  "scenes": [
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 1,
+      "reason": "Scene appears to be dated/epistolary framing and lacks concrete physical action.",
+      "scene_id": "scene_001"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 2,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_002"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 3,
+      "reason": "Insufficient evidence (no actions) to classify as drawable.",
+      "scene_id": "scene_003"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 5,
+      "reason": "Insufficient evidence (no actions) to classify as drawable.",
+      "scene_id": "scene_005"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 6,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_006"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 8,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_008"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 9,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_009"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 10,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_010"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 11,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_011"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 12,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_012"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 13,
+      "reason": "Insufficient evidence (no actions) to classify as drawable.",
+      "scene_id": "scene_013"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 16,
+      "reason": "Scene appears to be dated/epistolary framing and lacks concrete physical action.",
+      "scene_id": "scene_016"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 17,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_017"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 18,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_018"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 19,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_019"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 20,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_020"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 21,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_021"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 22,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_022"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 23,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_023"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 24,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_024"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 25,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_025"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 26,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_026"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 27,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_027"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 28,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_028"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 29,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_029"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 30,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_030"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 31,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_031"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 32,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_032"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 33,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_033"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 34,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_034"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 35,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_035"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 36,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_036"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 37,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_037"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 38,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_038"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 39,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_039"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 40,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_040"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 41,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_041"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 42,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_042"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 43,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_043"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 44,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_044"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 46,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_046"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 47,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_047"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 48,
+      "reason": "Insufficient evidence (no actions) to classify as drawable.",
+      "scene_id": "scene_048"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 49,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_049"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 50,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_050"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 51,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_051"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 52,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_052"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 53,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_053"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 54,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_054"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 55,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_055"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 56,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_056"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 57,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_057"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 58,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_058"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 59,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_059"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 60,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_060"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 61,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_061"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 62,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_062"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 63,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_063"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 64,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_064"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 65,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_065"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 66,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_066"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 67,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_067"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 68,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_068"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 69,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_069"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 70,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_070"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 71,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_071"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 72,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_072"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 73,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_073"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 74,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_074"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 75,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_075"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 76,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_076"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 77,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_077"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 80,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_080"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 81,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_081"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 82,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_082"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 83,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_083"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 84,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_084"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 85,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_085"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 86,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_086"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 87,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_087"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 88,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_088"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 89,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_089"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 90,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_090"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 91,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_091"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 92,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_092"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 93,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_093"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 94,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_094"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 95,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_095"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 96,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_096"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 97,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_097"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 98,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_098"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 99,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_099"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 100,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_100"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 101,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_101"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 102,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_102"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 103,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_103"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 104,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_104"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 105,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_105"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 106,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_106"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 107,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_107"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 108,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_108"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 109,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_109"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 110,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_110"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 111,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_111"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 112,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_112"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 113,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_113"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 114,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_114"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 117,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_117"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 118,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_118"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 122,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_122"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 123,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_123"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 124,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_124"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 125,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_125"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 126,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_126"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 127,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_127"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 129,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_129"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 130,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_130"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 131,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_131"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 132,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_132"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 133,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_133"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 134,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_134"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 135,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_135"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 136,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_136"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 137,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_137"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 138,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_138"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 139,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_139"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 140,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_140"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 141,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_141"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 142,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_142"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 143,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_143"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 144,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_144"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 145,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_145"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 146,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_146"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 147,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_147"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 148,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_148"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 149,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_149"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 150,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_150"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 151,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_151"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 152,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_152"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 153,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_153"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 154,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_154"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 155,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_155"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 158,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_158"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 159,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_159"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 160,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_160"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 161,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_161"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 162,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_162"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 163,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_163"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 164,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_164"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 165,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_165"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 167,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_167"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 168,
+      "reason": "Insufficient evidence (no actions) to classify as drawable.",
+      "scene_id": "scene_168"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 170,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_170"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 173,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_173"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 177,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_177"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 178,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_178"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 179,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_179"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 183,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_183"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 184,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_184"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 185,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_185"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 186,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_186"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 187,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_187"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 188,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_188"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 189,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_189"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 190,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_190"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 191,
+      "reason": "Scene appears to be dated/epistolary framing and lacks concrete physical action.",
+      "scene_id": "scene_191"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 192,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_192"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 193,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_193"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 194,
+      "reason": "Scene appears to be dated/epistolary framing and lacks concrete physical action.",
+      "scene_id": "scene_194"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 197,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_197"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 198,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_198"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 199,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_199"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 200,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_200"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 202,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_202"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 203,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_203"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 204,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_204"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 205,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_205"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 206,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_206"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 207,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_207"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 208,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_208"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 210,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_210"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 218,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_218"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 219,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_219"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 220,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_220"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 221,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_221"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 222,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_222"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 224,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_224"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 226,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_226"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 227,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_227"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 228,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_228"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 229,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_229"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 230,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_230"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 231,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_231"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 232,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_232"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 233,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_233"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 234,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_234"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 235,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_235"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 236,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_236"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 237,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_237"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 238,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_238"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 239,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_239"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 240,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_240"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 241,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_241"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 242,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_242"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 243,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_243"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 244,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_244"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 245,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_245"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 246,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_246"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 247,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_247"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 248,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_248"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 249,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_249"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 250,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_250"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 251,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_251"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 252,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_252"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 253,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_253"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 254,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_254"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 255,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_255"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 256,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_256"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 257,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_257"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 258,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_258"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 259,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_259"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 260,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_260"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 261,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_261"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 262,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_262"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 263,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_263"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 264,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_264"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 265,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_265"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 266,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_266"
+    },
+    {
+      "drawable": false,
+      "kind": "narration_only",
+      "order": 267,
+      "reason": "Actions are primarily reflective/intention/mental-state rather than physical events.",
+      "scene_id": "scene_267"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 268,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_268"
+    },
+    {
+      "drawable": true,
+      "kind": "visual_scene",
+      "order": 271,
+      "reason": "Contains concrete, present-time actions attributable to characters.",
+      "scene_id": "scene_271"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 272,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_272"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 273,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_273"
+    },
+    {
+      "drawable": true,
+      "kind": "dialogue_scene",
+      "order": 274,
+      "reason": "Contains dialogue-attribution actions with multiple characters present.",
+      "scene_id": "scene_274"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 275,
+      "reason": "Insufficient evidence (no actions) to classify as drawable.",
+      "scene_id": "scene_275"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 276,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_276"
+    },
+    {
+      "drawable": false,
+      "kind": "unknown",
+      "order": 277,
+      "reason": "Insufficient evidence to safely classify scene type.",
+      "scene_id": "scene_277"
+    },
+    {
+      "drawable": false,
+      "kind": "epistolary",
+      "order": 278,
+      "reason": "Scene indicates written/letter/journal framing rather than physical co-presence.",
+      "scene_id": "scene_278"
+    }
+  ]
+}

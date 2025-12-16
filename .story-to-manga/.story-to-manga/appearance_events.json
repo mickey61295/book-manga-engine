@@ -1,0 +1,4308 @@
+{
+  "appearances": [
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "person_state_001",
+        "is_new_state": false,
+        "state_id": "person_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "person",
+      "scene_id": "scene_011"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_being_state_001",
+        "is_new_state": false,
+        "state_id": "the_being_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_being",
+      "scene_id": "scene_011"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "beaufort_state_001",
+        "is_new_state": false,
+        "state_id": "beaufort_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "beaufort",
+      "scene_id": "scene_019"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "caroline_state_001",
+        "is_new_state": false,
+        "state_id": "caroline_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "caroline",
+      "scene_id": "scene_019"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_019"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_025"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_lavenza_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_lavenza_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth_lavenza",
+      "scene_id": "scene_025"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_025"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_027"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_001",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_027"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_029"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_030"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_031"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_034"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_034"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_040"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "m_waldman_state_001",
+        "is_new_state": false,
+        "state_id": "m_waldman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "m_waldman",
+      "scene_id": "scene_040"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_041"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "m_waldman_state_001",
+        "is_new_state": false,
+        "state_id": "m_waldman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "m_waldman",
+      "scene_id": "scene_041"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_042"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "m_waldman_state_001",
+        "is_new_state": false,
+        "state_id": "m_waldman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "m_waldman",
+      "scene_id": "scene_044"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "m_krempe_state_001",
+        "is_new_state": false,
+        "state_id": "m_krempe_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "m_krempe",
+      "scene_id": "scene_046"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "m_waldman_state_001",
+        "is_new_state": false,
+        "state_id": "m_waldman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "m_waldman",
+      "scene_id": "scene_046"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "professor_krempe_state_001",
+        "is_new_state": false,
+        "state_id": "professor_krempe_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "professor_krempe",
+      "scene_id": "scene_046"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_047"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_051"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_051"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_052"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_052"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_053"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_053"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_054"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_055"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_055"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_056"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_059"
+    },
+    {
+      "appearance_state": {
+        "confidence": "high",
+        "derived_from_state_id": "henry_clerval_state_001",
+        "is_new_state": true,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_059"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_065"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_065"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_065"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "m_krempe_state_001",
+        "is_new_state": false,
+        "state_id": "m_krempe_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "m_krempe",
+      "scene_id": "scene_065"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "m_waldman_state_001",
+        "is_new_state": false,
+        "state_id": "m_waldman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "m_waldman",
+      "scene_id": "scene_065"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_068"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_068"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_069"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_state_001",
+        "is_new_state": false,
+        "state_id": "henry_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry",
+      "scene_id": "scene_069"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_071"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "ernest_state_001",
+        "is_new_state": false,
+        "state_id": "ernest_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "ernest",
+      "scene_id": "scene_071"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_071"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "william_state_001",
+        "is_new_state": false,
+        "state_id": "william_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "william",
+      "scene_id": "scene_071"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_072"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "ernest_state_001",
+        "is_new_state": false,
+        "state_id": "ernest_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "ernest",
+      "scene_id": "scene_072"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_072"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "william_state_001",
+        "is_new_state": false,
+        "state_id": "william_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "william",
+      "scene_id": "scene_072"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_073"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "william_state_001",
+        "is_new_state": false,
+        "state_id": "william_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "william",
+      "scene_id": "scene_073"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_076"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_076"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_081"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_being_state_001",
+        "is_new_state": false,
+        "state_id": "the_being_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_being",
+      "scene_id": "scene_081"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "caroline_state_001",
+        "is_new_state": false,
+        "state_id": "caroline_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "caroline",
+      "scene_id": "scene_082"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_082"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "ernest_state_001",
+        "is_new_state": false,
+        "state_id": "ernest_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "ernest",
+      "scene_id": "scene_082"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_082"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "william_state_001",
+        "is_new_state": false,
+        "state_id": "william_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "william",
+      "scene_id": "scene_082"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_084"
+    },
+    {
+      "appearance_state": {
+        "confidence": "high",
+        "derived_from_state_id": "justine_state_001",
+        "is_new_state": true,
+        "state_id": "justine_state_002",
+        "traits": {
+          "clothing": "mourning",
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "justine",
+      "scene_id": "scene_084"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_084"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_family_state_001",
+        "is_new_state": false,
+        "state_id": "the_family_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_family",
+      "scene_id": "scene_084"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_085"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "justine_state_002",
+        "is_new_state": false,
+        "state_id": "justine_state_002",
+        "traits": {
+          "clothing": "mourning",
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "justine",
+      "scene_id": "scene_085"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_088"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "justine_state_002",
+        "is_new_state": false,
+        "state_id": "justine_state_002",
+        "traits": {
+          "clothing": "mourning",
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "justine",
+      "scene_id": "scene_088"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_089"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_089"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "victor_state_001",
+        "is_new_state": false,
+        "state_id": "victor_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "victor",
+      "scene_id": "scene_089"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_095"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "justine_state_002",
+        "is_new_state": false,
+        "state_id": "justine_state_002",
+        "traits": {
+          "clothing": "mourning",
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "justine",
+      "scene_id": "scene_095"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_095"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_095"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_fiend_state_001",
+        "is_new_state": false,
+        "state_id": "the_fiend_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_fiend",
+      "scene_id": "scene_095"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "william_state_001",
+        "is_new_state": false,
+        "state_id": "william_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "william",
+      "scene_id": "scene_095"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_096"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_096"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "victor_state_001",
+        "is_new_state": false,
+        "state_id": "victor_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "victor",
+      "scene_id": "scene_096"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_097"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "alps_state_001",
+        "is_new_state": false,
+        "state_id": "alps_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "alps",
+      "scene_id": "scene_099"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arve_state_001",
+        "is_new_state": false,
+        "state_id": "arve_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arve",
+      "scene_id": "scene_099"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_099"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arve_state_001",
+        "is_new_state": false,
+        "state_id": "arve_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arve",
+      "scene_id": "scene_100"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_100"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_101"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_103"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_105"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_106"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "dæmon_state_001",
+        "is_new_state": false,
+        "state_id": "dæmon_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "dæmon",
+      "scene_id": "scene_108"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_108"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_110"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_being_state_001",
+        "is_new_state": false,
+        "state_id": "the_being_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_being",
+      "scene_id": "scene_110"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_fiend_state_001",
+        "is_new_state": false,
+        "state_id": "the_fiend_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_fiend",
+      "scene_id": "scene_111"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_fiend_state_001",
+        "is_new_state": false,
+        "state_id": "the_fiend_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_fiend",
+      "scene_id": "scene_113"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_117"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_118"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_girl_state_001",
+        "is_new_state": false,
+        "state_id": "the_girl_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_girl",
+      "scene_id": "scene_122"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_young_man_state_001",
+        "is_new_state": false,
+        "state_id": "the_young_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_young_man",
+      "scene_id": "scene_122"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "fair_creature_state_001",
+        "is_new_state": false,
+        "state_id": "fair_creature_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "fair_creature",
+      "scene_id": "scene_123"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_123"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_girl_state_001",
+        "is_new_state": false,
+        "state_id": "the_girl_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_girl",
+      "scene_id": "scene_123"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_young_girl_state_001",
+        "is_new_state": false,
+        "state_id": "the_young_girl_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_young_girl",
+      "scene_id": "scene_123"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_124"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_girl_state_001",
+        "is_new_state": false,
+        "state_id": "the_girl_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_girl",
+      "scene_id": "scene_124"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "young_man_state_001",
+        "is_new_state": false,
+        "state_id": "young_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "young_man",
+      "scene_id": "scene_124"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "young_woman_state_001",
+        "is_new_state": false,
+        "state_id": "young_woman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "young_woman",
+      "scene_id": "scene_124"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "youth_state_001",
+        "is_new_state": false,
+        "state_id": "youth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "youth",
+      "scene_id": "scene_124"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_125"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "young_woman_state_001",
+        "is_new_state": false,
+        "state_id": "young_woman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "young_woman",
+      "scene_id": "scene_125"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "youth_state_001",
+        "is_new_state": false,
+        "state_id": "youth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "youth",
+      "scene_id": "scene_125"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "his_companion_state_001",
+        "is_new_state": false,
+        "state_id": "his_companion_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "his_companion",
+      "scene_id": "scene_127"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_127"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "young_girl_state_001",
+        "is_new_state": false,
+        "state_id": "young_girl_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "young_girl",
+      "scene_id": "scene_127"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "young_woman_state_001",
+        "is_new_state": false,
+        "state_id": "young_woman_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "young_woman",
+      "scene_id": "scene_132"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "youth_state_001",
+        "is_new_state": false,
+        "state_id": "youth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "youth",
+      "scene_id": "scene_132"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_136"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_136"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_136"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_137"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_137"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_old_man_state_001",
+        "is_new_state": false,
+        "state_id": "the_old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_old_man",
+      "scene_id": "scene_137"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_138"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_138"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_138"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_138"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_139"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_139"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_139"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_139"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_140"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_140"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_140"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_140"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_141"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_141"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_141"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_141"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "safie_state_001",
+        "is_new_state": false,
+        "state_id": "safie_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "safie",
+      "scene_id": "scene_141"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_144"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "de_lacey_state_001",
+        "is_new_state": false,
+        "state_id": "de_lacey_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "de_lacey",
+      "scene_id": "scene_144"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_144"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "safie_state_001",
+        "is_new_state": false,
+        "state_id": "safie_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "safie",
+      "scene_id": "scene_144"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_turk_state_001",
+        "is_new_state": false,
+        "state_id": "the_turk_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_turk",
+      "scene_id": "scene_144"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_145"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "safie_state_001",
+        "is_new_state": false,
+        "state_id": "safie_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "safie",
+      "scene_id": "scene_145"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_turk_state_001",
+        "is_new_state": false,
+        "state_id": "the_turk_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_turk",
+      "scene_id": "scene_145"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_146"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "safie_state_001",
+        "is_new_state": false,
+        "state_id": "safie_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "safie",
+      "scene_id": "scene_146"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_turk_state_001",
+        "is_new_state": false,
+        "state_id": "the_turk_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_turk",
+      "scene_id": "scene_146"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_150"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_150"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "safie_state_001",
+        "is_new_state": false,
+        "state_id": "safie_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "safie",
+      "scene_id": "scene_150"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_turk_state_001",
+        "is_new_state": false,
+        "state_id": "the_turk_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_turk",
+      "scene_id": "scene_150"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_152"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "de_lacey_state_001",
+        "is_new_state": false,
+        "state_id": "de_lacey_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "de_lacey",
+      "scene_id": "scene_152"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_152"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_turk_state_001",
+        "is_new_state": false,
+        "state_id": "the_turk_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_turk",
+      "scene_id": "scene_152"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_153"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_153"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "arabian_state_001",
+        "is_new_state": false,
+        "state_id": "arabian_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "arabian",
+      "scene_id": "scene_154"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "safie_state_001",
+        "is_new_state": false,
+        "state_id": "safie_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "safie",
+      "scene_id": "scene_154"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "agatha_state_001",
+        "is_new_state": false,
+        "state_id": "agatha_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "agatha",
+      "scene_id": "scene_160"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "de_lacey_state_001",
+        "is_new_state": false,
+        "state_id": "de_lacey_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "de_lacey",
+      "scene_id": "scene_160"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_160"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "safie_state_001",
+        "is_new_state": false,
+        "state_id": "safie_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "safie",
+      "scene_id": "scene_160"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "de_lacey_state_001",
+        "is_new_state": false,
+        "state_id": "de_lacey_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "de_lacey",
+      "scene_id": "scene_161"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "old_man_state_001",
+        "is_new_state": false,
+        "state_id": "old_man_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "old_man",
+      "scene_id": "scene_161"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_167"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "his_companion_state_001",
+        "is_new_state": false,
+        "state_id": "his_companion_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "his_companion",
+      "scene_id": "scene_167"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "young_girl_state_001",
+        "is_new_state": false,
+        "state_id": "young_girl_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "young_girl",
+      "scene_id": "scene_173"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_177"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_creator_state_001",
+        "is_new_state": false,
+        "state_id": "my_creator_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_creator",
+      "scene_id": "scene_177"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_being_state_001",
+        "is_new_state": false,
+        "state_id": "the_being_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_being",
+      "scene_id": "scene_177"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_fiend_state_001",
+        "is_new_state": false,
+        "state_id": "the_fiend_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_fiend",
+      "scene_id": "scene_177"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_being_state_001",
+        "is_new_state": false,
+        "state_id": "the_being_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_being",
+      "scene_id": "scene_178"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_184"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_185"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_187"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_state_001",
+        "is_new_state": false,
+        "state_id": "henry_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry",
+      "scene_id": "scene_187"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_188"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_188"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_189"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_189"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_190"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "victor_state_001",
+        "is_new_state": false,
+        "state_id": "victor_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "victor",
+      "scene_id": "scene_190"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_193"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "dæmon_state_001",
+        "is_new_state": false,
+        "state_id": "dæmon_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "dæmon",
+      "scene_id": "scene_199"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_clerval_state_002",
+        "is_new_state": false,
+        "state_id": "henry_clerval_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "pale",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry_clerval",
+      "scene_id": "scene_199"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_203"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "fishermen_state_001",
+        "is_new_state": false,
+        "state_id": "fishermen_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "fishermen",
+      "scene_id": "scene_206"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "person_state_001",
+        "is_new_state": false,
+        "state_id": "person_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "person",
+      "scene_id": "scene_206"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "some_one_state_001",
+        "is_new_state": false,
+        "state_id": "some_one_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "some_one",
+      "scene_id": "scene_206"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "fishermen_state_001",
+        "is_new_state": false,
+        "state_id": "fishermen_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "fishermen",
+      "scene_id": "scene_207"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_207"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "person_state_001",
+        "is_new_state": false,
+        "state_id": "person_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "person",
+      "scene_id": "scene_207"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "daniel_nugent_state_001",
+        "is_new_state": false,
+        "state_id": "daniel_nugent_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "daniel_nugent",
+      "scene_id": "scene_219"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "fishermen_state_001",
+        "is_new_state": false,
+        "state_id": "fishermen_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "fishermen",
+      "scene_id": "scene_219"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "magistrate_state_001",
+        "is_new_state": false,
+        "state_id": "magistrate_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "magistrate",
+      "scene_id": "scene_219"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "daniel_state_001",
+        "is_new_state": false,
+        "state_id": "daniel_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "daniel",
+      "scene_id": "scene_221"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "fishermen_state_001",
+        "is_new_state": false,
+        "state_id": "fishermen_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "fishermen",
+      "scene_id": "scene_221"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "his_companion_state_001",
+        "is_new_state": false,
+        "state_id": "his_companion_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "his_companion",
+      "scene_id": "scene_221"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "mr_kirwin_state_001",
+        "is_new_state": false,
+        "state_id": "mr_kirwin_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "mr_kirwin",
+      "scene_id": "scene_226"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_228"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "magistrate_state_001",
+        "is_new_state": false,
+        "state_id": "magistrate_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "magistrate",
+      "scene_id": "scene_228"
+    },
+    {
+      "appearance_state": {
+        "confidence": "high",
+        "derived_from_state_id": "mr_kirwin_state_001",
+        "is_new_state": true,
+        "state_id": "mr_kirwin_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "exhausted",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "mr_kirwin",
+      "scene_id": "scene_228"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_228"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_229"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "ernest_state_001",
+        "is_new_state": false,
+        "state_id": "ernest_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "ernest",
+      "scene_id": "scene_229"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "henry_state_001",
+        "is_new_state": false,
+        "state_id": "henry_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "henry",
+      "scene_id": "scene_229"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_229"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_229"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_230"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_230"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_231"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_231"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_233"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_233"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_240"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_242"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_245"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_245"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_murderer_state_001",
+        "is_new_state": false,
+        "state_id": "the_murderer_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_murderer",
+      "scene_id": "scene_245"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_246"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_249"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_250"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "ernest_state_001",
+        "is_new_state": false,
+        "state_id": "ernest_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "ernest",
+      "scene_id": "scene_250"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_250"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_251"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_252"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "magistrate_state_001",
+        "is_new_state": false,
+        "state_id": "magistrate_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "magistrate",
+      "scene_id": "scene_252"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_253"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "magistrate_state_001",
+        "is_new_state": false,
+        "state_id": "magistrate_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "magistrate",
+      "scene_id": "scene_253"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_255"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_255"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "william_state_001",
+        "is_new_state": false,
+        "state_id": "william_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "william",
+      "scene_id": "scene_255"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "dæmon_state_001",
+        "is_new_state": false,
+        "state_id": "dæmon_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "dæmon",
+      "scene_id": "scene_256"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_256"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "my_father_state_001",
+        "is_new_state": false,
+        "state_id": "my_father_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "my_father",
+      "scene_id": "scene_256"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "william_state_001",
+        "is_new_state": false,
+        "state_id": "william_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "william",
+      "scene_id": "scene_256"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_257"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_fiend_state_001",
+        "is_new_state": false,
+        "state_id": "the_fiend_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_fiend",
+      "scene_id": "scene_257"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "dæmon_state_001",
+        "is_new_state": false,
+        "state_id": "dæmon_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "dæmon",
+      "scene_id": "scene_259"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_259"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_260"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "greeks_state_001",
+        "is_new_state": false,
+        "state_id": "greeks_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "greeks",
+      "scene_id": "scene_260"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_fiend_state_001",
+        "is_new_state": false,
+        "state_id": "the_fiend_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_fiend",
+      "scene_id": "scene_260"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_261"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_261"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_fiend_state_001",
+        "is_new_state": false,
+        "state_id": "the_fiend_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_fiend",
+      "scene_id": "scene_261"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "elizabeth_state_001",
+        "is_new_state": false,
+        "state_id": "elizabeth_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "elizabeth",
+      "scene_id": "scene_263"
+    },
+    {
+      "appearance_state": {
+        "confidence": "high",
+        "derived_from_state_id": "r_walton_state_001",
+        "is_new_state": true,
+        "state_id": "r_walton_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "exhausted",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "r_walton",
+      "scene_id": "scene_263"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_271"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_272"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "r_walton_state_002",
+        "is_new_state": false,
+        "state_id": "r_walton_state_002",
+        "traits": {
+          "clothing": null,
+          "condition": "exhausted",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "r_walton",
+      "scene_id": "scene_272"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_273"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_273"
+    },
+    {
+      "appearance_state": {
+        "confidence": "high",
+        "derived_from_state_id": "r_walton_state_002",
+        "is_new_state": true,
+        "state_id": "r_walton_state_003",
+        "traits": {
+          "clothing": null,
+          "condition": "ill",
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "r_walton",
+      "scene_id": "scene_273"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "dæmon_state_001",
+        "is_new_state": false,
+        "state_id": "dæmon_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "dæmon",
+      "scene_id": "scene_274"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "felix_state_001",
+        "is_new_state": false,
+        "state_id": "felix_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "felix",
+      "scene_id": "scene_274"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "frankenstein_state_001",
+        "is_new_state": false,
+        "state_id": "frankenstein_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "frankenstein",
+      "scene_id": "scene_274"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "monster_state_001",
+        "is_new_state": false,
+        "state_id": "monster_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "monster",
+      "scene_id": "scene_274"
+    },
+    {
+      "appearance_state": {
+        "confidence": "low",
+        "derived_from_state_id": "the_being_state_001",
+        "is_new_state": false,
+        "state_id": "the_being_state_001",
+        "traits": {
+          "clothing": null,
+          "condition": null,
+          "hair": null,
+          "notes": []
+        }
+      },
+      "character_id": "the_being",
+      "scene_id": "scene_274"
+    }
+  ]
+}
