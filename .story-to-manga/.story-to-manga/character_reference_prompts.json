@@ -1,0 +1,304 @@
+{
+  "prompts": {
+    "agatha": {
+      "character_id": "agatha",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: agatha\nphysical_traits:\nyouthful proportions\nface\neyes\neyes sometimes filled with tears\n\nThis is a character reference image for visual consistency."
+    },
+    "aged_cottager": {
+      "character_id": "aged_cottager",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: aged_cottager\nphysical_traits:\nhair color: silver\n\nThis is a character reference image for visual consistency."
+    },
+    "al_haines": {
+      "character_id": "al_haines",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: al_haines\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "alps": {
+      "character_id": "alps",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: alps\nphysical_traits:\nbody build: composed of pyramids and domes\nskin texture: white surface\n\nThis is a character reference image for visual consistency."
+    },
+    "angel_of_destruction": {
+      "character_id": "angel_of_destruction",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: angel_of_destruction\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "arabian": {
+      "character_id": "arabian",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: arabian\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "arve": {
+      "character_id": "arve",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: arve\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "austrian": {
+      "character_id": "austrian",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: austrian\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "beaufort": {
+      "character_id": "beaufort",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: beaufort\nphysical_traits:\ncheeks pale\n\nThis is a character reference image for visual consistency."
+    },
+    "blackbird": {
+      "character_id": "blackbird",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: blackbird\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "caroline": {
+      "character_id": "caroline",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: caroline\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "cornelius_agrippa": {
+      "character_id": "cornelius_agrippa",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: cornelius_agrippa\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "dæmon": {
+      "character_id": "dæmon",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: dæmon\nphysical_traits:\nfacial structure\nmouth in a grin\nvisible teeth\n\nThis is a character reference image for visual consistency."
+    },
+    "daniel": {
+      "character_id": "daniel",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: daniel\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "daniel_nugent": {
+      "character_id": "daniel_nugent",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: daniel_nugent\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "de_lacey": {
+      "character_id": "de_lacey",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: de_lacey\nphysical_traits:\nadvanced age\nwrinkled skin\naged facial features\nnonfunctional eyes (blind)\nelderly body proportions\n\nThis is a character reference image for visual consistency."
+    },
+    "elizabeth": {
+      "character_id": "elizabeth",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: elizabeth\nphysical_traits:\narms with very pale skin\nbody with relaxed posture\neyes described as \"celestial\"\n\nThis is a character reference image for visual consistency."
+    },
+    "elizabeth_lavenza": {
+      "character_id": "elizabeth_lavenza",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: elizabeth_lavenza\nphysical_traits:\nfair skin\n\nThis is a character reference image for visual consistency."
+    },
+    "ernest": {
+      "character_id": "ernest",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: ernest\nphysical_traits:\nproportions: adolescent (approximately 16 years old)\n\nThis is a character reference image for visual consistency."
+    },
+    "fair_creature": {
+      "character_id": "fair_creature",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: fair_creature\nphysical_traits:\nfair complexion\n\nThis is a character reference image for visual consistency."
+    },
+    "felix": {
+      "character_id": "felix",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: felix\nphysical_traits:\nflushed cheek\neyes sparkled\n\nThis is a character reference image for visual consistency."
+    },
+    "fishermen": {
+      "character_id": "fishermen",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: fishermen\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "frankenstein": {
+      "character_id": "frankenstein",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: frankenstein\nphysical_traits:\nyoung man proportions\nfrail build\nreduced physical strength\nflushed cheeks\ngaunt facial features\nhalf-closed eyelids\nbright eyes\n\nThis is a character reference image for visual consistency."
+    },
+    "greeks": {
+      "character_id": "greeks",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: greeks\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "hampden": {
+      "character_id": "hampden",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: hampden\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "henry": {
+      "character_id": "henry",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: henry\nphysical_traits:\neyes with dark orbs nearly covered by eyelids\n\nThis is a character reference image for visual consistency."
+    },
+    "henry_clerval": {
+      "character_id": "henry_clerval",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: henry_clerval\nphysical_traits:\nyoung male\nyouthful proportions\nfacial resemblance to narrator\nhealthy skin texture\n\nThis is a character reference image for visual consistency."
+    },
+    "his_companion": {
+      "character_id": "his_companion",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: his_companion\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "i": {
+      "character_id": "i",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: i\nphysical_traits:\neyeballs protruding from eye sockets\neyes exhibit unsteady movement\n\nThis is a character reference image for visual consistency."
+    },
+    "internal_revenue_service": {
+      "character_id": "internal_revenue_service",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: internal_revenue_service\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "justine": {
+      "character_id": "justine",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: justine\nphysical_traits:\naltered facial features\n\nThis is a character reference image for visual consistency."
+    },
+    "justine_moritz": {
+      "character_id": "justine_moritz",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: justine_moritz\nphysical_traits:\nsmall stature\nchild-sized proportions\n\nThis is a character reference image for visual consistency."
+    },
+    "m_krempe": {
+      "character_id": "m_krempe",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: m_krempe\nphysical_traits:\nshort stature\nsquat proportions\nstocky build\n\nThis is a character reference image for visual consistency."
+    },
+    "m_moritz": {
+      "character_id": "m_moritz",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: m_moritz\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "m_waldman": {
+      "character_id": "m_waldman",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: m_waldman\nphysical_traits:\napproximately fifty years old\nfew grey hairs on temples\nhairs at back of head nearly black\nshort stature\nerect posture\n\nThis is a character reference image for visual consistency."
+    },
+    "madame_moritz": {
+      "character_id": "madame_moritz",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: madame_moritz\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "magistrate": {
+      "character_id": "magistrate",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: magistrate\nphysical_traits:\nwrinkled facial skin\n\nThis is a character reference image for visual consistency."
+    },
+    "manon": {
+      "character_id": "manon",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: manon\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "margaret": {
+      "character_id": "margaret",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: margaret\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "menno_de_leeuw": {
+      "character_id": "menno_de_leeuw",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: menno_de_leeuw\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "monster": {
+      "character_id": "monster",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: monster\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "mr_kirwin": {
+      "character_id": "mr_kirwin",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: mr_kirwin\nphysical_traits:\nold\ncountenance\n\nThis is a character reference image for visual consistency."
+    },
+    "my_creator": {
+      "character_id": "my_creator",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: my_creator\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "my_father": {
+      "character_id": "my_father",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: my_father\nphysical_traits:\nwrinkled skin\ngray or white hair\nage-related facial features\n\nThis is a character reference image for visual consistency."
+    },
+    "old_man": {
+      "character_id": "old_man",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: old_man\nphysical_traits:\nold\nsilver hair\n\nThis is a character reference image for visual consistency."
+    },
+    "person": {
+      "character_id": "person",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: person\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "plutarch": {
+      "character_id": "plutarch",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: plutarch\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "poor_wretch": {
+      "character_id": "poor_wretch",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: poor_wretch\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "professor_krempe": {
+      "character_id": "professor_krempe",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: professor_krempe\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "professor_michael_s_hart": {
+      "character_id": "professor_michael_s_hart",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: professor_michael_s_hart\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "project_gutenberg_volunteers_and_employees": {
+      "character_id": "project_gutenberg_volunteers_and_employees",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: project_gutenberg_volunteers_and_employees\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "r_walton": {
+      "character_id": "r_walton",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: r_walton\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "robert_walton": {
+      "character_id": "robert_walton",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: robert_walton\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "safie": {
+      "character_id": "safie",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: safie\nphysical_traits:\nfair complexion\ncheeks tinged with pink\ndark eyes\nraven-black braided hair\nfacial features of regular proportions\n\nThis is a character reference image for visual consistency."
+    },
+    "some_one": {
+      "character_id": "some_one",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: some_one\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "sparrow": {
+      "character_id": "sparrow",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: sparrow\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "the_being": {
+      "character_id": "the_being",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_being\nphysical_traits:\nirregular body proportions\nasymmetrical facial features\nmisshapen limbs or body parts\nuneven skin texture\n\nThis is a character reference image for visual consistency."
+    },
+    "the_family": {
+      "character_id": "the_family",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_family\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "the_fiend": {
+      "character_id": "the_fiend",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_fiend\nphysical_traits:\ngigantic body\nmassive proportions\ndeep facial wrinkles\ncontorted facial structure\n\nThis is a character reference image for visual consistency."
+    },
+    "the_foundation": {
+      "character_id": "the_foundation",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_foundation\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "the_girl": {
+      "character_id": "the_girl",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_girl\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "the_murderer": {
+      "character_id": "the_murderer",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_murderer\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "the_old_man": {
+      "character_id": "the_old_man",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_old_man\nphysical_traits:\neyes: blind\nage: elderly\nhair: silver\n\nThis is a character reference image for visual consistency."
+    },
+    "the_turk": {
+      "character_id": "the_turk",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_turk\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "the_young_girl": {
+      "character_id": "the_young_girl",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_young_girl\nphysical_traits:\nsmall body build\nchildlike proportions: relatively larger head-to-body ratio, shorter limbs\nsmooth skin texture\nrounded facial structure\nhair presence: not specified\n\nThis is a character reference image for visual consistency."
+    },
+    "the_young_man": {
+      "character_id": "the_young_man",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_young_man\nphysical_traits:\nmale\nyoung adult body proportions\nfacial structure of a young adult male\n\nThis is a character reference image for visual consistency."
+    },
+    "the_young_woman": {
+      "character_id": "the_young_woman",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_young_woman\nphysical_traits:\nfemale\nyoung adult\n\nThis is a character reference image for visual consistency."
+    },
+    "the_younger_cottagers": {
+      "character_id": "the_younger_cottagers",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: the_younger_cottagers\nphysical_traits:\nmultiple individuals\nyouthful body proportions\n\nThis is a character reference image for visual consistency."
+    },
+    "thrush": {
+      "character_id": "thrush",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: thrush\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "victor": {
+      "character_id": "victor",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: victor\nphysical_traits:\n\nThis is a character reference image for visual consistency."
+    },
+    "william": {
+      "character_id": "william",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: william\nphysical_traits:\nrosy cheeks\ncurling hair\ndark eyelashes\nfair skin\nchild-sized proportions\n\nThis is a character reference image for visual consistency."
+    },
+    "young_girl": {
+      "character_id": "young_girl",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: young_girl\nphysical_traits:\nchild-sized proportions\n\nThis is a character reference image for visual consistency."
+    },
+    "young_man": {
+      "character_id": "young_man",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: young_man\nphysical_traits:\nskin texture: smooth, few or no wrinkles or age lines\nfacial structure: features without visible age-related sagging\nhair presence: normal hair coverage consistent with a young person\n\nThis is a character reference image for visual consistency."
+    },
+    "young_woman": {
+      "character_id": "young_woman",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: young_woman\nphysical_traits:\nfacial proportions associated with youth\n\nThis is a character reference image for visual consistency."
+    },
+    "youth": {
+      "character_id": "youth",
+      "prompt": "Character reference (neutral physical traits only)\ncharacter_id: youth\nphysical_traits:\nslight body build\nvisible eyes\nsymmetrical facial features\nyouthful proportions\n\nThis is a character reference image for visual consistency."
+    }
+  }
+}

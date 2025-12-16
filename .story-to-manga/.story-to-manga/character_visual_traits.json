@@ -1,0 +1,1031 @@
+{
+  "traits": {
+    "agatha": {
+      "character_id": "agatha",
+      "physical_description": [
+        "youthful proportions",
+        "face",
+        "eyes",
+        "eyes sometimes filled with tears"
+      ],
+      "source_descriptions": [
+        "gentle",
+        "assisted in their labours by servants",
+        "child of De Lacey",
+        "contented and happy",
+        "countenance and tone more cheerful after father's exhortations",
+        "did not appear rich",
+        "ever-gentle",
+        "eyes sometimes filled with tears",
+        "feelings serene and peaceful",
+        "gentle eyes",
+        "gentle manners and beauty",
+        "gentle sister",
+        "had usual occupations",
+        "ranked with ladies of the highest distinction",
+        "so sad",
+        "the girl",
+        "younger protector"
+      ]
+    },
+    "aged_cottager": {
+      "character_id": "aged_cottager",
+      "physical_description": [
+        "hair color: silver"
+      ],
+      "source_descriptions": [
+        "benevolent countenance",
+        "silver hair"
+      ]
+    },
+    "al_haines": {
+      "character_id": "al_haines",
+      "physical_description": [],
+      "source_descriptions": [
+        "HTML version author"
+      ]
+    },
+    "alps": {
+      "character_id": "alps",
+      "physical_description": [
+        "body build: composed of pyramids and domes",
+        "skin texture: white surface"
+      ],
+      "source_descriptions": [
+        "mighty",
+        "white and shining pyramids and domes"
+      ]
+    },
+    "angel_of_destruction": {
+      "character_id": "angel_of_destruction",
+      "physical_description": [],
+      "source_descriptions": [
+        "an evil influence",
+        "asserted omnipotent sway over narrator"
+      ]
+    },
+    "arabian": {
+      "character_id": "arabian",
+      "physical_description": [],
+      "source_descriptions": [
+        "Arabian",
+        "buried with the dead",
+        "charming",
+        "conversed in broken accents",
+        "understood very little"
+      ]
+    },
+    "arve": {
+      "character_id": "arve",
+      "physical_description": [],
+      "source_descriptions": [
+        "impetuous",
+        "river",
+        "rushing"
+      ]
+    },
+    "austrian": {
+      "character_id": "austrian",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "beaufort": {
+      "character_id": "beaufort",
+      "physical_description": [
+        "cheeks pale"
+      ],
+      "source_descriptions": [
+        "air of dignity and beauty",
+        "associated with a coffin",
+        "cheek pale",
+        "courage rose to support her in her adversity",
+        "courageous",
+        "daughter of Beaufort",
+        "fell into poverty",
+        "garb rustic",
+        "in an agony of despair",
+        "lay on a bed of sickness, incapable of any exertion",
+        "lived unknown and in wretchedness",
+        "merchant",
+        "mind of an uncommon mould",
+        "orphan and a beggar",
+        "possessed a mind of an uncommon mould",
+        "proud and unbending disposition",
+        "saved a very small sum of money"
+      ]
+    },
+    "blackbird": {
+      "character_id": "blackbird",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "caroline": {
+      "character_id": "caroline",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "cornelius_agrippa": {
+      "character_id": "cornelius_agrippa",
+      "physical_description": [],
+      "source_descriptions": [
+        "author",
+        "lord of my imagination",
+        "object of firm belief by a youngster"
+      ]
+    },
+    "dæmon": {
+      "character_id": "dæmon",
+      "physical_description": [
+        "facial structure",
+        "mouth in a grin",
+        "visible teeth"
+      ],
+      "source_descriptions": [
+        "abhorred himself",
+        "being I had created",
+        "cast off all feeling",
+        "countenance expressed malice and treachery",
+        "dæmon",
+        "ghastly grin",
+        "heart fashioned to be susceptible of love and sympathy",
+        "slave of an impulse",
+        "thirsted for sympathies",
+        "whose delight is in death and wretchedness"
+      ]
+    },
+    "daniel": {
+      "character_id": "daniel",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "daniel_nugent": {
+      "character_id": "daniel_nugent",
+      "physical_description": [],
+      "source_descriptions": [
+        "brother-in-law",
+        "one of the fishermen"
+      ]
+    },
+    "de_lacey": {
+      "character_id": "de_lacey",
+      "physical_description": [
+        "advanced age",
+        "wrinkled skin",
+        "aged facial features",
+        "nonfunctional eyes (blind)",
+        "elderly body proportions"
+      ],
+      "source_descriptions": [
+        "blind",
+        "old",
+        "associated with a cottage",
+        "beloved by his equals",
+        "blind and aged father",
+        "descended from a good family in France",
+        "family",
+        "father",
+        "has children",
+        "left alone in the cottage at his own desire",
+        "lived for many years in affluence",
+        "mild voice",
+        "old man",
+        "owner of a cottage in Germany",
+        "respected by his superiors"
+      ]
+    },
+    "elizabeth": {
+      "character_id": "elizabeth",
+      "physical_description": [
+        "arms with very pale skin",
+        "body with relaxed posture",
+        "eyes described as \"celestial\""
+      ],
+      "source_descriptions": [
+        "poor",
+        "bloodless arms",
+        "cousin",
+        "dear",
+        "gentle",
+        "more than daughter",
+        "my cousin",
+        "my wife",
+        "relaxed form",
+        "unhappy",
+        "a little fear",
+        "acquiesced to journey",
+        "affectionate playfellow in childhood",
+        "amiable companion",
+        "attached to the narrator from earliest infancy",
+        "beloved",
+        "beloved and only friend (to Justine)",
+        "candour",
+        "caught scarlet fever",
+        "celestial eyes"
+      ]
+    },
+    "elizabeth_lavenza": {
+      "character_id": "elizabeth_lavenza",
+      "physical_description": [
+        "fair skin"
+      ],
+      "source_descriptions": [
+        "beautiful and adored companion",
+        "daughter of a Milanese nobleman",
+        "described as 'more than sister'",
+        "fairer than a garden rose",
+        "inmate of narrator's parents' house",
+        "located in Geneva",
+        "mother was German and died in childbirth",
+        "placed with good people to nurse",
+        "signed letter 'Elizabeth Lavenza'",
+        "your cousin and playmate"
+      ]
+    },
+    "ernest": {
+      "character_id": "ernest",
+      "physical_description": [
+        "proportions: adolescent (approximately 16 years old)"
+      ],
+      "source_descriptions": [
+        "brother",
+        "yet lived",
+        "desirous to be a true Swiss",
+        "full of activity and spirit",
+        "looks upon study as an odious fetter",
+        "my brother",
+        "now sixteen"
+      ]
+    },
+    "fair_creature": {
+      "character_id": "fair_creature",
+      "physical_description": [
+        "fair complexion"
+      ],
+      "source_descriptions": [
+        "can traverse the sea of ice",
+        "committed crimes (some months earlier)",
+        "fair",
+        "has powers which would put all exertions to defiance",
+        "inhabit caves and dens where no man would venture to intrude"
+      ]
+    },
+    "felix": {
+      "character_id": "felix",
+      "physical_description": [
+        "flushed cheek",
+        "eyes sparkled"
+      ],
+      "source_descriptions": [
+        "always the saddest of the group",
+        "appeared to have suffered more deeply than his friends",
+        "appeared miserable",
+        "assisted in their labours by servants",
+        "associated with lessons",
+        "called Felix",
+        "cheek flushed with pleasure",
+        "child of De Lacey",
+        "contented and happy",
+        "countenance more sorrowful",
+        "deprived of his wealth and rank",
+        "did not appear rich",
+        "enraged",
+        "excellent",
+        "eyes sparkled",
+        "feelings serene and peaceful",
+        "had not quitted the cottage that morning",
+        "instructor of Safie",
+        "letters referenced",
+        "lively"
+      ]
+    },
+    "fishermen": {
+      "character_id": "fishermen",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "frankenstein": {
+      "character_id": "frankenstein",
+      "physical_description": [
+        "young man proportions",
+        "frail build",
+        "reduced physical strength",
+        "flushed cheeks",
+        "gaunt facial features",
+        "half-closed eyelids",
+        "bright eyes"
+      ],
+      "source_descriptions": [
+        "creator",
+        "a miserable wretch",
+        "a young man",
+        "affectionate and afflicted father",
+        "appeared hardly to have force",
+        "appeared hardly to have force enough to attend",
+        "aunt of Elizabeth",
+        "author at once of my existence and of its unspeakable torments",
+        "called your friend",
+        "cheeks flushed with momentary vigour",
+        "daily declined in health",
+        "desponding and sorrowful",
+        "dozing",
+        "elevated and gentle manners",
+        "enemy",
+        "exhausted",
+        "eye full of lofty design and heroism",
+        "eyes half closed",
+        "eyes sparkled",
+        "feverish fire in his eyes"
+      ]
+    },
+    "greeks": {
+      "character_id": "greeks",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "hampden": {
+      "character_id": "hampden",
+      "physical_description": [],
+      "source_descriptions": [
+        "illustrious",
+        "patriot"
+      ]
+    },
+    "henry": {
+      "character_id": "henry",
+      "physical_description": [
+        "eyes with dark orbs nearly covered by eyelids"
+      ],
+      "source_descriptions": [
+        "my only nurse",
+        "abhorred presence",
+        "affection",
+        "affectionate",
+        "animated glance",
+        "associated with a coffin",
+        "author of many letters",
+        "conversation full of imagination",
+        "conversation was full of imagination",
+        "dark orbs nearly covered by lids",
+        "dead",
+        "dear kind Henry",
+        "dearest",
+        "enjoyed a happiness seldom tasted by man",
+        "expressive eyes",
+        "felt as if he had been transported to Fairy-land",
+        "firm in hope of my recovery",
+        "form divinely wrought and beaming with beauty",
+        "friend",
+        "kind"
+      ]
+    },
+    "henry_clerval": {
+      "character_id": "henry_clerval",
+      "physical_description": [
+        "young male",
+        "youthful proportions",
+        "facial resemblance to narrator",
+        "healthy skin texture"
+      ],
+      "source_descriptions": [
+        "friend",
+        "murdered",
+        "alive to every new scene",
+        "benefactor",
+        "enjoying health and youth",
+        "friend of narrator",
+        "image of narrator's former self",
+        "a boy of singular talent and fancy",
+        "addressed as 'dearest Henry'",
+        "amiable companion",
+        "anxious to gain experience and instruction",
+        "arrived by Swiss diligence",
+        "Beloved friend",
+        "companion",
+        "dead",
+        "delight greater than narrator's",
+        "did not like Edinburgh as well as Oxford",
+        "eyes and feelings quick in discerning others' sensations",
+        "fallen a victim",
+        "favourite companion"
+      ]
+    },
+    "his_companion": {
+      "character_id": "his_companion",
+      "physical_description": [],
+      "source_descriptions": [
+        "companion"
+      ]
+    },
+    "i": {
+      "character_id": "i",
+      "physical_description": [
+        "eyeballs protruding from eye sockets",
+        "eyes exhibit unsteady movement"
+      ],
+      "source_descriptions": [
+        "eyeballs starting from their sockets",
+        "eyes swim",
+        "kept workshop in solitary chamber",
+        "limbs tremble",
+        "unfortunate king"
+      ]
+    },
+    "internal_revenue_service": {
+      "character_id": "internal_revenue_service",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "justine": {
+      "character_id": "justine",
+      "physical_description": [
+        "altered facial features"
+      ],
+      "source_descriptions": [
+        "poor",
+        "innocent",
+        "blood sealed barrier",
+        "poor sufferer",
+        "a wretch",
+        "audible although variable voice",
+        "beloved and only friend (to Elizabeth)",
+        "beloved by all the family",
+        "benevolent",
+        "condemned as a murderess",
+        "confident in innocence",
+        "countenance altered",
+        "dead (died two months earlier)",
+        "deceased",
+        "described as innocent",
+        "died",
+        "dressed in mourning",
+        "engaging countenance",
+        "executed",
+        "exquisitely beautiful"
+      ]
+    },
+    "justine_moritz": {
+      "character_id": "justine_moritz",
+      "physical_description": [
+        "small stature",
+        "child-sized proportions"
+      ],
+      "source_descriptions": [
+        "accused",
+        "almost adored her protectress",
+        "appeared to love the child",
+        "disposition was gay",
+        "favourite of her father",
+        "fond of all the family",
+        "innocent",
+        "miserable death",
+        "most grateful little creature",
+        "nursed a child from its birth",
+        "poor girl",
+        "received in our family",
+        "so amiable",
+        "third child",
+        "very ill",
+        "was believed guilty"
+      ]
+    },
+    "m_krempe": {
+      "character_id": "m_krempe",
+      "physical_description": [
+        "short stature",
+        "squat proportions",
+        "stocky build"
+      ],
+      "source_descriptions": [
+        "an uncouth man",
+        "deeply imbued in the secrets of his science",
+        "exhibited contempt",
+        "fellow professor",
+        "gruff voice",
+        "little squat man",
+        "not equally docile",
+        "professor",
+        "professor of natural philosophy",
+        "real information",
+        "repulsive countenance",
+        "repulsive physiognomy and manners",
+        "sound sense",
+        "was not equally docile"
+      ]
+    },
+    "m_moritz": {
+      "character_id": "m_moritz",
+      "physical_description": [],
+      "source_descriptions": [
+        "deceased",
+        "father of Justine"
+      ]
+    },
+    "m_waldman": {
+      "character_id": "m_waldman",
+      "physical_description": [
+        "approximately fifty years old",
+        "few grey hairs on temples",
+        "hairs at back of head nearly black",
+        "short stature",
+        "erect posture"
+      ],
+      "source_descriptions": [
+        "affability and kindness in his house",
+        "appeared about fifty years of age",
+        "aspect expressive of the greatest benevolence",
+        "attributed narrator's feelings to modesty",
+        "benevolent approbation",
+        "chemist",
+        "dignified mien during lecture",
+        "fellow professor",
+        "few grey hairs on his temples",
+        "gentleness not tinged by dogmatism",
+        "had been out of town",
+        "hairs at back of his head nearly black",
+        "instructions given with frankness and good nature",
+        "instructor",
+        "lecturer in chemistry",
+        "made chemistry his peculiar study",
+        "manners mild and attractive in private",
+        "person short but remarkably erect",
+        "praised the narrator's progress with kindness and warmth",
+        "statement delivered without presumption or affectation"
+      ]
+    },
+    "madame_moritz": {
+      "character_id": "madame_moritz",
+      "physical_description": [],
+      "source_descriptions": [
+        "at peace for ever",
+        "conscience was troubled",
+        "could not endure Justine",
+        "left childless (except her neglected daughter)",
+        "mother of four children",
+        "mother of Justine Moritz",
+        "Roman Catholic",
+        "very vacillating in her repentance",
+        "widow"
+      ]
+    },
+    "magistrate": {
+      "character_id": "magistrate",
+      "physical_description": [
+        "wrinkled facial skin"
+      ],
+      "source_descriptions": [
+        "appeared perfectly incredulous (at first)",
+        "calm and mild manners",
+        "intimidated",
+        "looked upon narrator with some degree of severity",
+        "more attentive and interested",
+        "old benevolent man"
+      ]
+    },
+    "manon": {
+      "character_id": "manon",
+      "physical_description": [],
+      "source_descriptions": [
+        "her ugly sister"
+      ]
+    },
+    "margaret": {
+      "character_id": "margaret",
+      "physical_description": [],
+      "source_descriptions": [
+        "dear",
+        "sister",
+        "addressee",
+        "dear sister",
+        "excellent",
+        "has a husband",
+        "has lovely children",
+        "named addressee in letter",
+        "recipient of letters"
+      ]
+    },
+    "menno_de_leeuw": {
+      "character_id": "menno_de_leeuw",
+      "physical_description": [],
+      "source_descriptions": [
+        "credited for further corrections"
+      ]
+    },
+    "monster": {
+      "character_id": "monster",
+      "physical_description": [],
+      "source_descriptions": [
+        "monster",
+        "referred to as monster"
+      ]
+    },
+    "mr_kirwin": {
+      "character_id": "mr_kirwin",
+      "physical_description": [
+        "old",
+        "countenance"
+      ],
+      "source_descriptions": [
+        "magistrate",
+        "spoke in a severe tone",
+        "troubled countenance",
+        "ardently desired to relieve sufferings but avoided murderer’s agonies",
+        "countenance expressed sympathy and compassion",
+        "gentleness",
+        "old",
+        "prepared the best room in the prison",
+        "provided a physician and a nurse",
+        "seldom came to see the narrator",
+        "showed extreme kindness",
+        "spoke French",
+        "understood narrator's native language"
+      ]
+    },
+    "my_creator": {
+      "character_id": "my_creator",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "my_father": {
+      "character_id": "my_father",
+      "physical_description": [
+        "wrinkled skin",
+        "gray or white hair",
+        "age-related facial features"
+      ],
+      "source_descriptions": [
+        "cheerful accent",
+        "concerned about correspondence",
+        "expression of goodness",
+        "father",
+        "old man",
+        "only name father"
+      ]
+    },
+    "old_man": {
+      "character_id": "old_man",
+      "physical_description": [
+        "old",
+        "silver hair"
+      ],
+      "source_descriptions": [
+        "benevolent countenance",
+        "disconsolate attitude",
+        "old",
+        "silver hair"
+      ]
+    },
+    "person": {
+      "character_id": "person",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "plutarch": {
+      "character_id": "plutarch",
+      "physical_description": [],
+      "source_descriptions": [
+        "author of Plutarch’s Lives"
+      ]
+    },
+    "poor_wretch": {
+      "character_id": "poor_wretch",
+      "physical_description": [],
+      "source_descriptions": [
+        "had never beheld aught beautiful before",
+        "whom I dreaded"
+      ]
+    },
+    "professor_krempe": {
+      "character_id": "professor_krempe",
+      "physical_description": [],
+      "source_descriptions": [
+        "Professor"
+      ]
+    },
+    "professor_michael_s_hart": {
+      "character_id": "professor_michael_s_hart",
+      "physical_description": [],
+      "source_descriptions": [
+        "originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared",
+        "produced and distributed Project Gutenberg™ eBooks for forty years with only a loose network of volunteer support"
+      ]
+    },
+    "project_gutenberg_volunteers_and_employees": {
+      "character_id": "project_gutenberg_volunteers_and_employees",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "r_walton": {
+      "character_id": "r_walton",
+      "physical_description": [],
+      "source_descriptions": [
+        "affectionate brother",
+        "had a vessel riding at anchor",
+        "has hope",
+        "has kind intentions towards a miserable wretch",
+        "has no cause for despair",
+        "has the world before him",
+        "impatient of difficulties",
+        "in continuation",
+        "more illiterate than many schoolboys of fifteen",
+        "self-educated",
+        "somewhat fastidious",
+        "too ardent in execution",
+        "tutored and refined by books and retirement from the world",
+        "twenty-eight"
+      ]
+    },
+    "robert_walton": {
+      "character_id": "robert_walton",
+      "physical_description": [],
+      "source_descriptions": [
+        "affectionate brother",
+        "in good spirits",
+        "well advanced on his voyage"
+      ]
+    },
+    "safie": {
+      "character_id": "safie",
+      "physical_description": [
+        "fair complexion",
+        "cheeks tinged with pink",
+        "dark eyes",
+        "raven-black braided hair",
+        "facial features of regular proportions"
+      ],
+      "source_descriptions": [
+        "Arabian",
+        "daughter of the Turk",
+        "unacquainted with the language of the country",
+        "utterly ignorant of the customs of the world",
+        "accustomed to grand ideas and a noble emulation for virtue",
+        "always gay and happy",
+        "angelic beauty and expression",
+        "arrived from Constantinople",
+        "cheeks tinged with a lovely pink",
+        "child of De Lacey",
+        "complexion wondrously fair",
+        "curiously braided hair",
+        "daughter",
+        "daughter of a Turkish merchant",
+        "eyes dark but gentle",
+        "features of a regular proportion",
+        "fell into good hands",
+        "generous",
+        "hair of a shining raven black",
+        "letters referenced"
+      ]
+    },
+    "some_one": {
+      "character_id": "some_one",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "sparrow": {
+      "character_id": "sparrow",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "the_being": {
+      "character_id": "the_being",
+      "physical_description": [
+        "irregular body proportions",
+        "asymmetrical facial features",
+        "misshapen limbs or body parts",
+        "uneven skin texture"
+      ],
+      "source_descriptions": [
+        "deformed and horrible",
+        "whom the narrator accuses"
+      ]
+    },
+    "the_family": {
+      "character_id": "the_family",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "the_fiend": {
+      "character_id": "the_fiend",
+      "physical_description": [
+        "gigantic body",
+        "massive proportions",
+        "deep facial wrinkles",
+        "contorted facial structure"
+      ],
+      "source_descriptions": [
+        "armed with a gun and many pistols",
+        "face wrinkled into horrible contortions",
+        "fiend",
+        "fiendish rage",
+        "gigantic monster",
+        "one day's journey in advance",
+        "terrific appearance"
+      ]
+    },
+    "the_foundation": {
+      "character_id": "the_foundation",
+      "physical_description": [],
+      "source_descriptions": [
+        "alias shown in parentheses",
+        "has a business office at 809 North 1500 West, Salt Lake City, UT 84116",
+        "mentioned as a party to be indemnified",
+        "named in parentheses as “the Foundation”"
+      ]
+    },
+    "the_girl": {
+      "character_id": "the_girl",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "the_murderer": {
+      "character_id": "the_murderer",
+      "physical_description": [],
+      "source_descriptions": [
+        "referred to as murderer"
+      ]
+    },
+    "the_old_man": {
+      "character_id": "the_old_man",
+      "physical_description": [
+        "eyes: blind",
+        "age: elderly",
+        "hair: silver"
+      ],
+      "source_descriptions": [
+        "blind",
+        "countenance beaming with benevolence and love",
+        "old",
+        "venerable companion",
+        "with silver hairs"
+      ]
+    },
+    "the_turk": {
+      "character_id": "the_turk",
+      "physical_description": [],
+      "source_descriptions": [
+        "father of Safie",
+        "traitor to good feeling and honour",
+        "treacherous",
+        "feared the resentment of Felix",
+        "loathed the idea that his daughter should be united to a Christian",
+        "merchant"
+      ]
+    },
+    "the_young_girl": {
+      "character_id": "the_young_girl",
+      "physical_description": [
+        "small body build",
+        "childlike proportions: relatively larger head-to-body ratio, shorter limbs",
+        "smooth skin texture",
+        "rounded facial structure",
+        "hair presence: not specified"
+      ],
+      "source_descriptions": [
+        "young"
+      ]
+    },
+    "the_young_man": {
+      "character_id": "the_young_man",
+      "physical_description": [
+        "male",
+        "young adult body proportions",
+        "facial structure of a young adult male"
+      ],
+      "source_descriptions": [
+        "young",
+        "young man"
+      ]
+    },
+    "the_young_woman": {
+      "character_id": "the_young_woman",
+      "physical_description": [
+        "female",
+        "young adult"
+      ],
+      "source_descriptions": [
+        "young",
+        "young woman"
+      ]
+    },
+    "the_younger_cottagers": {
+      "character_id": "the_younger_cottagers",
+      "physical_description": [
+        "multiple individuals",
+        "youthful body proportions"
+      ],
+      "source_descriptions": [
+        "amiable",
+        "younger",
+        "younger cottagers"
+      ]
+    },
+    "thrush": {
+      "character_id": "thrush",
+      "physical_description": [],
+      "source_descriptions": []
+    },
+    "victor": {
+      "character_id": "victor",
+      "physical_description": [],
+      "source_descriptions": [
+        "dear",
+        "addressed as 'dearest Victor'",
+        "addressed as 'my Victor' by his mother in a quoted line",
+        "addressed by Elizabeth as 'my dear Victor'",
+        "alive",
+        "assassin of those most innocent victims",
+        "attached to Elizabeth from earliest infancy",
+        "begun life with benevolent intentions",
+        "borne down by the cruellest misfortunes",
+        "bound by a solemn promise",
+        "calmer and more composed",
+        "contented and even cheerful countenance",
+        "cousin of Elizabeth Lavenza",
+        "dearest",
+        "flying to solitude from society",
+        "forbidden to write—to hold a pen",
+        "has a sickbed",
+        "has an expression of despair and sometimes of revenge in his countenance",
+        "has travelled",
+        "heart overflowed with kindness and the love of virtue"
+      ]
+    },
+    "william": {
+      "character_id": "william",
+      "physical_description": [
+        "rosy cheeks",
+        "curling hair",
+        "dark eyelashes",
+        "fair skin",
+        "child-sized proportions"
+      ],
+      "source_descriptions": [
+        "dead",
+        "murdered",
+        "poor",
+        "blood sealed barrier",
+        "deceased",
+        "assassinated",
+        "bright and joyous in his young beauty",
+        "cheeks rosy with health",
+        "curling hair",
+        "dark eyelashes",
+        "darling and our pride",
+        "dear angel",
+        "dear lovely child",
+        "dearest blessed child",
+        "fair child",
+        "first hapless victim to my unhallowed arts",
+        "gentle form",
+        "grave marked by a tomb",
+        "had been blooming and active in health",
+        "hapless victim to my unhallowed arts"
+      ]
+    },
+    "young_girl": {
+      "character_id": "young_girl",
+      "physical_description": [
+        "child-sized proportions"
+      ],
+      "source_descriptions": [
+        "amiable companion",
+        "gentle manners",
+        "young"
+      ]
+    },
+    "young_man": {
+      "character_id": "young_man",
+      "physical_description": [
+        "skin texture: smooth, few or no wrinkles or age lines",
+        "facial structure: features without visible age-related sagging",
+        "hair presence: normal hair coverage consistent with a young person"
+      ],
+      "source_descriptions": [
+        "young"
+      ]
+    },
+    "young_woman": {
+      "character_id": "young_woman",
+      "physical_description": [
+        "facial proportions associated with youth"
+      ],
+      "source_descriptions": [
+        "young"
+      ]
+    },
+    "youth": {
+      "character_id": "youth",
+      "physical_description": [
+        "slight body build",
+        "visible eyes",
+        "symmetrical facial features",
+        "youthful proportions"
+      ],
+      "source_descriptions": [
+        "slight and graceful",
+        "eyes and attitude expressed sadness and despondency",
+        "features moulded with the finest symmetry",
+        "youth"
+      ]
+    }
+  }
+}
